@@ -16,3 +16,14 @@ IoT and ML to assuage the uncertainty associated with bus commute. Allows commut
 ## Schedule Prediction Workflow
 
 ![schedule-prediction](/assets/images/model-flow.png)
+
+## Web Interface Pages
+
+- **Track live running status**
+  ![live-status](/assets/images/dumps/web-livestatus.png)
+  
+- **Schedule Prediction**
+  ![live-status](/assets/images/dumps/web-predict.png)
+
+- **Search for buses between stops**
+  ![search](/assets/images/dumps/web-search.png)
