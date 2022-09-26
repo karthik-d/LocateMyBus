@@ -1,0 +1,59 @@
+service_id,date,exception_type,holiday_name
+CR-Wdy-Fitchburg-Wtr-21,20210224,1,
+CR-Wdy-Fitchburg-Wtr-21,20210225,1,
+CR-Wdy-Fitchburg-Wtr-21,20210226,1,
+CR-Sa-Newburyport-Wtr-21-BVRRctWGR,20210306,2,
+CR-Su-Newburyport-Wtr-21-BVRRctWGR,20210307,2,
+LRV221-1-Wdy-01,20210319,1,
+RTL221-6-Wdy-01,20210319,2,
+RTL221-6-Wdy-01,20210326,2,
+RTL221-6-Wdy-01,20210402,2,
+RTL221-6-Wdy-01,20210409,2,
+LRV221-1-Wdy-01,20210419,2,Patriots' Day
+LRV221-6-Wdy-01,20210419,2,Patriots' Day
+PRIV221-1-Wdy-01,20210419,2,Patriots' Day
+PRIV221-2-Sa-01,20210419,1,Patriots' Day
+PRIV221-3-Wdy-01,20210419,2,Patriots' Day
+PRIV221-4-Sa-01,20210419,1,Patriots' Day
+PRIV221-6-Wdy-01,20210419,2,Patriots' Day
+PRIV221-7-Sa-01,20210419,1,Patriots' Day
+PatriotsDay,20210419,1,Patriots' Day
+RTL221-1-Wdy-01,20210419,2,Patriots' Day
+RTL221-6-Wdy-01,20210419,2,Patriots' Day
+RTL221-B-Wdy-01,20210419,2,Patriots' Day
+SpringWeekday,20210419,2,Patriots' Day
+SpringWeekday,20210420,2,
+SpringWeekday,20210421,2,
+SpringWeekday,20210422,2,
+SpringWeekday,20210423,2,
+Boat-F1-Wdy-Wtr-21,20210531,2,Memorial Day
+CR-Su-Fairmount-Wtr-21,20210531,1,Memorial Day
+CR-Su-Middleborough-Wtr-21,20210531,1,Memorial Day
+CR-Su-Newburyport-Wtr-21-BVRRctWGR,20210531,1,Memorial Day
+CR-Su-Providence-Wtr-21,20210531,1,Memorial Day
+CR-Su-Worcester-Wtr-21,20210531,1,Memorial Day
+CR-Wdy-Fairmount-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Fitchburg-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Franklin-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Greenbush-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Haverhill-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Kingston-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Lowell-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Middleborough-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Needham-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Newburyport-Wtr-21,20210531,2,Memorial Day
+CR-Wdy-Providence-Wtr-21-SthAtr,20210531,2,Memorial Day
+CR-Wdy-Worcester-Wtr-21,20210531,2,Memorial Day
+LRV221-1-Wdy-01,20210531,2,Memorial Day
+LRV221-6-Wdy-01,20210531,2,Memorial Day
+MemorialDay,20210531,1,Memorial Day
+PRIV221-1-Wdy-01,20210531,2,Memorial Day
+PRIV221-3-Wdy-01,20210531,2,Memorial Day
+PRIV221-5-Su-01,20210531,1,Memorial Day
+PRIV221-6-Wdy-01,20210531,2,Memorial Day
+PRIV221-8-Su-01,20210531,1,Memorial Day
+RTL221-1-Wdy-01,20210531,2,Memorial Day
+RTL221-6-Wdy-01,20210531,2,Memorial Day
+RTL221-B-Wdy-01,20210531,2,Memorial Day
+SpringWeekday,20210531,2,Memorial Day
+CapeFlyer-Snd,20210613,1,

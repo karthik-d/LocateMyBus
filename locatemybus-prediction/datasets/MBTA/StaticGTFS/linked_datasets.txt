@@ -1,0 +1,4 @@
+url,trip_updates,vehicle_positions,service_alerts,authentication_type
+https://cdn.mbta.com/realtime/TripUpdates.pb,1,0,0,0
+https://cdn.mbta.com/realtime/VehiclePositions.pb,0,1,0,0
+https://cdn.mbta.com/realtime/Alerts.pb,0,0,1,0

@@ -1,0 +1,29 @@
+property_id,definition,possible_values
+address,Facility address,Text
+alternate-service-text,Intended for internal use only; gives information on alternate service if facility is out of service,Text
+attended,Indicates that the facility is regularly staffed,"1 for true, 2 for false, or 0 for no information"
+capacity,"Number of objects, such as automobiles, automobile chargers, or bicycles, permitted inside the facility",Integer
+capacity-accessible,"Capacity inside the facility which is accessible; for example, this is used for 'parking-area' spaces reserved for drivers with disabled placards",Integer
+car-sharing,"Name of a carsharing service for which vehicles are available at the associated station or parking area; a single facility may have multiple instances of this property, each with a different carsharing service",Text
+contact,Entity which is responsible for customer relations at a facility and can be contacted through the 'contact-phone' or 'contact-url' fields,Text
+contact-phone,Contact phone number from which more information about the facility can be obtained,Text
+contact-url,Contact website URL from which more information about the facility can be obtained,Text
+direction,Utilized for escalators to define whether it is used for upward or downward travel,'up' or 'down'
+dispenses,"Objects, such as fare media cards, which are distributed at the facility",Text
+enclosed,"Indicates if the facility is covered and protected from the elements; for example, used for 'parking-area' to indicate parking garages, and for 'bike-storage' to indicate an enclosed bicycle cage","1 for true, 2 for false, or 0 for no information"
+excludes-stop,"Specifies a specific, non-parent stop that the facility does not service; used only if the facility does not serve all possible child stops within the stop specified in the 'stop_id' field in facilities.txt; a single facility may have multiple instances of this property, each with a different excluded stop",Single 'stop_id' corresponding to an entry in stops.txt
+fee-daily,"Per day fee for usage of the facility, typically a 'parking-area'",Text
+fee-monthly,"Per month fee for usage of the facility, typically a 'parking-area'",Text
+municipality,City or town in which the facility is located,Text
+note,Additional notes or information,Text
+operator,"Operator of the facility, if not the MBTA directly",Text
+overnight-parking,"Indicates when a parking area permits overnight parking","yes if always permitted, no if never permitted, yes-except-snow if typically permitted but banned during snow emergencies, yes-snow-unknown if typically permitted but no information is available as to whether it is banned during snow emergencies"
+owner,Owner of the facility,Text
+payment-app,Name of mobile application available to pay for facility usage,Text
+payment-app-id,"Mobile application payment zone or ID associated with a facility, such as a 'parking-area'",Text
+payment-app-url,"Mobile application URL to make a payment required for use of a facility, such as a 'parking-area'",Text
+payment-form-accepted,"Inclusion of a value indicates that the respective form of payment is accepted for usage of the facility; a single facility may have multiple instances of this property, each with a different payment form","'cash', 'check', 'coin', 'credit-debit-card', 'e-zpass', 'invoice', 'mobile-app', or 'smartcard'"
+secured,"Indicates if the facility requires special access for security; for example, used for 'bike-storage' to indicate an bicycle cage which requires advance registration and use of a special access card, and for 'elevator' to indicate that its usage requires the assistance of an employee","1 for true, 2 for false, or 0 for no information"
+weekday-arrive-before,Typical morning time at which a 'parking-area' or 'bike-storage' facility fills to capacity on weekdays,Timestamp in the format required in stop_times.txt
+weekday-typical-utilization,"Typical number of capacity units that a 'parking-area' or 'bike-storage' facility fills to on weekdays; for example, 100 at a parking garage indicates that 100 parking spaces are typically filled",Integer
+weekday-utilization-summary,Descriptive information about the typical utilization of a facility on weekdays; may refer user to 'weekday-arrive-before' or 'weekday-typical-utilization' fields,Text

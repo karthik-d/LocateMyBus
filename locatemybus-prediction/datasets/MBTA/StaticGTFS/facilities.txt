@@ -1,0 +1,1681 @@
+facility_id,facility_code,facility_class,facility_type,stop_id,facility_short_name,facility_long_name,facility_desc,facility_lat,facility_lon,wheelchair_facility
+102,102,1,escalator,place-ogmnl,Washington Street to unpaid lobby,Oak Grove Escalator 102 (Washington Street to unpaid lobby),,,,2
+103,103,1,escalator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Escalator 103 (Orange Line platform to paid lobby),,,,2
+104,104,1,escalator,place-ogmnl,"Parking, busway to unpaid lobby","Oak Grove Escalator 104 (Parking, busway to unpaid lobby)",,,,2
+105,105,1,escalator,place-ogmnl,Commuter Rail platform to unpaid lobby,Oak Grove Escalator 105 (Commuter Rail platform to unpaid lobby),,,,2
+112,112,1,escalator,place-dwnxg,Ashmont/Braintree platform to Chauncy Street,Downtown Crossing Escalator 112 (Ashmont/Braintree platform to Chauncy Street),,,,2
+113,113,1,escalator,place-dwnxg,Alewife platform to Hawley Street,Downtown Crossing Escalator 113 (Alewife platform to Hawley Street),,,,2
+123,123,1,escalator,place-andrw,Ashmont/Braintree platform to busway,Andrew Escalator 123 (Ashmont/Braintree platform to busway),,,,2
+124,124,1,escalator,place-andrw,Ashmont/Braintree platform to busway,Andrew Escalator 124 (Ashmont/Braintree platform to busway),,,,2
+125,125,1,escalator,place-bomnl,Lobby to street,Bowdoin Escalator 125 (Lobby to street),,,,2
+127,127,1,escalator,place-forhl,Lower busway north to upper lobby,Forest Hills Escalator 127 (Lower busway north to upper lobby),,,,2
+128,128,1,escalator,place-forhl,Lower busway south to upper lobby,Forest Hills Escalator 128 (Lower busway south to upper lobby),,,,2
+129,129,1,escalator,place-forhl,Orange Line platform to upper lobby,Forest Hills Escalator 129 (Orange Line platform to upper lobby),,,,2
+130,130,1,escalator,place-forhl,Orange Line platform to upper lobby,Forest Hills Escalator 130 (Orange Line platform to upper lobby),,,,2
+131,131,1,escalator,place-grnst,Platform to paid lobby,Green Street Escalator 131 (Platform to paid lobby),,,,2
+132,132,1,escalator,place-sbmnl,Platform to paid lobby,Stony Brook Escalator 132 (Platform to paid lobby),,,,2
+133,133,1,escalator,place-jaksn,Platform to paid lobby,Jackson Square Escalator 133 (Platform to paid lobby),,,,2
+134,134,1,escalator,place-rcmnl,Platform to paid lobby,Roxbury Crossing Escalator 134 (Platform to paid lobby),,,,2
+135,135,1,escalator,place-rugg,Lower busway to upper lobby,Ruggles Escalator 135 (Lower busway to upper lobby),,,,2
+136,136,1,escalator,place-rugg,Orange Line platform to upper lobby,Ruggles Escalator 136 (Orange Line platform to upper lobby),,,,2
+137,137,1,escalator,place-rugg,Orange Line platform to upper lobby,Ruggles Escalator 137 (Orange Line platform to upper lobby),,,,2
+138,138,1,escalator,place-rugg,Forsyth Street to upper lobby,Ruggles Escalator 138 (Forsyth Street to upper lobby),,,,2
+139,139,1,escalator,place-masta,Platform to paid lobby,Massachusetts Avenue Escalator 139 (Platform to paid lobby),,,,2
+140,140,1,escalator,place-bbsta,Orange Line platform to lobby,Back Bay Escalator 140 (Orange Line platform to lobby),,,,2
+141,141,1,escalator,place-bbsta,Orange Line platform to lobby,Back Bay Escalator 141 (Orange Line platform to lobby),,,,2
+142,142,1,escalator,place-bbsta,Commuter Rail tracks 1 and 3 to lobby,Back Bay Escalator 142 (Commuter Rail tracks 1 and 3 to lobby),,,,2
+143,143,1,escalator,place-bbsta,Lobby to Commuter Rail tracks 1 and 3,Back Bay Escalator 143 (Lobby to Commuter Rail tracks 1 and 3),,,,2
+144,144,1,escalator,place-bbsta,Commuter Rail track 2 to lobby,Back Bay Escalator 144 (Commuter Rail track 2 to lobby),,,,2
+145,145,1,escalator,place-tumnl,Lobby to Washington Street,Tufts Medical Center Escalator 145 (Lobby to Washington Street),,,,2
+146,146,1,escalator,place-tumnl,Oak Grove platform to Washington Street lobby,Tufts Medical Center Escalator 146 (Oak Grove platform to Washington Street lobby),,,,2
+147,147,1,escalator,place-tumnl,Forest Hills platform to Washington Street lobby,Tufts Medical Center Escalator 147 (Forest Hills platform to Washington Street lobby),,,,2
+148,148,1,escalator,place-tumnl,Oak Grove platform to Tremont Street lobby,Tufts Medical Center Escalator 148 (Oak Grove platform to Tremont Street lobby),,,,2
+149,149,1,escalator,place-tumnl,Forest Hills platform to Tremont Street lobby,Tufts Medical Center Escalator 149 (Forest Hills platform to Tremont Street lobby),,,,2
+150,150,1,escalator,place-prmnl,Prudential Center to lobby,Prudential Escalator 150 (Prudential Center to lobby),,,,2
+151,151,1,escalator,place-prmnl,Lobby to Prudential Center,Prudential Escalator 151 (Lobby to Prudential Center),,,,2
+152,152,1,escalator,place-prmnl,Heath Street platform to lobby,Prudential Escalator 152 (Heath Street platform to lobby),,,,2
+301,301,1,escalator,place-andrw,Alewife platform to lobby,Andrew Escalator 301 (Alewife platform to lobby),,,,2
+302,302,1,escalator,place-north,"Forest Hills, Copley & West platform to Valenti Way lobby","North Station Escalator 302 (Forest Hills, Copley & West platform to Valenti Way lobby)",,,,2
+303,303,1,escalator,place-north,"Valenti Way lobby to Forest Hills, Copley & West platform","North Station Escalator 303 (Valenti Way lobby to Forest Hills, Copley & West platform)",,,,2
+304,304,1,escalator,place-north,Oak Grove platform to Valenti Way lobby,North Station Escalator 304 (Oak Grove platform to Valenti Way lobby),,,,2
+305,305,1,escalator,place-ccmnl,Platform to paid lobby,Community College Escalator 305 (Platform to paid lobby),,,,2
+307,307,1,escalator,place-sull,Forest Hills platform to paid lobby,Sullivan Square Escalator 307 (Forest Hills platform to paid lobby),,,,2
+308,308,1,escalator,place-sull,Oak Grove platform to paid lobby,Sullivan Square Escalator 308 (Oak Grove platform to paid lobby),,,,2
+309,309,1,escalator,place-welln,Forest Hills platform to paid lobby,Wellington Escalator 309 (Forest Hills platform to paid lobby),,,,2
+310,310,1,escalator,place-welln,Oak Grove platform to paid lobby,Wellington Escalator 310 (Oak Grove platform to paid lobby),,,,2
+311,311,1,escalator,place-mlmnl,Paid lobby to Orange Line platform,Malden Center Escalator 311 (Paid lobby to Orange Line platform),,,,2
+312,312,1,escalator,place-mlmnl,Street level to Commuter Rail platform,Malden Center Escalator 312 (Street level to Commuter Rail platform),,,,2
+313,313,1,escalator,place-haecl,"Green Line lobby to busway, Sudbury Street, New Chardon Street","Haymarket Escalator 313 (Green Line lobby to busway, Sudbury Street, New Chardon Street)",,,,2
+315,315,1,escalator,place-hymnl,Kenmore & West platform to paid lobby,Hynes Convention Center Escalator 315 (Kenmore & West platform to paid lobby),,,,2
+320,320,1,escalator,place-pktrm,Government Center & North platform to Park Street,Park Street Escalator 320 (Government Center & North platform to Park Street),,,,2
+322,322,1,escalator,place-jfk,Ashmont platform to Columbia Road,JFK/UMass Escalator 322 (Ashmont platform to Columbia Road),,,,2
+325,325,1,escalator,place-nqncy,Platform to Squantum Street paid lobby,North Quincy Escalator 325 (Platform to Squantum Street paid lobby),,,,2
+326,326,1,escalator,place-nqncy,Platform to northern paid lobby,North Quincy Escalator 326 (Platform to northern paid lobby),,,,2
+327,327,1,escalator,place-nqncy,Hancock Street parking to unpaid lobby,North Quincy Escalator 327 (Hancock Street parking to unpaid lobby),,,,2
+329,329,1,escalator,place-wlsta,Paid lobby to platform,Wollaston Escalator 329 (Paid lobby to platform),,,,2
+330,330,1,escalator,place-qnctr,Red Line platform to lobby,Quincy Center Escalator 330 (Red Line platform to lobby),,,,2
+331,331,1,escalator,place-dwnxg,Ashmont/Braintree platform to Oak Grove platform,Downtown Crossing Escalator 331 (Ashmont/Braintree platform to Oak Grove platform),,,,2
+332,332,1,escalator,place-dwnxg,Alewife platform to Oak Grove platform,Downtown Crossing Escalator 332 (Alewife platform to Oak Grove platform),,,,2
+333,333,1,escalator,place-brntn,"Busway to Commuter Rail platform, parking garage","Braintree Escalator 333 (Busway to Commuter Rail platform, parking garage)",,,,2
+334,334,1,escalator,place-brntn,Red Line platform to paid lobby,Braintree Escalator 334 (Red Line platform to paid lobby),,,,2
+335,335,1,escalator,place-brntn,Paid lobby to Red Line platform,Braintree Escalator 335 (Paid lobby to Red Line platform),,,,2
+336,336,1,escalator,place-davis,College Avenue landing to street,Davis Escalator 336 (College Avenue landing to street),,,,2
+337,337,1,escalator,place-davis,College Avenue street to landing,Davis Escalator 337 (College Avenue street to landing),,,,2
+338,338,1,escalator,place-davis,Unpaid lobby to College Avenue landing,Davis Escalator 338 (Unpaid lobby to College Avenue landing),,,,2
+339,339,1,escalator,place-davis,College Avenue landing to unpaid lobby,Davis Escalator 339 (College Avenue landing to unpaid lobby),,,,2
+340,340,1,escalator,place-davis,Red Line platform to paid lobby,Davis Escalator 340 (Red Line platform to paid lobby),,,,2
+341,341,1,escalator,place-davis,Red Line platform to paid lobby,Davis Escalator 341 (Red Line platform to paid lobby),,,,2
+342,342,1,escalator,place-davis,Holland Street to unpaid lobby,Davis Escalator 342 (Holland Street to unpaid lobby),,,,2
+343,343,1,escalator,place-davis,Unpaid lobby to Holland Street,Davis Escalator 343 (Unpaid lobby to Holland Street),,,,2
+344,344,1,escalator,place-qamnl,Platform to paid lobby,Quincy Adams Escalator 344 (Platform to paid lobby),,,,2
+345,345,1,escalator,place-qamnl,Paid lobby to platform,Quincy Adams Escalator 345 (Paid lobby to platform),,,,2
+346,346,1,escalator,place-qamnl,Unpaid lobby to garage level 2,Quincy Adams Escalator 346 (Unpaid lobby to garage level 2),,,,2
+347,347,1,escalator,place-qamnl,Garage level 2 to level 4,Quincy Adams Escalator 347 (Garage level 2 to level 4),,,,2
+348,348,1,escalator,place-qamnl,Garage level 4 to level 2,Quincy Adams Escalator 348 (Garage level 4 to level 2),,,,2
+349,349,1,escalator,place-alfcl,Platform to Russell Field,Alewife Escalator 349 (Platform to Russell Field),,,,2
+350,350,1,escalator,place-alfcl,Russell Field to platform,Alewife Escalator 350 (Russell Field to platform),,,,2
+351,351,1,escalator,place-alfcl,Main concourse to platform,Alewife Escalator 351 (Main concourse to platform),,,,2
+352,352,1,escalator,place-alfcl,Platform to main concourse,Alewife Escalator 352 (Platform to main concourse),,,,2
+353,353,1,escalator,place-alfcl,Main concourse to busway,Alewife Escalator 353 (Main concourse to busway),,,,2
+354,354,1,escalator,place-alfcl,Main concourse to garage level 2,Alewife Escalator 354 (Main concourse to garage level 2),,,,2
+355,355,1,escalator,place-alfcl,Garage level 2 to level 3,Alewife Escalator 355 (Garage level 2 to level 3),,,,2
+356,356,1,escalator,place-alfcl,Garage level 2 to level 4,Alewife Escalator 356 (Garage level 2 to level 4),,,,2
+357,357,1,escalator,place-alfcl,Garage level 2 to level 5,Alewife Escalator 357 (Garage level 2 to level 5),,,,2
+359,359,1,escalator,place-cntsq,Ashmont/Braintree platform to street,Central Escalator 359 (Ashmont/Braintree platform to street),,,,2
+360,360,1,escalator,place-cntsq,Alewife platform to street,Central Escalator 360 (Alewife platform to street),,,,2
+361,361,1,escalator,place-knncl,Ashmont/Braintree platform to street,Kendall/MIT Escalator 361 (Ashmont/Braintree platform to street),,,,2
+362,362,1,escalator,place-knncl,Alewife platform to street,Kendall/MIT Escalator 362 (Alewife platform to street),,,,2
+364,364,1,escalator,place-dwnxg,Oak Grove platform to Franklin Street,Downtown Crossing Escalator 364 (Oak Grove platform to Franklin Street),,,,2
+365,365,1,escalator,place-dwnxg,"Forest Hills platform to Washington Street, Winter Street","Downtown Crossing Escalator 365 (Forest Hills platform to Washington Street, Winter Street)",,,,2
+366,366,1,escalator,place-chncl,Forest Hills platform to Washington Street,Chinatown Escalator 366 (Forest Hills platform to Washington Street),,,,2
+367,367,1,escalator,place-brdwy,Platform to paid lobby,Broadway Escalator 367 (Platform to paid lobby),,,,2
+372,372,1,escalator,place-brdwy,Unpaid lobby to street,Broadway Escalator 372 (Unpaid lobby to street),,,,2
+373,373,1,escalator,place-pktrm,Alewife platform to Tremont Street,Park Street Escalator 373 (Alewife platform to Tremont Street),,,,2
+374,374,1,escalator,place-state,Oak Grove platform to City Hall Plaza,State Escalator 374 (Oak Grove platform to City Hall Plaza),,,,2
+375,375,1,escalator,place-pktrm,Ashmont/Braintree platform to Tremont Street,Park Street Escalator 375 (Ashmont/Braintree platform to Tremont Street),,,,2
+377,377,1,escalator,place-chncl,Oak Grove platform to Washington Street,Chinatown Escalator 377 (Oak Grove platform to Washington Street),,,,2
+378,378,1,escalator,place-bmmnl,Paid lobby to Bowdoin platform,Beachmont Escalator 378 (Paid lobby to Bowdoin platform),,,,2
+379,379,1,escalator,place-bmmnl,Wonderland platform to paid lobby,Beachmont Escalator 379 (Wonderland platform to paid lobby),,,,2
+380,380,1,escalator,place-wimnl,Wonderland platform to pedestrian bridge,Wood Island Escalator 380 (Wonderland platform to pedestrian bridge),,,,2
+382,382,1,escalator,place-sstat,Alewife platform to lobby,South Station Escalator 382 (Alewife platform to lobby),,,,2
+383,383,1,escalator,place-nqncy,Newport Avenue parking to lobby,North Quincy Escalator 383 (Newport Avenue parking to lobby),,,,2
+384,384,1,escalator,place-north,Valenti Way lobby to street,North Station Escalator 384 (Valenti Way lobby to street),,,,2
+385,385,1,escalator,place-north,"Valenti Way to Orange Line, Green Line lobby","North Station Escalator 385 (Valenti Way to Orange Line, Green Line lobby)",,,,2
+386,386,1,escalator,place-sstat,1 Financial Center to lobby,South Station Escalator 386 (1 Financial Center to lobby),,,,2
+387,387,1,escalator,place-sstat,Lobby to 1 Financial Center,South Station Escalator 387 (Lobby to 1 Financial Center),,,,2
+388,388,1,escalator,place-sstat,Lobby to CSA area,South Station Escalator 388 (Lobby to CSA area),,,,2
+389,389,1,escalator,place-sstat,Ashmont/Braintree platform to CSA area,South Station Escalator 389 (Ashmont/Braintree platform to CSA area),,,,2
+390,390,1,escalator,place-sstat,Ashmont/Braintree platform to Airport/Design Center platform,South Station Escalator 390 (Ashmont/Braintree platform to Airport/Design Center platform),,,,2
+391,391,1,escalator,place-north,"Causeway Street lobby to Forest Hills, Copley & West platform","North Station Escalator 391 (Causeway Street lobby to Forest Hills, Copley & West platform)",,,,2
+392,392,1,escalator,place-north,"Forest Hills, Copley & West platform to Causeway Street lobby","North Station Escalator 392 (Forest Hills, Copley & West platform to Causeway Street lobby)",,,,2
+393,393,1,escalator,place-north,Oak Grove platform to Causeway Street lobby,North Station Escalator 393 (Oak Grove platform to Causeway Street lobby),,,,2
+394,394,1,escalator,place-aqucl,Wonderland platform to State Street lobby,Aquarium Escalator 394 (Wonderland platform to State Street lobby),,,,2
+395,395,1,escalator,place-aqucl,Bowdoin platform to State Street lobby,Aquarium Escalator 395 (Bowdoin platform to State Street lobby),,,,2
+396,396,1,escalator,place-aqucl,State Street lobby to first landing,Aquarium Escalator 396 (State Street lobby to first landing),,,,2
+397,397,1,escalator,place-aqucl,First landing to State Street,Aquarium Escalator 397 (First landing to State Street),,,,2
+398,398,1,escalator,place-sstat,Alewife platform to Airport/Design Center platform,South Station Escalator 398 (Alewife platform to Airport/Design Center platform),,,,2
+399,399,1,escalator,place-sstat,South Station platform to lobby,South Station Escalator 399 (South Station platform to lobby),,,,2
+400,400,1,escalator,place-sstat,Ashmont/Braintree platform to South Station platform,South Station Escalator 400 (Ashmont/Braintree platform to South Station platform),,,,2
+401,401,1,escalator,place-wtcst,World Trade Center Avenue mezzanine to street,World Trade Center Escalator 401 (World Trade Center Avenue mezzanine to street),,,,2
+402,402,1,escalator,place-wtcst,Lobby to World Trade Center Avenue mezzanine,World Trade Center Escalator 402 (Lobby to World Trade Center Avenue mezzanine),,,,2
+403,403,1,escalator,place-wtcst,South Station platform to lobby,World Trade Center Escalator 403 (South Station platform to lobby),,,,2
+404,404,1,escalator,place-wtcst,Airport/Design Center platform to lobby,World Trade Center Escalator 404 (Airport/Design Center platform to lobby),,,,2
+405,405,1,escalator,place-aqucl,Unpaid lobby to Atlantic Avenue,Aquarium Escalator 405 (Unpaid lobby to Atlantic Avenue),,,,2
+406,406,1,escalator,place-aqucl,Atlantic Avenue to unpaid lobby,Aquarium Escalator 406 (Atlantic Avenue to unpaid lobby),,,,2
+407,407,1,escalator,place-aport,Paid mezzanine to Wonderland platform,Airport Escalator 407 (Paid mezzanine to Wonderland platform),,,,2
+408,408,1,escalator,place-aport,Wonderland platform to paid mezzanine,Airport Escalator 408 (Wonderland platform to paid mezzanine),,,,2
+409,409,1,escalator,place-aport,Bowdoin platform to paid mezzanine,Airport Escalator 409 (Bowdoin platform to paid mezzanine),,,,2
+410,410,1,escalator,place-aport,Paid mezzanine to Bowdoin platform,Airport Escalator 410 (Paid mezzanine to Bowdoin platform),,,,2
+411,411,1,escalator,place-sstat,Airport/Design Center platform to lobby,South Station Escalator 411 (Airport/Design Center platform to lobby),,,,2
+412,412,1,escalator,place-crtst,Lobby to mezzanine,Courthouse Escalator 412 (Lobby to mezzanine),,,,2
+413,413,1,escalator,place-crtst,"Mezzanine to Seaport Boulevard, Thomson Place","Courthouse Escalator 413 (Mezzanine to Seaport Boulevard, Thomson Place)",,,,2
+414,414,1,escalator,place-crtst,South Station platform to lobby,Courthouse Escalator 414 (South Station platform to lobby),,,,2
+415,415,1,escalator,place-crtst,Airport/Design Center platform to lobby,Courthouse Escalator 415 (Airport/Design Center platform to lobby),,,,2
+416,416,1,escalator,place-crtst,South Station platform to south lobby,Courthouse Escalator 416 (South Station platform to south lobby),,,,2
+417,417,1,escalator,place-crtst,Airport/Design Center platform to south lobby,Courthouse Escalator 417 (Airport/Design Center platform to south lobby),,,,2
+418,418,1,escalator,place-crtst,"Lobby to Seaport Boulevard, Fan Pier Boulevard","Courthouse Escalator 418 (Lobby to Seaport Boulevard, Fan Pier Boulevard)",,,,2
+419,419,1,escalator,place-sstat,Lobby to South Station platform,South Station Escalator 419 (Lobby to South Station platform),,,,2
+420,420,1,escalator,place-sstat,Alewife platform to South Station platform,South Station Escalator 420 (Alewife platform to South Station platform),,,,2
+423,423,1,escalator,place-shmnl,Platform to paid lobby,Savin Hill Escalator 423 (Platform to paid lobby),,,,2
+424,424,1,escalator,place-sstat,Lobby to Dewey Square,South Station Escalator 424 (Lobby to Dewey Square),,,,2
+425,425,1,escalator,place-chmnl,Lobby to Ashmont/Braintree platform,Charles/MGH Escalator 425 (Lobby to Ashmont/Braintree platform),,,,2
+426,426,1,escalator,place-chmnl,Lobby to Alewife platform,Charles/MGH Escalator 426 (Lobby to Alewife platform),,,,2
+427,427,1,escalator,place-fldcr,Paid lobby to Alewife platform,Fields Corner Escalator 427 (Paid lobby to Alewife platform),,,,2
+428,428,1,escalator,place-mvbcl,Unpaid lobby to Lewis Mall,Maverick Escalator 428 (Unpaid lobby to Lewis Mall),,,,2
+429,429,1,escalator,place-mvbcl,Lewis Mall to unpaid lobby,Maverick Escalator 429 (Lewis Mall to unpaid lobby),,,,2
+430,430,1,escalator,place-kencl,"Lobby to busway, street","Kenmore Escalator 430 (Lobby to busway, street)",,,,2
+431,431,1,escalator,place-kencl,Westbound platform to lobby,Kenmore Escalator 431 (Westbound platform to lobby),,,,2
+432,432,1,escalator,place-kencl,Park Street & North platform to lobby,Kenmore Escalator 432 (Park Street & North platform to lobby),,,,2
+433,433,1,escalator,place-mvbcl,Unpaid lobby to Maverick Square,Maverick Escalator 433 (Unpaid lobby to Maverick Square),,,,2
+434,434,1,escalator,place-mvbcl,Maverick Square to unpaid lobby,Maverick Escalator 434 (Maverick Square to unpaid lobby),,,,2
+435,435,1,escalator,place-armnl,Park Street & North platform to paid lobby,Arlington Escalator 435 (Park Street & North platform to paid lobby),,,,2
+436,436,1,escalator,place-armnl,Copley & West platform to paid lobby,Arlington Escalator 436 (Copley & West platform to paid lobby),,,,2
+437,437,1,escalator,place-asmnl,"Ashmont platform to Peabody Square, busway","Ashmont Escalator 437 (Ashmont platform to Peabody Square, busway)",,,,2
+438,438,1,escalator,place-asmnl,"Ashmont platform to Mattapan Line, busway","Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway)",,,,2
+439,439,1,escalator,place-coecl,"Kenmore & West, Heath Street lobby to street","Copley Escalator 439 (Kenmore & West, Heath Street lobby to street)",,,,2
+440,440,1,escalator,place-orhte,Bowdoin platform to pedestrian bridge,Orient Heights Escalator 440 (Bowdoin platform to pedestrian bridge),,,,2
+441,441,1,escalator,place-orhte,Wonderland platform to pedestrian bridge,Orient Heights Escalator 441 (Wonderland platform to pedestrian bridge),,,,2
+442,442,1,escalator,place-astao,Foley Street to unpaid lobby,Assembly Escalator 442 (Foley Street to unpaid lobby),,,,2
+443,443,1,escalator,place-astao,Platform to Foley Street paid lobby,Assembly Escalator 443 (Platform to Foley Street paid lobby),,,,2
+444,444,1,escalator,place-gover,North Station & North platform to street,Government Center Escalator 444 (North Station & North platform to street),,,,2
+445,445,1,escalator,place-gover,"Copley & West, Blue Line platforms to street","Government Center Escalator 445 (Copley & West, Blue Line platforms to street)",,,,2
+446,446,1,escalator,place-gover,Blue Line platform to Green Line platform,Government Center Escalator 446 (Blue Line platform to Green Line platform),,,,2
+447,447,1,escalator,place-north,"Passageway to Commuter Rail, TD Garden","North Station Escalator 447 (Passageway to Commuter Rail, TD Garden)",,,,2
+448,448,1,escalator,place-wlsta,Paid lobby to pedestrian bridge,Wollaston Escalator 448 (Paid lobby to pedestrian bridge),,,,2
+449,449,1,escalator,place-wlsta,Platform to pedestrian bridge,Wollaston Escalator 449 (Platform to pedestrian bridge),,,,2
+50,50,1,elevator,place-WML-0214,Outbound platform to pedestrian bridge,Framingham Elevator 50 (Outbound platform to pedestrian bridge),,,,1
+501,501,1,escalator,place-state,Oak Grove platform to Wonderland platform,State Escalator 501 (Oak Grove platform to Wonderland platform),,,,2
+502,502,1,escalator,place-state,Wonderland platform to Old State House,State Escalator 502 (Wonderland platform to Old State House),,,,2
+503,503,1,escalator,place-prmnl,Lobby to Huntington Avenue,Prudential Escalator 503 (Lobby to Huntington Avenue),,,,2
+504,504,1,escalator,place-portr,Street to unpaid lobby,Porter Escalator 504 (Street to unpaid lobby),,,,2
+505,505,1,escalator,place-portr,Unpaid lobby to street,Porter Escalator 505 (Unpaid lobby to street),,,,2
+506,506,1,escalator,place-portr,Alewife platform south to Ashmont/Braintree platform,Porter Escalator 506 (Alewife platform south to Ashmont/Braintree platform),,,,2
+507,507,1,escalator,place-portr,Alewife platform north to Ashmont/Braintree platform,Porter Escalator 507 (Alewife platform north to Ashmont/Braintree platform),,,,2
+509,509,1,escalator,place-portr,Paid lobby to Ashmont/Braintree platform,Porter Escalator 509 (Paid lobby to Ashmont/Braintree platform),,,,2
+51,51,1,elevator,place-WML-0214,Waverly Street to pedestrian bridge,Framingham Elevator 51 (Waverly Street to pedestrian bridge),,,,1
+510,510,1,escalator,place-portr,Ashmont/Braintree platform to paid lobby,Porter Escalator 510 (Ashmont/Braintree platform to paid lobby),,,,2
+511,511,1,escalator,place-portr,Ashmont/Braintree platform to paid lobby,Porter Escalator 511 (Ashmont/Braintree platform to paid lobby),,,,2
+512,512,1,escalator,place-harsq,Mezzanine to Harvard Square,Harvard Escalator 512 (Mezzanine to Harvard Square),,,,2
+513,513,1,escalator,place-harsq,Harvard Square to mezzanine,Harvard Escalator 513 (Harvard Square to mezzanine),,,,2
+514,514,1,escalator,place-harsq,Main lobby to Harvard Square mezzanine,Harvard Escalator 514 (Main lobby to Harvard Square mezzanine),,,,2
+515,515,1,escalator,place-harsq,Harvard Square mezzanine to main lobby,Harvard Escalator 515 (Harvard Square mezzanine to main lobby),,,,2
+516,516,1,escalator,place-harsq,Alewife platform to Church Street lobby,Harvard Escalator 516 (Alewife platform to Church Street lobby),,,,2
+52,52,1,elevator,place-NEC-2173,Lobby to South Station platform,Route 128 Elevator 52 (Lobby to South Station platform),,,,1
+523,523,1,escalator,place-state,"Forest Hills platform to Washington Street, Milk Street","State Escalator 523 (Forest Hills platform to Washington Street, Milk Street)",,,,2
+53,53,1,elevator,place-NEC-2173,Lobby to outbound platform,Route 128 Elevator 53 (Lobby to outbound platform),,,,1
+54,54,1,escalator,place-NEC-2173,South Station platform to lobby,Route 128 Escalator 54 (South Station platform to lobby),,,,2
+55,55,1,escalator,place-NEC-2173,Outbound platform to lobby,Route 128 Escalator 55 (Outbound platform to lobby),,,,2
+6,6,1,escalator,place-state,Oak Grove platform to Old State House lobby,State Escalator 6 (Oak Grove platform to Old State House lobby),,,,2
+6476,6476,1,elevator,place-sstat,"Red Line, Silver Line SL1/SL2/SL3 lobby to Commuter Rail lobby","South Station Elevator 6476 (Red Line, Silver Line SL1/SL2/SL3 lobby to Commuter Rail lobby)",,,,1
+701,701,1,elevator,place-wondl,Main lobby to garage,Wonderland Elevator 701 (Main lobby to garage),,,,1
+702,702,1,elevator,place-wondl,Main lobby to garage,Wonderland Elevator 702 (Main lobby to garage),,,,1
+703,703,1,elevator,place-wondl,Main lobby to garage,Wonderland Elevator 703 (Main lobby to garage),,,,1
+708,708,1,elevator,place-wondl,Main lobby to pedestrian bridge,Wonderland Elevator 708 (Main lobby to pedestrian bridge),,,,1
+709,709,1,elevator,place-wondl,North Shore Road Busway to pedestrian plaza,Wonderland Elevator 709 (North Shore Road Busway to pedestrian plaza),,,,1
+710,710,1,elevator,place-wondl,Wonderland platform to pedestrian plaza,Wonderland Elevator 710 (Wonderland platform to pedestrian plaza),,,,1
+711,711,1,elevator,place-wondl,Ocean Avenue to pedestrian plaza,Wonderland Elevator 711 (Ocean Avenue to pedestrian plaza),,,,1
+712,712,1,elevator,place-orhte,Bowdoin platform to paid pedestrian bridge,Orient Heights Elevator 712 (Bowdoin platform to paid pedestrian bridge),,,,1
+713,713,1,elevator,place-orhte,Bennington Street Busway to unpaid pedestrian bridge,Orient Heights Elevator 713 (Bennington Street Busway to unpaid pedestrian bridge),,,,1
+714,714,1,elevator,place-orhte,Wonderland platform to paid pedestrian bridge,Orient Heights Elevator 714 (Wonderland platform to paid pedestrian bridge),,,,1
+715,715,1,elevator,place-orhte,Saratoga Street Busway to unpaid pedestrian bridge,Orient Heights Elevator 715 (Saratoga Street Busway to unpaid pedestrian bridge),,,,1
+716,716,1,elevator,place-astao,Foley Street to unpaid lobby,Assembly Elevator 716 (Foley Street to unpaid lobby),,,,1
+717,717,1,elevator,place-astao,Platform to Foley Street paid lobby,Assembly Elevator 717 (Platform to Foley Street paid lobby),,,,1
+718,718,1,elevator,place-astao,Revolution Drive to unpaid lobby,Assembly Elevator 718 (Revolution Drive to unpaid lobby),,,,1
+719,719,1,elevator,place-astao,Platform to Revolution Drive paid lobby,Assembly Elevator 719 (Platform to Revolution Drive paid lobby),,,,1
+720,720,1,elevator,place-gover,Green Line platform to street,Government Center Elevator 720 (Green Line platform to street),,,,1
+721,721,1,elevator,place-gover,Green Line platform to street,Government Center Elevator 721 (Green Line platform to street),,,,1
+722,722,1,elevator,place-gover,Blue Line platform to Green Line platform,Government Center Elevator 722 (Blue Line platform to Green Line platform),,,,1
+723,723,1,elevator,place-gover,Blue Line platform to Green Line platform,Government Center Elevator 723 (Blue Line platform to Green Line platform),,,,1
+724,724,1,elevator,place-forhl,Orange Line platform to Southwest Corridor Park lobby,Forest Hills Elevator 724 (Orange Line platform to Southwest Corridor Park lobby),,,,1
+725,725,1,elevator,place-WML-0035,Arthur Street to pedestrian bridge,Boston Landing Elevator 725 (Arthur Street to pedestrian bridge),,,,1
+726,726,1,elevator,place-WML-0035,Platform to Arthur Street pedestrian bridge,Boston Landing Elevator 726 (Platform to Arthur Street pedestrian bridge),,,,1
+727,727,1,elevator,place-WML-0035,Platform to Everett Street,Boston Landing Elevator 727 (Platform to Everett Street),,,,1
+731,731,1,elevator,place-north,Passageway to Causeway Street,North Station Elevator 731 (Passageway to Causeway Street),,,,1
+732,732,1,elevator,place-north,"Passageway to Commuter Rail, TD Garden","North Station Elevator 732 (Passageway to Commuter Rail, TD Garden)",,,,1
+733,733,1,elevator,place-wlsta,Parking lot lobby to pedestrian bridge,Wollaston Elevator 733 (Parking lot lobby to pedestrian bridge),,,,1
+734,734,1,elevator,place-wlsta,Newport Ave lobby to platform,Wollaston Elevator 734 (Newport Ave lobby to platform),,,,1
+735,735,1,elevator,place-wlsta,Platform to pedestrian bridge,Wollaston Elevator 735 (Platform to pedestrian bridge),,,,1
+800,800,1,elevator,place-ogmnl,"Busway, parking lot to lobby","Oak Grove Elevator 800 (Busway, parking lot to lobby)",,,,1
+801,801,1,elevator,place-ogmnl,Orange Line platform to paid lobby,Oak Grove Elevator 801 (Orange Line platform to paid lobby),,,,1
+802,802,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Elevator 802 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
+803,803,1,elevator,place-state,"Forest Hills platform to Washington Street, Milk Street","State Elevator 803 (Forest Hills platform to Washington Street, Milk Street)",,,,1
+804,804,1,elevator,place-pktrm,"Government Center & North lobby to Tremont Street, Winter Street","Park Street Elevator 804 (Government Center & North lobby to Tremont Street, Winter Street)",,,,1
+805,805,1,elevator,place-qamnl,Lobby to platform,Quincy Adams Elevator 805 (Lobby to platform),,,,1
+806,806,1,elevator,place-qamnl,Lobby to parking garage,Quincy Adams Elevator 806 (Lobby to parking garage),,,,1
+807,807,1,elevator,place-qamnl,Lobby to parking garage,Quincy Adams Elevator 807 (Lobby to parking garage),,,,1
+808,808,1,elevator,place-pktrm,"Red Line center platform to Government Center & North platform, Winter Street Concourse","Park Street Elevator 808 (Red Line center platform to Government Center & North platform, Winter Street Concourse)",,,,1
+810,810,1,elevator,place-qnctr,Red Line platform to lobby,Quincy Center Elevator 810 (Red Line platform to lobby),,,,1
+811,811,1,elevator,place-brntn,Red Line platform to lobby,Braintree Elevator 811 (Red Line platform to lobby),,,,1
+812,812,1,elevator,place-pktrm,Green Line underpass to Government Center & North platform,Park Street Elevator 812 (Green Line underpass to Government Center & North platform),,,,1
+813,813,1,elevator,place-alfcl,Platform to main lobby,Alewife Elevator 813 (Platform to main lobby),,,,1
+814,814,1,elevator,place-alfcl,"Main lobby to street, parking garage","Alewife Elevator 814 (Main lobby to street, parking garage)",,,,1
+815,815,1,elevator,place-alfcl,"Main lobby to street, parking garage","Alewife Elevator 815 (Main lobby to street, parking garage)",,,,1
+816,816,1,elevator,place-davis,Platform to lobby,Davis Elevator 816 (Platform to lobby),,,,1
+817,817,1,elevator,place-davis,Lobby to College Avenue,Davis Elevator 817 (Lobby to College Avenue),,,,1
+821,821,1,elevator,place-harsq,Lobby to Harvard Square,Harvard Elevator 821 (Lobby to Harvard Square),,,,1
+823,823,1,elevator,place-pktrm,Green Line underpass to Copley & West platform,Park Street Elevator 823 (Green Line underpass to Copley & West platform),,,,1
+830,830,1,elevator,place-jfk,Braintree branch platform to lobby,JFK/UMass Elevator 830 (Braintree branch platform to lobby),,,,1
+831,831,1,elevator,place-jfk,Ashmont branch platform to lobby,JFK/UMass Elevator 831 (Ashmont branch platform to lobby),,,,1
+840,840,1,elevator,place-sull,Center platform to lobby,Sullivan Square Elevator 840 (Center platform to lobby),,,,1
+841,841,1,elevator,place-forhl,Commuter Rail platform to lobby,Forest Hills Elevator 841 (Commuter Rail platform to lobby),,,,1
+842,842,1,elevator,place-forhl,Orange Line platform to main upper lobby,Forest Hills Elevator 842 (Orange Line platform to main upper lobby),,,,1
+843,843,1,elevator,place-forhl,Lower busway to upper lobby,Forest Hills Elevator 843 (Lower busway to upper lobby),,,,1
+844,844,1,elevator,place-grnst,Platform to paid lobby,Green Street Elevator 844 (Platform to paid lobby),,,,1
+845,845,1,elevator,place-sbmnl,Platform to paid lobby,Stony Brook Elevator 845 (Platform to paid lobby),,,,1
+846,846,1,elevator,place-jaksn,Platform to paid lobby,Jackson Square Elevator 846 (Platform to paid lobby),,,,1
+847,847,1,elevator,place-rcmnl,Platform to paid lobby,Roxbury Crossing Elevator 847 (Platform to paid lobby),,,,1
+848,848,1,elevator,place-rugg,Lobby to lower busway center island,Ruggles Elevator 848 (Lobby to lower busway center island),,,,1
+849,849,1,elevator,place-rugg,Commuter Rail platform to upper lobby,Ruggles Elevator 849 (Commuter Rail platform to upper lobby),,,,1
+850,850,1,elevator,place-rugg,Orange Line platform to upper lobby,Ruggles Elevator 850 (Orange Line platform to upper lobby),,,,1
+851,851,1,elevator,place-rugg,Forsyth Street to upper lobby,Ruggles Elevator 851 (Forsyth Street to upper lobby),,,,1
+852,852,1,elevator,place-masta,Platform to paid lobby,Massachusetts Avenue Elevator 852 (Platform to paid lobby),,,,1
+853,853,1,elevator,place-bbsta,Orange Line platform to lobby,Back Bay Elevator 853 (Orange Line platform to lobby),,,,1
+854,854,1,elevator,place-bbsta,Commuter Rail track 2 to lobby,Back Bay Elevator 854 (Commuter Rail track 2 to lobby),,,,1
+855,855,1,elevator,place-bbsta,Commuter Rail tracks 1 and 3 to lobby,Back Bay Elevator 855 (Commuter Rail tracks 1 and 3 to lobby),,,,1
+856,856,1,elevator,place-bbsta,Commuter Rail tracks 5 and 7 to lobby,Back Bay Elevator 856 (Commuter Rail tracks 5 and 7 to lobby),,,,1
+857,857,1,elevator,place-tumnl,Lobby to Washington Street,Tufts Medical Center Elevator 857 (Lobby to Washington Street),,,,1
+858,858,1,elevator,place-tumnl,Oak Grove platform to Washington Street lobby,Tufts Medical Center Elevator 858 (Oak Grove platform to Washington Street lobby),,,,1
+859,859,1,elevator,place-tumnl,Forest Hills platform to Washington Street lobby,Tufts Medical Center Elevator 859 (Forest Hills platform to Washington Street lobby),,,,1
+860,860,1,elevator,place-cntsq,Alewife platform to Massachusetts Avenue,Central Elevator 860 (Alewife platform to Massachusetts Avenue),,,,1
+861,861,1,elevator,place-cntsq,Ashmont/Braintree platform to Massachusetts Avenue,Central Elevator 861 (Ashmont/Braintree platform to Massachusetts Avenue),,,,1
+863,863,1,elevator,place-knncl,Ashmont/Braintree platform to Main Street,Kendall/MIT Elevator 863 (Ashmont/Braintree platform to Main Street),,,,1
+864,864,1,elevator,place-welln,Oak Grove platform to lobby,Wellington Elevator 864 (Oak Grove platform to lobby),,,,1
+865,865,1,elevator,place-welln,Forest Hills platform to lobby,Wellington Elevator 865 (Forest Hills platform to lobby),,,,1
+866,866,1,elevator,place-knncl,Alewife platform to Main Street,Kendall/MIT Elevator 866 (Alewife platform to Main Street),,,,1
+867,867,1,elevator,place-brdwy,Platform to lobby,Broadway Elevator 867 (Platform to lobby),,,,1
+868,868,1,elevator,place-brdwy,Lobby to street,Broadway Elevator 868 (Lobby to street),,,,1
+869,869,1,elevator,place-dwnxg,Alewife platform to Summer Street Concourse,Downtown Crossing Elevator 869 (Alewife platform to Summer Street Concourse),,,,1
+870,870,1,elevator,place-dwnxg,Ashmont/Braintree platform to Summer Street Concourse,Downtown Crossing Elevator 870 (Ashmont/Braintree platform to Summer Street Concourse),,,,1
+872,872,1,elevator,place-andrw,Lobby to street,Andrew Elevator 872 (Lobby to street),,,,1
+876,876,1,elevator,place-chncl,"Oak Grove platform to Washington St, Essex St","Chinatown Elevator 876 (Oak Grove platform to Washington St, Essex St)",,,,1
+879,879,1,elevator,place-andrw,Ashmont/Braintree platform to lobby,Andrew Elevator 879 (Ashmont/Braintree platform to lobby),,,,1
+880,880,1,elevator,place-andrw,Alewife platform to lobby,Andrew Elevator 880 (Alewife platform to lobby),,,,1
+881,881,1,elevator,place-sull,Oak Grove platform to lobby,Sullivan Square Elevator 881 (Oak Grove platform to lobby),,,,1
+884,884,1,elevator,place-rbmnl,Bowdoin platform to lobby,Revere Beach Elevator 884 (Bowdoin platform to lobby),,,,1
+885,885,1,elevator,place-rbmnl,Wonderland platform to lobby,Revere Beach Elevator 885 (Wonderland platform to lobby),,,,1
+886,886,1,elevator,place-bmmnl,Bowdoin platform to lobby,Beachmont Elevator 886 (Bowdoin platform to lobby),,,,1
+887,887,1,elevator,place-bmmnl,Wonderland platform to lobby,Beachmont Elevator 887 (Wonderland platform to lobby),,,,1
+889,889,1,elevator,place-wimnl,Bowdoin platform to pedestrian bridge,Wood Island Elevator 889 (Bowdoin platform to pedestrian bridge),,,,1
+890,890,1,elevator,place-wimnl,Wonderland platform to pedestrian bridge,Wood Island Elevator 890 (Wonderland platform to pedestrian bridge),,,,1
+891,891,1,elevator,place-dwnxg,Oak Grove platform to Franklin Street,Downtown Crossing Elevator 891 (Oak Grove platform to Franklin Street),,,,1
+892,892,1,elevator,place-dwnxg,"Forest Hills platform to Washington Street, Winter Street","Downtown Crossing Elevator 892 (Forest Hills platform to Washington Street, Winter Street)",,,,1
+896,896,1,elevator,place-qnctr,Commuter Rail platform to lobby,Quincy Center Elevator 896 (Commuter Rail platform to lobby),,,,1
+897,897,1,elevator,place-nqncy,Hancock Street parking to northern lobby,North Quincy Elevator 897 (Hancock Street parking to northern lobby),,,,1
+898,898,1,elevator,place-nqncy,Newport Avenue parking to northern lobby,North Quincy Elevator 898 (Newport Avenue parking to northern lobby),,,,1
+899,899,1,elevator,place-nqncy,Platform to northern lobby,North Quincy Elevator 899 (Platform to northern lobby),,,,1
+900,900,1,elevator,place-nqncy,"Platform to main lobby, busway","North Quincy Elevator 900 (Platform to main lobby, busway)",,,,1
+901,901,1,elevator,place-sstat,Ashmont/Braintree platform to Silver Line drop-off platform and lobby,South Station Elevator 901 (Ashmont/Braintree platform to Silver Line drop-off platform and lobby),,,,1
+903,903,1,elevator,place-haecl,Oak Grove platform to Congress Street lobby,Haymarket Elevator 903 (Oak Grove platform to Congress Street lobby),,,,1
+904,904,1,elevator,place-haecl,Forest Hills platform to Congress Street lobby,Haymarket Elevator 904 (Forest Hills platform to Congress Street lobby),,,,1
+905,905,1,elevator,place-haecl,Underpass to Forest Hills platform,Haymarket Elevator 905 (Underpass to Forest Hills platform),,,,1
+906,906,1,elevator,place-haecl,"Underpass to Green Line platforms, busway","Haymarket Elevator 906 (Underpass to Green Line platforms, busway)",,,,1
+907,907,1,elevator,place-haecl,Underpass to Oak Grove platform,Haymarket Elevator 907 (Underpass to Oak Grove platform),,,,1
+908,908,1,elevator,place-haecl,"Green Line lobby to busway, Sudbury Street, New Chardon Street","Haymarket Elevator 908 (Green Line lobby to busway, Sudbury Street, New Chardon Street)",,,,1
+909,909,1,elevator,place-north,"Orange Line, Green Line lobby to Valenti Way","North Station Elevator 909 (Orange Line, Green Line lobby to Valenti Way)",,,,1
+910,910,1,elevator,place-north,"Lobby to Forest Hills, Copley & West platform","North Station Elevator 910 (Lobby to Forest Hills, Copley & West platform)",,,,1
+911,911,1,elevator,place-north,Oak Grove platform to paid lobby,North Station Elevator 911 (Oak Grove platform to paid lobby),,,,1
+912,912,1,elevator,place-north,"Orange Line, Green Line lobby to Causeway Street","North Station Elevator 912 (Orange Line, Green Line lobby to Causeway Street)",,,,1
+913,913,1,elevator,place-aqucl,Wonderland platform to State Street lobby,Aquarium Elevator 913 (Wonderland platform to State Street lobby),,,,1
+914,914,1,elevator,place-aqucl,Bowdoin platform to State Street lobby,Aquarium Elevator 914 (Bowdoin platform to State Street lobby),,,,1
+915,915,1,elevator,place-aqucl,State Street lobby to street,Aquarium Elevator 915 (State Street lobby to street),,,,1
+917,917,1,elevator,place-prmnl,Lobby to Huntington Avenue,Prudential Elevator 917 (Lobby to Huntington Avenue),,,,1
+918,918,1,elevator,place-sstat,Ashmont/Braintree platform to Airport/Design Center/Chelsea platform and lobby,South Station Elevator 918 (Ashmont/Braintree platform to Airport/Design Center/Chelsea platform and lobby),,,,1
+919,919,1,elevator,place-sstat,Alewife platform to Airport/Design Center/Chelsea platform,South Station Elevator 919 (Alewife platform to Airport/Design Center/Chelsea platform),,,,1
+920,920,1,elevator,place-prmnl,Heath Street platform to lobby,Prudential Elevator 920 (Heath Street platform to lobby),,,,1
+921,921,1,elevator,place-prmnl,Lechmere platform to lobby,Prudential Elevator 921 (Lechmere platform to lobby),,,,1
+922,922,1,elevator,place-chncl,"Forest Hills platform to Boylston St, Washington St","Chinatown Elevator 922 (Forest Hills platform to Boylston St, Washington St)",,,,1
+923,923,1,elevator,place-aqucl,Bowdoin platform to Atlantic Avenue lobby,Aquarium Elevator 923 (Bowdoin platform to Atlantic Avenue lobby),,,,1
+924,924,1,elevator,place-aqucl,Wonderland platform to Atlantic Avenue lobby,Aquarium Elevator 924 (Wonderland platform to Atlantic Avenue lobby),,,,1
+925,925,1,elevator,place-aqucl,Atlantic Avenue lobby to Long Wharf,Aquarium Elevator 925 (Atlantic Avenue lobby to Long Wharf),,,,1
+926,926,1,elevator,place-sstat,"Subway Lobby to Atlantic Avenue, Summer Street","South Station Elevator 926 (Subway Lobby to Atlantic Avenue, Summer Street)",,,,1
+927,927,1,elevator,place-sstat,Alewife platform to Silver Line Drop-off platform,South Station Elevator 927 (Alewife platform to Silver Line Drop-off platform),,,,1
+928,928,1,elevator,place-ER-0115,Platform to lobby,Lynn Elevator 928 (Platform to lobby),,,,1
+929,929,1,elevator,place-ER-0115,Street to parking garage,Lynn Elevator 929 (Street to parking garage),,,,1
+930,930,1,elevator,place-ER-0115,Street to parking garage,Lynn Elevator 930 (Street to parking garage),,,,1
+931,931,1,elevator,place-aport,Wonderland platform to paid pedestrian bridge,Airport Elevator 931 (Wonderland platform to paid pedestrian bridge),,,,1
+932,932,1,elevator,place-aport,Bowdoin platform to paid pedestrian bridge,Airport Elevator 932 (Bowdoin platform to paid pedestrian bridge),,,,1
+933,933,1,elevator,place-ccmnl,Paid lobby to platform,Community College Elevator 933 (Paid lobby to platform),,,,1
+934,934,1,elevator,place-wtcst,Lobby to World Trade Center Avenue,World Trade Center Elevator 934 (Lobby to World Trade Center Avenue),,,,1
+935,935,1,elevator,place-wtcst,South Station platform to lobby,World Trade Center Elevator 935 (South Station platform to lobby),,,,1
+936,936,1,elevator,place-wtcst,Airport/Design Center/Chelsea platform to lobby,World Trade Center Elevator 936 (Airport/Design Center/Chelsea platform to lobby),,,,1
+937,937,1,elevator,place-crtst,South Station platform to lobby,Courthouse Elevator 937 (South Station platform to lobby),,,,1
+938,938,1,elevator,place-crtst,Airport/Design Center/Chelsea platform to lobby,Courthouse Elevator 938 (Airport/Design Center/Chelsea platform to lobby),,,,1
+939,939,1,elevator,place-crtst,"Lobby to Seaport Boulevard, Thomson Place","Courthouse Elevator 939 (Lobby to Seaport Boulevard, Thomson Place)",,,,1
+940,940,1,elevator,place-crtst,"Lobby to Seaport Boulevard, Fan Pier Boulevard","Courthouse Elevator 940 (Lobby to Seaport Boulevard, Fan Pier Boulevard)",,,,1
+944,944,1,elevator,place-mlmnl,Lobby to Commuter Rail platform,Malden Center Elevator 944 (Lobby to Commuter Rail platform),,,,1
+945,945,1,elevator,place-mlmnl,Lobby to Orange Line platform,Malden Center Elevator 945 (Lobby to Orange Line platform),,,,1
+946,946,1,elevator,place-shmnl,Platform to paid lobby,Savin Hill Elevator 946 (Platform to paid lobby),,,,1
+947,947,1,elevator,place-shmnl,Sydney Street to unpaid lobby,Savin Hill Elevator 947 (Sydney Street to unpaid lobby),,,,1
+948,948,1,elevator,place-kencl,Lobby to Commonwealth Avenue,Kenmore Elevator 948 (Lobby to Commonwealth Avenue),,,,1
+949,949,1,elevator,place-sstat,Lobby to Dewey Square,South Station Elevator 949 (Lobby to Dewey Square),,,,1
+951,951,1,elevator,place-chmnl,Ashmont/Braintree platform to lobby,Charles/MGH Elevator 951 (Ashmont/Braintree platform to lobby),,,,1
+952,952,1,elevator,place-chmnl,Alewife platform to lobby,Charles/MGH Elevator 952 (Alewife platform to lobby),,,,1
+953,953,1,elevator,place-smmnl,Alewife platform to lobby,Shawmut Elevator 953 (Alewife platform to lobby),,,,1
+954,954,1,elevator,place-smmnl,Ashmont platform to lobby,Shawmut Elevator 954 (Ashmont platform to lobby),,,,1
+955,955,1,elevator,place-aport,Bremen Street lobby to unpaid pedestrian bridge,Airport Elevator 955 (Bremen Street lobby to unpaid pedestrian bridge),,,,1
+956,956,1,elevator,place-aport,Busway lobby to unpaid pedestrian bridge,Airport Elevator 956 (Busway lobby to unpaid pedestrian bridge),,,,1
+957,957,1,elevator,place-fldcr,Paid lobby to Alewife platform,Fields Corner Elevator 957 (Paid lobby to Alewife platform),,,,1
+958,958,1,elevator,place-fldcr,Paid lobby to Ashmont platform,Fields Corner Elevator 958 (Paid lobby to Ashmont platform),,,,1
+961,961,1,elevator,place-alfcl,"Platform to Russell Field, Rindge Avenue lobby","Alewife Elevator 961 (Platform to Russell Field, Rindge Avenue lobby)",,,,1
+962,962,1,elevator,place-armnl,Copley & West platform to lobby,Arlington Elevator 962 (Copley & West platform to lobby),,,,1
+963,963,1,elevator,place-armnl,Park Street & North platform to lobby,Arlington Elevator 963 (Park Street & North platform to lobby),,,,1
+964,964,1,elevator,place-armnl,Lobby to Boylston Street,Arlington Elevator 964 (Lobby to Boylston Street),,,,1
+965,965,1,elevator,place-mvbcl,"Platform to Maverick Square, busway","Maverick Elevator 965 (Platform to Maverick Square, busway)",,,,1
+966,966,1,elevator,place-mvbcl,Platform to Lewis Courtyard,Maverick Elevator 966 (Platform to Lewis Courtyard),,,,1
+967,967,1,elevator,place-state,"Oak Grove platform to Forest Hills, Wonderland platforms","State Elevator 967 (Oak Grove platform to Forest Hills, Wonderland platforms)",,,,1
+968,968,1,elevator,place-asmnl,Alewife platform to Peabody Square lobby,Ashmont Elevator 968 (Alewife platform to Peabody Square lobby),,,,1
+969,969,1,elevator,place-asmnl,Alewife platform to Mattapan Line lobby,Ashmont Elevator 969 (Alewife platform to Mattapan Line lobby),,,,1
+970,970,1,elevator,place-asmnl,"Ashmont platform to Mattapan Line lobby, busway","Ashmont Elevator 970 (Ashmont platform to Mattapan Line lobby, busway)",,,,1
+971,971,1,elevator,place-kencl,Westbound platform to lobby,Kenmore Elevator 971 (Westbound platform to lobby),,,,1
+972,972,1,elevator,place-kencl,"Park Street & North platform to lobby, busway","Kenmore Elevator 972 (Park Street & North platform to lobby, busway)",,,,1
+973,973,1,elevator,place-harsq,Upper busway to Brattle Square,Harvard Elevator 973 (Upper busway to Brattle Square),,,,1
+974,974,1,elevator,place-state,"Bowdoin platform to Congress Street, 60 State Street","State Elevator 974 (Bowdoin platform to Congress Street, 60 State Street)",,,,1
+975,975,1,elevator,place-state,"Wonderland platform to Congress Street, 53 State Street","State Elevator 975 (Wonderland platform to Congress Street, 53 State Street)",,,,1
+976,976,1,elevator,place-coecl,Park Street & North platform to Boylston Street,Copley Elevator 976 (Park Street & North platform to Boylston Street),,,,1
+977,977,1,elevator,place-coecl,"Kenmore & West, Heath Street platform to Boylston Street","Copley Elevator 977 (Kenmore & West, Heath Street platform to Boylston Street)",,,,1
+978,978,1,elevator,place-pktrm,Copley & West platform to Boston Common,Park Street Elevator 978 (Copley & West platform to Boston Common),,,,1
+979,979,1,elevator,place-pktrm,Red Line center platform to Copley & West platform,Park Street Elevator 979 (Red Line center platform to Copley & West platform),,,,1
+980,980,1,elevator,place-spmnl,Copley & West platform to lobby,Science Park/West End Elevator 980 (Copley & West platform to lobby),,,,1
+981,981,1,elevator,place-spmnl,Lechmere platform to lobby,Science Park/West End Elevator 981 (Lechmere platform to lobby),,,,1
+982,982,1,elevator,place-portr,Lobby to Somerville Avenue & Mass Avenue,Porter Elevator 982 (Lobby to Somerville Avenue & Mass Avenue),,,,1
+983,983,1,elevator,place-portr,Red Line platforms to lobby,Porter Elevator 983 (Red Line platforms to lobby),,,,1
+985,985,1,elevator,place-portr,Lobby to Somerville Avenue,Porter Elevator 985 (Lobby to Somerville Avenue),,,,1
+986,986,1,elevator,place-portr,Commuter Rail platform to lobby,Porter Elevator 986 (Commuter Rail platform to lobby),,,,1
+987,987,1,elevator,place-portr,Red Line platforms to lobby,Porter Elevator 987 (Red Line platforms to lobby),,,,1
+990,990,1,elevator,place-WML-0025,Street to Track 5 (South Station platform) and bridge,Lansdowne Elevator 990 (Street to Track 5 (South Station platform) and bridge),,,,1
+991,991,1,elevator,place-WML-0025,Track 5 (South Station platform) to bridge,Lansdowne Elevator 991 (Track 5 (South Station platform) to bridge),,,,1
+992,992,1,elevator,place-WML-0025,Track 7 (outbound platform) to west side of bridge,Lansdowne Elevator 992 (Track 7 (outbound platform) to west side of bridge),,,,1
+993,993,1,elevator,place-WML-0025,Track 7 (outbound platform) to east side of bridge,Lansdowne Elevator 993 (Track 7 (outbound platform) to east side of bridge),,,,1
+998,998,1,elevator,place-dwnxg,Oak Grove platform to Alewife platform,Downtown Crossing Elevator 998 (Oak Grove platform to Alewife platform),,,,1
+999,999,1,elevator,place-dwnxg,Oak Grove platform to Alewife platform,Downtown Crossing Elevator 999 (Oak Grove platform to Alewife platform),,,,1
+bike-15095,,3,bike-storage,15095,Bike rack,Washington St @ Herald St bike rack,,,,0
+bike-15176,,3,bike-storage,15176,Bike rack,Washington St @ Worcester St bike rack,,,,0
+bike-17091,,3,bike-storage,17091,Bike rack,Terminal A bike rack,,,,0
+bike-1787,,3,bike-storage,1787,Bike rack,Washington St @ Worcester St bike rack,,,,0
+bike-1788,,3,bike-storage,1788,Bike rack,Washington St @ E Newton St bike rack,,,,0
+bike-27092,,3,bike-storage,27092,Bike rack,Terminal B Stop 1 - Arrivals Level bike rack,,,,0
+bike-3,,3,bike-storage,3,Bike rack,Washington St @ Melnea Cass Blvd - Silver Line bike rack,,,,0
+bike-4,,3,bike-storage,4,Bike rack,Washington St @ Lenox St bike rack,,,,0
+bike-49003,,3,bike-storage,49003,Bike rack,Washington St @ Herald St bike rack,,,,0
+bike-5095,,3,bike-storage,5095,Bike rack,Washington St @ E Berkeley St bike rack,,,,0
+bike-5098,,3,bike-storage,5098,Bike rack,Washington St @ E Berkeley St bike rack,,,,0
+bike-5100,,3,bike-storage,5100,Bike rack,Washington St @ W Dedham St bike rack,,,,0
+bike-60,,3,bike-storage,60,Bike rack,Washington St @ Lenox St bike rack,,,,0
+bike-61,,3,bike-storage,61,Bike rack,Washington St @ Melnea Cass Blvd bike rack,,,,0
+bike-7922,,3,bike-storage,7922,Covered bike rack,Arlington Heights Busway covered bike rack,,,,0
+bike-8178,,3,bike-storage,8178,Bike rack,Watertown Sq Terminal bike rack,,,,0
+bike-900,,3,bike-storage,900,Covered bike rack,Watertown Yard covered bike rack,,,,0
+bike-Boat-Hingham,,3,bike-storage,Boat-Hingham,Bike rack,Hingham bike rack,,,,0
+bike-DB-0095,,3,bike-storage,place-DB-0095,Bike rack,Readville bike rack,,,,0
+bike-DB-2205,,3,bike-storage,place-DB-2205,Covered bike rack,Fairmount covered bike rack,,,,0
+bike-DB-2222,,3,bike-storage,place-DB-2222,Bike rack,Blue Hill Avenue bike rack,,,,0
+bike-DB-2230,,3,bike-storage,place-DB-2230,Covered bike rack,Morton Street covered bike rack,,,,0
+bike-DB-2249,,3,bike-storage,place-DB-2249,Bike rack,Four Corners/Geneva bike rack,,,,0
+bike-DB-2258,,3,bike-storage,place-DB-2258,Bike rack,Uphams Corner bike rack,,,,0
+bike-DB-2265,,3,bike-storage,place-DB-2265,Bike rack,Newmarket bike rack,,,,0
+bike-ER-0128,,3,bike-storage,place-ER-0128,Bike rack,Swampscott bike rack,,,,0
+bike-ER-0168,,3,bike-storage,place-ER-0168,Pedal and Park,Salem Pedal and Park,,42.5241150,-70.8964200,0
+bike-ER-0183,,3,bike-storage,place-ER-0183,Pedal and Park,Beverly Pedal and Park,,42.5456300,-70.8851280,0
+bike-ER-0208,,3,bike-storage,place-ER-0208,Bike rack,North Beverly bike rack,,,,0
+bike-ER-0227,,3,bike-storage,place-ER-0227,Bike rack,Hamilton/Wenham bike rack,,,,0
+bike-ER-0276,,3,bike-storage,place-ER-0276,Bike rack,Ipswich bike rack,,,,0
+bike-ER-0312,,3,bike-storage,place-ER-0312,Bike rack,Rowley bike rack,,,,0
+bike-ER-0362,,3,bike-storage,place-ER-0362,Bike rack,Newburyport bike rack,,,,0
+bike-FB-0118,,3,bike-storage,place-FB-0118,Bike rack,Dedham Corporate Center bike rack,,,,0
+bike-FB-0125,,3,bike-storage,place-FB-0125,Bike rack,Islington bike rack,,,,0
+bike-FB-0143,,3,bike-storage,place-FB-0143,Bike rack,Norwood Depot bike rack,,,,0
+bike-FB-0148,,3,bike-storage,place-FB-0148,Bike rack,Norwood Central bike rack,,,,0
+bike-FB-0166,,3,bike-storage,place-FB-0166,Bike rack,Windsor Gardens bike rack,,,,0
+bike-FB-0191,,3,bike-storage,place-FB-0191,Bike rack,Walpole bike rack,,,,0
+bike-FB-0230,,3,bike-storage,place-FB-0230,Bike rack,Norfolk bike rack,,,,0
+bike-FB-0275,,3,bike-storage,place-FB-0275,Bike rack,Franklin bike rack,,,,0
+bike-FB-0303,,3,bike-storage,place-FB-0303,Bike rack,Forge Park/495 bike rack,,,,0
+bike-FR-0064,,3,bike-storage,place-FR-0064,Bike rack,Belmont bike rack,,,,0
+bike-FR-0098,,3,bike-storage,place-FR-0098,Bike rack,Waltham bike rack,,,,0
+bike-FR-0115,,3,bike-storage,place-FR-0115,Bike rack,Brandeis/Roberts bike rack,,,,0
+bike-FR-0167,,3,bike-storage,place-FR-0167,Bike rack,Lincoln bike rack,,,,0
+bike-FR-0201,,3,bike-storage,place-FR-0201,Bike rack,Concord bike rack,,,,0
+bike-FR-0219,,3,bike-storage,place-FR-0219,Covered bike rack,West Concord covered bike rack,,,,0
+bike-FR-0253,,3,bike-storage,place-FR-0253,Bike rack,South Acton bike rack,,,,0
+bike-FR-0301,,3,bike-storage,place-FR-0301,Bike rack,Littleton/Route 495 bike rack,,,,0
+bike-FR-0494,,3,bike-storage,place-FR-0494,Bike rack,Fitchburg bike rack,,,,0
+bike-FR-3338,,3,bike-storage,place-FR-3338,Covered bike rack,Wachusett covered bike rack,,,,0
+bike-GB-0198,,3,bike-storage,place-GB-0198,Bike rack,Montserrat bike rack,,,,0
+bike-GB-0229,,3,bike-storage,place-GB-0229,Bike rack,Beverly Farms bike rack,,,,0
+bike-GB-0254,,3,bike-storage,place-GB-0254,Bike rack,Manchester bike rack,,,,0
+bike-GB-0296,,3,bike-storage,place-GB-0296,Bike rack,West Gloucester bike rack,,,,0
+bike-GB-0316,,3,bike-storage,place-GB-0316,Bike rack,Gloucester bike rack,,,,0
+bike-GB-0353,,3,bike-storage,place-GB-0353,Bike rack,Rockport bike rack,,,,0
+bike-GRB-0118,,3,bike-storage,place-GRB-0118,Bike rack,Weymouth Landing/East Braintree bike rack,,,,0
+bike-GRB-0146,,3,bike-storage,place-GRB-0146,Bike rack,East Weymouth bike rack,,,,0
+bike-GRB-0162,,3,bike-storage,place-GRB-0162,Bike rack,West Hingham bike rack,,,,0
+bike-GRB-0183,,3,bike-storage,place-GRB-0183,Bike rack,Nantasket Junction bike rack,,,,0
+bike-GRB-0199,,3,bike-storage,place-GRB-0199,Bike rack,Cohasset bike rack,,,,0
+bike-GRB-0233,,3,bike-storage,place-GRB-0233,Bike rack,North Scituate bike rack,,,,0
+bike-GRB-0276,,3,bike-storage,place-GRB-0276,Bike rack,Greenbush bike rack,,,,0
+bike-KB-0351,,3,bike-storage,place-KB-0351,Bike rack,Kingston bike rack,,,,0
+bike-MM-0150,,3,bike-storage,place-MM-0150,Covered bike rack,Holbrook/Randolph covered bike rack,,,,0
+bike-MM-0186,,3,bike-storage,place-MM-0186,Covered bike rack,Montello covered bike rack,,,,0
+bike-MM-0200,,3,bike-storage,place-MM-0200,Bike rack,Brockton bike rack,,,,0
+bike-MM-0219,,3,bike-storage,place-MM-0219,Bike rack,Campello bike rack,,,,0
+bike-MM-0277,,3,bike-storage,place-MM-0277,Bike rack,Bridgewater bike rack,,,,0
+bike-MM-0356,,3,bike-storage,place-MM-0356,Bike rack,Middleborough/Lakeville bike rack,,,,0
+bike-NB-0064,,3,bike-storage,place-NB-0064,Bike rack,Roslindale Village bike rack,,,,0
+bike-NB-0072,,3,bike-storage,place-NB-0072,Bike rack,Bellevue bike rack,,,,0
+bike-NB-0076,,3,bike-storage,place-NB-0076,Covered bike rack,Highland covered bike rack,,,,0
+bike-NB-0080,,3,bike-storage,place-NB-0080,Bike rack,West Roxbury bike rack,,,,0
+bike-NB-0109,,3,bike-storage,place-NB-0109,Covered bike rack,Hersey covered bike rack,,,,0
+bike-NB-0120,,3,bike-storage,place-NB-0120,Bike rack,Needham Junction bike rack,,,,0
+bike-NB-0127,,3,bike-storage,place-NB-0127,Bike rack,Needham Center bike rack,,,,0
+bike-NB-0137,,3,bike-storage,place-NB-0137,Bike rack,Needham Heights bike rack,,,,0
+bike-NEC-1659,,3,bike-storage,place-NEC-1659,Bike rack,Wickford Junction bike rack,,,,0
+bike-NEC-1969,,3,bike-storage,place-NEC-1969,Bike rack,Attleboro bike rack,,,,0
+bike-NEC-2108,,3,bike-storage,place-NEC-2108,Bike rack,Sharon bike rack,,,,0
+bike-NEC-2139,,3,bike-storage,place-NEC-2139,Bike rack,Canton Junction bike rack,,,,0
+bike-NEC-2173,,3,bike-storage,place-NEC-2173,Bike rack,Route 128 bike rack,,,,0
+bike-NEC-2203,,3,bike-storage,place-NEC-2203,Bike rack,Hyde Park bike rack,,,,0
+bike-NHRML-0055,,3,bike-storage,place-NHRML-0055,Bike rack,West Medford bike rack,,,,0
+bike-NHRML-0073,,3,bike-storage,place-NHRML-0073,Covered bike rack,Wedgemere covered bike rack,,,,0
+bike-NHRML-0152,,3,bike-storage,place-NHRML-0152,Bike rack,Wilmington bike rack,,,,0
+bike-NHRML-0218,,3,bike-storage,place-NHRML-0218,Covered bike rack,North Billerica covered bike rack,,,,0
+bike-NHRML-0254,,3,bike-storage,place-NHRML-0254,Bike rack,Lowell bike rack,,,,0
+bike-PB-0158,,3,bike-storage,place-PB-0158,Covered bike rack,South Weymouth covered bike rack,,,,0
+bike-PB-0194,,3,bike-storage,place-PB-0194,Bike rack,Abington bike rack,,,,0
+bike-PB-0212,,3,bike-storage,place-PB-0212,Covered bike rack,Whitman covered bike rack,,,,0
+bike-PB-0245,,3,bike-storage,place-PB-0245,Bike rack,Hanson bike rack,,,,0
+bike-PB-0281,,3,bike-storage,place-PB-0281,Bike rack,Halifax bike rack,,,,0
+bike-SB-0156,,3,bike-storage,place-SB-0156,Bike rack,Canton Center bike rack,,,,0
+bike-SB-0189,,3,bike-storage,place-SB-0189,Covered bike rack,Stoughton covered bike rack,,,,0
+bike-WML-0025,,3,bike-storage,place-WML-0025,Bike rack,Lansdowne bike rack,,,,0
+bike-WML-0091,,3,bike-storage,place-WML-0091,Bike rack,West Newton bike rack,,,,0
+bike-WML-0102,,3,bike-storage,place-WML-0102,Bike rack,Auburndale bike rack,,,,0
+bike-WML-0135,,3,bike-storage,place-WML-0135,Bike rack,Wellesley Hills bike rack,,,,0
+bike-WML-0147,,3,bike-storage,place-WML-0147,Covered bike rack,Wellesley Square covered bike rack,,,,0
+bike-WML-0199,,3,bike-storage,place-WML-0199,Bike rack,West Natick bike rack,,,,0
+bike-WML-0214,,3,bike-storage,place-WML-0214,Bike rack,Framingham bike rack,,,,0
+bike-WML-0252,,3,bike-storage,place-WML-0252,Bike rack,Ashland bike rack,,,,0
+bike-WML-0274,,3,bike-storage,place-WML-0274,Bike rack,Southborough bike rack,,,,0
+bike-WML-0340,,3,bike-storage,place-WML-0340,Covered bike rack,Westborough covered bike rack,,,,0
+bike-WML-0364,,3,bike-storage,place-WML-0364,Bike rack,Grafton bike rack,,,,0
+bike-WML-0442,,3,bike-storage,place-WML-0442,Bike rack,Worcester bike rack,,,,0
+bike-WR-0085,,3,bike-storage,place-WR-0085,Bike rack,Greenwood bike rack,,,,0
+bike-WR-0099,,3,bike-storage,place-WR-0099,Bike rack,Wakefield bike rack,,,,0
+bike-WR-0120,,3,bike-storage,place-WR-0120,Bike rack,Reading bike rack,,,,0
+bike-WR-0205,,3,bike-storage,place-WR-0205,Bike rack,Ballardvale bike rack,,,,0
+bike-WR-0228,,3,bike-storage,place-WR-0228,Covered bike rack,Andover covered bike rack,,,,0
+bike-WR-0325,,3,bike-storage,place-WR-0325,Bike rack,Bradford bike rack,,,,0
+bike-WR-0329,,3,bike-storage,place-WR-0329,Covered bike rack,Haverhill covered bike rack,,,,0
+bike-alfcl-central,,3,bike-storage,place-alfcl,Pedal and Park,Alewife Pedal and Park,,42.3955390,-71.1420840,0
+bike-alfcl-east,,3,bike-storage,place-alfcl,Pedal and Park,Alewife Pedal and Park,,42.3958060,-71.1409570,0
+bike-alfcl-west,,3,bike-storage,place-alfcl,Pedal and Park,Alewife Pedal and Park,,42.3959740,-71.1426220,0
+bike-asmnl,,3,bike-storage,place-asmnl,Pedal and Park,Ashmont Pedal and Park,,42.2835650,-71.0646980,0
+bike-bbsta,,3,bike-storage,place-bbsta,Pedal and Park,Back Bay Pedal and Park,,42.3474980,-71.0748220,0
+bike-bcnfd,,3,bike-storage,place-bcnfd,Bike rack,Beaconsfield bike rack,,,,0
+bike-bmmnl,,3,bike-storage,place-bmmnl,Bike rack,Beachmont bike rack,,,,0
+bike-brkhl,,3,bike-storage,place-brkhl,Bike rack,Brookline Hills bike rack,,,,0
+bike-brntn,,3,bike-storage,place-brntn,Pedal and Park,Braintree Pedal and Park,,42.2068660,-71.0005350,0
+bike-butlr,,3,bike-storage,place-butlr,Bike rack,Butler bike rack,,,,0
+bike-bvmnl,,3,bike-storage,place-bvmnl,Covered bike rack,Brookline Village covered bike rack,,,,0
+bike-ccmnl,,3,bike-storage,place-ccmnl,Bike rack,Community College bike rack,,,,0
+bike-chhil,,3,bike-storage,place-chhil,Covered bike rack,Chestnut Hill covered bike rack,,,,0
+bike-clmnl,,3,bike-storage,place-clmnl,Bike rack,Cleveland Circle bike rack,,,,0
+bike-cntsq,,3,bike-storage,place-cntsq,Covered bike rack,Central covered bike rack,,,,0
+bike-cool,,3,bike-storage,place-cool,Bike rack,Coolidge Corner bike rack,,,,0
+bike-davis,,3,bike-storage,place-davis,Pedal and Park,Davis Pedal and Park,,42.3966640,-71.1216460,0
+bike-eliot,,3,bike-storage,place-eliot,Covered bike rack,Eliot covered bike rack,,,,0
+bike-fenwy,,3,bike-storage,place-fenwy,Bike rack,Fenway bike rack,,,,0
+bike-fldcr,,3,bike-storage,place-fldcr,Covered bike rack,Fields Corner covered bike rack,,,,0
+bike-forhl,,3,bike-storage,place-forhl,Pedal and Park,Forest Hills Pedal and Park,,42.3010060,-71.1141310,0
+bike-grnst,,3,bike-storage,place-grnst,Covered bike rack,Green Street covered bike rack,,,,0
+bike-harsq,,3,bike-storage,place-harsq,Bike rack,Harvard bike rack,,,,0
+bike-jaksn,,3,bike-storage,place-jaksn,Covered bike rack,Jackson Square covered bike rack,,,,0
+bike-jfk,,3,bike-storage,place-jfk,Bike rack,JFK/UMass bike rack,,,,0
+bike-kencl,,3,bike-storage,place-kencl,Bike rack,Kenmore bike rack,,,,0
+bike-knncl,,3,bike-storage,place-knncl,Bike rack,Kendall/MIT bike rack,,,,0
+bike-longw,,3,bike-storage,place-longw,Bike rack,Longwood bike rack,,,,0
+bike-masta,,3,bike-storage,place-masta,Bike rack,Massachusetts Avenue bike rack,,,,0
+bike-matt,,3,bike-storage,place-matt,Bike rack,Mattapan bike rack,,,,0
+bike-miltt,,3,bike-storage,place-miltt,Bike rack,Milton bike rack,,,,0
+bike-mlmnl,,3,bike-storage,place-mlmnl,Pedal and Park,Malden Center Pedal and Park,,42.4268710,-71.0744500,0
+bike-mvbcl,,3,bike-storage,place-mvbcl,Covered bike rack,Maverick covered bike rack,,,,0
+bike-newto,,3,bike-storage,place-newto,Bike rack,Newton Centre bike rack,,,,0
+bike-north,,3,bike-storage,place-north,Bike rack,North Station bike rack,,,,0
+bike-nqncy,,3,bike-storage,place-nqncy,Covered bike rack,North Quincy covered bike rack,,,,0
+bike-nubn,,3,bike-storage,place-nubn,Pedal and Park,Nubian Pedal and Park,,42.3292240,-71.0841340,0
+bike-ogmnl,,3,bike-storage,place-ogmnl,Pedal and Park,Oak Grove Pedal and Park,,42.4370260,-71.0704470,0
+bike-orhte,,3,bike-storage,place-orhte,Covered bike rack,Orient Heights covered bike rack,,,,0
+bike-portr,,3,bike-storage,place-portr,Bike rack,Porter bike rack,,,,0
+bike-qamnl,,3,bike-storage,place-qamnl,Bike rack,Quincy Adams bike rack,,,,0
+bike-qnctr,,3,bike-storage,place-qnctr,Bike rack,Quincy Center bike rack,,,,0
+bike-rbmnl,,3,bike-storage,place-rbmnl,Bike rack,Revere Beach bike rack,,,,0
+bike-rcmnl,,3,bike-storage,place-rcmnl,Covered bike rack,Roxbury Crossing covered bike rack,,,,0
+bike-river,,3,bike-storage,place-river,Covered bike rack,Riverside covered bike rack,,,,0
+bike-rsmnl,,3,bike-storage,place-rsmnl,Covered bike rack,Reservoir covered bike rack,,,,0
+bike-rugg,,3,bike-storage,place-rugg,Bike rack,Ruggles bike rack,,,,0
+bike-sdmnl,,3,bike-storage,place-sdmnl,Bike rack,Suffolk Downs bike rack,,,,0
+bike-shmnl,,3,bike-storage,place-shmnl,Bike rack,Savin Hill bike rack,,,,0
+bike-smary,,3,bike-storage,place-smary,Bike rack,Saint Mary's Street bike rack,,,,0
+bike-sstat,,3,bike-storage,place-sstat,Pedal and Park,South Station Pedal and Park,,42.3515110,-71.0557050,0
+bike-sull,,3,bike-storage,place-sull,Covered bike rack,Sullivan Square covered bike rack,,,,0
+bike-sumav,,3,bike-storage,place-sumav,Covered bike rack,Summit Avenue covered bike rack,,,,0
+bike-waban,,3,bike-storage,place-waban,Bike rack,Waban bike rack,,,,0
+bike-welln,,3,bike-storage,place-welln,Covered bike rack,Wellington covered bike rack,,,,0
+bike-wimnl,,3,bike-storage,place-wimnl,Covered bike rack,Wood Island covered bike rack,,,,0
+bike-wlsta,,3,bike-storage,place-wlsta,Pedal and Park,Wollaston Pedal and Park,,42.2666070,-71.0199620,0
+bike-wondl,,3,bike-storage,place-wondl,Pedal and Park,Wonderland Pedal and Park,,42.4135870,-70.9923790,0
+bike-woodl,,3,bike-storage,place-woodl,Covered bike rack,Woodland covered bike rack,,,,0
+bike-wrnst,,3,bike-storage,place-wrnst,Covered bike rack,Warren Street covered bike rack,,,,0
+bike-wtcst,,3,bike-storage,place-wtcst,Covered bike rack,World Trade Center covered bike rack,,,,0
+charliecard-alfcl,,4,fare-media-assistant,place-alfcl,Employee with blank CharlieCards,Alewife customer service agent with blank CharlieCards,,,,0
+charliecard-armnl,,4,fare-media-assistant,place-armnl,Employee with blank CharlieCards,Arlington customer service agent with blank CharlieCards,,,,0
+charliecard-asmnl,,4,fare-media-assistant,place-asmnl,Employee with blank CharlieCards,Ashmont customer service agent with blank CharlieCards,,,,0
+charliecard-bbsta,,4,fare-media-assistant,place-bbsta,Employee with blank CharlieCards,Back Bay customer service agent with blank CharlieCards,,,,0
+charliecard-dwnxg-store,,4,fare-media-assistance-facility,place-dwnxg,CharlieCard Store,CharlieCard Store,,42.3549580,-71.0596690,0
+charliecard-forhl,,4,fare-media-assistant,place-forhl,Employee with blank CharlieCards,Forest Hills customer service agent with blank CharlieCards,,,,0
+charliecard-haecl,,4,fare-media-assistant,place-haecl,Employee with blank CharlieCards,Haymarket customer service agent with blank CharlieCards,,,,0
+charliecard-harsq,,4,fare-media-assistant,place-harsq,Employee with blank CharlieCards,Harvard customer service agent with blank CharlieCards,,,,0
+charliecard-kencl,,4,fare-media-assistant,place-kencl,Employee with blank CharlieCards,Kenmore customer service agent with blank CharlieCards,,,,0
+charliecard-mvbcl,,4,fare-media-assistant,place-mvbcl,Employee with blank CharlieCards,Maverick customer service agent with blank CharlieCards,,,,0
+charliecard-north,,4,fare-media-assistant,place-north,Employee with blank CharlieCards,North Station customer service agent with blank CharlieCards,,,,0
+charliecard-nubn,,4,fare-media-assistant,place-nubn,Employee with blank CharlieCards,Nubian customer service agent with blank CharlieCards,,,,0
+charliecard-ogmnl,,4,fare-media-assistant,place-ogmnl,Employee with blank CharlieCards,Oak Grove customer service agent with blank CharlieCards,,,,0
+charliecard-pktrm,,4,fare-media-assistant,place-pktrm,Employee with blank CharlieCards,Park Street customer service agent with blank CharlieCards,,,,0
+charliecard-qnctr,,4,fare-media-assistant,place-qnctr,Employee with blank CharlieCards,Quincy Center customer service agent with blank CharlieCards,,,,0
+charliecard-rugg,,4,fare-media-assistant,place-rugg,Employee with blank CharlieCards,Ruggles customer service agent with blank CharlieCards,,,,0
+charliecard-sstat,,4,fare-media-assistant,place-sstat,Employee with blank CharlieCards,South Station customer service agent with blank CharlieCards,,,,0
+charliecard-wondl,,4,fare-media-assistant,place-wondl,Employee with blank CharlieCards,Wonderland customer service agent with blank CharlieCards,,,,0
+consign-vend-coffeet,,4,fare-vending-retailer,place-KB-0351,Coffee T & Thee,Coffee T & Thee,,41.9763360,-70.7246660,0
+consign-vend-javaj,,4,fare-vending-retailer,place-NEC-2173,Java Junction,Java Junction,,42.2098840,-71.1471000,0
+ev-ER-0168-garage,,6,electric-car-chargers,place-ER-0168,EV Chargers,Salem Garage EV Chargers,,,,0
+ev-FR-0301,,6,electric-car-chargers,place-FR-0301,EV Chargers,Littleton/Route 495 Parking Lot EV Chargers,,,,0
+ev-FR-0451-garage,,6,electric-car-chargers,place-FR-0451,EV Chargers,North Leominster Garage EV Chargers,,,,0
+ev-FR-0494-garage,,6,electric-car-chargers,place-FR-0494,EV Chargers,Fitchburg Garage EV Chargers,,,,0
+ev-FR-3338-garage,,6,electric-car-chargers,place-FR-3338,EV Chargers,Wachusett Garage EV Chargers,,,,0
+ev-NEC-1659,,6,electric-car-chargers,place-NEC-1659,EV Chargers,Wickford Junction Parking Lot EV Chargers,,,,0
+ev-NEC-2173-garage,,6,electric-car-chargers,place-NEC-2173,EV Chargers,Route 128 Garage EV Chargers,,,,0
+ev-NHRML-0152,,6,electric-car-chargers,place-NHRML-0152,EV Chargers,Wilmington Parking Lot EV Chargers,,,,0
+ev-WML-0442-garage,,6,electric-car-chargers,place-WML-0442,EV Chargers,Worcester Garage EV Chargers,,,,0
+ev-alfcl-garage,,6,electric-car-chargers,place-alfcl,EV Chargers,Alewife Garage EV Chargers,,,,0
+ev-brntn-garage,,6,electric-car-chargers,place-brntn,EV Chargers,Braintree Garage EV Chargers,,,,0
+ev-forhl,,6,electric-car-chargers,place-forhl,EV Chargers,Forest Hills Parking Lot EV Chargers,,,,0
+ev-qamnl-garage,,6,electric-car-chargers,place-qamnl,EV Chargers,Quincy Adams Garage EV Chargers,,,,0
+ev-wondl-garage,,6,electric-car-chargers,place-wondl,EV Chargers,Wonderland Garage EV Chargers,,,,0
+ev-woodl-garage,,6,electric-car-chargers,place-woodl,EV Chargers,Woodland Garage EV Chargers,,,,0
+fvm-201001,,4,fare-vending-machine,place-aqucl,Fare vending machine 201001,Aquarium fare vending machine 201001,,,,0
+fvm-201002,,4,fare-vending-machine,place-aqucl,Fare vending machine 201002,Aquarium fare vending machine 201002,,,,0
+fvm-201003,,4,fare-vending-machine,place-aqucl,Fare vending machine 201003,Aquarium fare vending machine 201003,,,,0
+fvm-201004,,4,fare-vending-machine,place-aqucl,Fare vending machine 201004,Aquarium fare vending machine 201004,,,,0
+fvm-201005,,4,fare-vending-machine,place-aport,Fare vending machine 201005,Airport fare vending machine 201005,,,,0
+fvm-201006,,4,fare-vending-machine,place-aport,Fare vending machine 201006,Airport fare vending machine 201006,,,,0
+fvm-201007,,4,fare-vending-machine,place-aport,Fare vending machine 201007,Airport fare vending machine 201007,,,,0
+fvm-201008,,4,fare-vending-machine,place-aport,Fare vending machine 201008,Airport fare vending machine 201008,,,,0
+fvm-201009,,4,fare-vending-machine,place-aport,Fare vending machine 201009,Airport fare vending machine 201009,,,,0
+fvm-201010,,4,fare-vending-machine,place-wimnl,Fare vending machine 201010,Wood Island fare vending machine 201010,,,,0
+fvm-201011,,4,fare-vending-machine,place-wimnl,Fare vending machine 201011,Wood Island fare vending machine 201011,,,,0
+fvm-201012,,4,fare-vending-machine,place-orhte,Fare vending machine 201012,Orient Heights fare vending machine 201012,,,,0
+fvm-201013,,4,fare-vending-machine,place-orhte,Fare vending machine 201013,Orient Heights fare vending machine 201013,,,,0
+fvm-201014,,4,fare-vending-machine,place-orhte,Fare vending machine 201014,Orient Heights fare vending machine 201014,,,,0
+fvm-201015,,4,fare-vending-machine,place-orhte,Fare vending machine 201015,Orient Heights fare vending machine 201015,,,,0
+fvm-201016,,4,fare-vending-machine,place-sdmnl,Fare vending machine 201016,Suffolk Downs fare vending machine 201016,,,,0
+fvm-201017,,4,fare-vending-machine,place-bmmnl,Fare vending machine 201017,Beachmont fare vending machine 201017,,,,0
+fvm-201018,,4,fare-vending-machine,place-bmmnl,Fare vending machine 201018,Beachmont fare vending machine 201018,,,,0
+fvm-201019,,4,fare-vending-machine,place-rbmnl,Fare vending machine 201019,Revere Beach fare vending machine 201019,,,,0
+fvm-201020,,4,fare-vending-machine,place-rbmnl,Fare vending machine 201020,Revere Beach fare vending machine 201020,,,,0
+fvm-201021,,4,fare-vending-machine,place-wondl,Fare vending machine 201021,Wonderland fare vending machine 201021,,,,0
+fvm-201022,,4,fare-vending-machine,place-wondl,Fare vending machine 201022,Wonderland fare vending machine 201022,,,,0
+fvm-201023,,4,fare-vending-machine,place-wondl,Fare vending machine 201023,Wonderland fare vending machine 201023,,,,0
+fvm-201024,,4,fare-vending-machine,place-wondl,Fare vending machine 201024,Wonderland fare vending machine 201024,,,,0
+fvm-201025,,4,fare-vending-machine,place-ogmnl,Fare vending machine 201025,Oak Grove fare vending machine 201025,,,,0
+fvm-201026,,4,fare-vending-machine,place-ogmnl,Fare vending machine 201026,Oak Grove fare vending machine 201026,,,,0
+fvm-201027,,4,fare-vending-machine,place-ogmnl,Fare vending machine 201027,Oak Grove fare vending machine 201027,,,,0
+fvm-201028,,4,fare-vending-machine,place-mlmnl,Fare vending machine 201028,Malden Center fare vending machine 201028,,,,0
+fvm-201029,,4,fare-vending-machine,place-mlmnl,Fare vending machine 201029,Malden Center fare vending machine 201029,,,,0
+fvm-201030,,4,fare-vending-machine,place-mlmnl,Fare vending machine 201030,Malden Center fare vending machine 201030,,,,0
+fvm-201031,,4,fare-vending-machine,place-welln,Fare vending machine 201031,Wellington fare vending machine 201031,,,,0
+fvm-201032,,4,fare-vending-machine,place-welln,Fare vending machine 201032,Wellington fare vending machine 201032,,,,0
+fvm-201033,,4,fare-vending-machine,place-welln,Fare vending machine 201033,Wellington fare vending machine 201033,,,,0
+fvm-201034,,4,fare-vending-machine,place-welln,Fare vending machine 201034,Wellington fare vending machine 201034,,,,0
+fvm-201035,,4,fare-vending-machine,place-sull,Fare vending machine 201035,Sullivan Square fare vending machine 201035,,,,0
+fvm-201036,,4,fare-vending-machine,place-sull,Fare vending machine 201036,Sullivan Square fare vending machine 201036,,,,0
+fvm-201037,,4,fare-vending-machine,place-sull,Fare vending machine 201037,Sullivan Square fare vending machine 201037,,,,0
+fvm-201038,,4,fare-vending-machine,place-sull,Fare vending machine 201038,Sullivan Square fare vending machine 201038,,,,0
+fvm-201039,,4,fare-vending-machine,place-sull,Fare vending machine 201039,Sullivan Square fare vending machine 201039,,,,0
+fvm-201040,,4,fare-vending-machine,place-ccmnl,Fare vending machine 201040,Community College fare vending machine 201040,,,,0
+fvm-201041,,4,fare-vending-machine,place-ccmnl,Fare vending machine 201041,Community College fare vending machine 201041,,,,0
+fvm-201042,,4,fare-vending-machine,place-north,Fare vending machine 201042,North Station fare vending machine 201042,,,,0
+fvm-201043,,4,fare-vending-machine,place-north,Fare vending machine 201043,North Station fare vending machine 201043,,,,0
+fvm-201044,,4,fare-vending-machine,place-north,Fare vending machine 201044,North Station fare vending machine 201044,,,,0
+fvm-201045,,4,fare-vending-machine,place-north,Fare vending machine 201045,North Station fare vending machine 201045,,,,0
+fvm-201046,,4,fare-vending-machine,place-north,Fare vending machine 201046,North Station fare vending machine 201046,,,,0
+fvm-201047,,4,fare-vending-machine,place-north,Fare vending machine 201047,North Station fare vending machine 201047,,,,0
+fvm-201048,,4,fare-vending-machine,place-haecl,Fare vending machine 201048,Haymarket fare vending machine 201048,,,,0
+fvm-201049,,4,fare-vending-machine,place-haecl,Fare vending machine 201049,Haymarket fare vending machine 201049,,,,0
+fvm-201050,,4,fare-vending-machine,place-state,Fare vending machine 201050,State fare vending machine 201050,,,,0
+fvm-201051,,4,fare-vending-machine,place-state,Fare vending machine 201051,State fare vending machine 201051,,,,0
+fvm-201052,,4,fare-vending-machine,place-mlmnl,Fare vending machine 201052,Malden Center fare vending machine 201052,,,,0
+fvm-201053,,4,fare-vending-machine,place-state,Fare vending machine 201053,State fare vending machine 201053,,,,0
+fvm-201054,,4,fare-vending-machine,place-state,Fare vending machine 201054,State fare vending machine 201054,,,,0
+fvm-201055,,4,fare-vending-machine,place-mlmnl,Fare vending machine 201055,Malden Center fare vending machine 201055,,,,0
+fvm-201056,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201056,Downtown Crossing fare vending machine 201056,,,,0
+fvm-201057,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201057,Downtown Crossing fare vending machine 201057,,,,0
+fvm-201058,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201058,Downtown Crossing fare vending machine 201058,,,,0
+fvm-201059,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201059,Downtown Crossing fare vending machine 201059,,,,0
+fvm-201060,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201060,Downtown Crossing fare vending machine 201060,,,,0
+fvm-201061,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201061,Downtown Crossing fare vending machine 201061,,,,0
+fvm-201062,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201062,Downtown Crossing fare vending machine 201062,,,,0
+fvm-201063,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201063,Downtown Crossing fare vending machine 201063,,,,0
+fvm-201064,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201064,Downtown Crossing fare vending machine 201064,,,,0
+fvm-201065,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201065,Downtown Crossing fare vending machine 201065,,,,0
+fvm-201066,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201066,Downtown Crossing fare vending machine 201066,,,,0
+fvm-201067,,4,fare-vending-machine,place-chncl,Fare vending machine 201067,Chinatown fare vending machine 201067,,,,0
+fvm-201068,,4,fare-vending-machine,place-chncl,Fare vending machine 201068,Chinatown fare vending machine 201068,,,,0
+fvm-201069,,4,fare-vending-machine,place-chncl,Fare vending machine 201069,Chinatown fare vending machine 201069,,,,0
+fvm-201070,,4,fare-vending-machine,place-chncl,Fare vending machine 201070,Chinatown fare vending machine 201070,,,,0
+fvm-201071,,4,fare-vending-machine,place-tumnl,Fare vending machine 201071,Tufts Medical Center fare vending machine 201071,,,,0
+fvm-201072,,4,fare-vending-machine,place-tumnl,Fare vending machine 201072,Tufts Medical Center fare vending machine 201072,,,,0
+fvm-201073,,4,fare-vending-machine,place-tumnl,Fare vending machine 201073,Tufts Medical Center fare vending machine 201073,,,,0
+fvm-201074,,4,fare-vending-machine,place-tumnl,Fare vending machine 201074,Tufts Medical Center fare vending machine 201074,,,,0
+fvm-201075,,4,fare-vending-machine,place-tumnl,Fare vending machine 201075,Tufts Medical Center fare vending machine 201075,,,,0
+fvm-201076,,4,fare-vending-machine,place-bbsta,Fare vending machine 201076,Back Bay fare vending machine 201076,,,,0
+fvm-201077,,4,fare-vending-machine,place-bbsta,Fare vending machine 201077,Back Bay fare vending machine 201077,,,,0
+fvm-201078,,4,fare-vending-machine,place-bbsta,Fare vending machine 201078,Back Bay fare vending machine 201078,,,,0
+fvm-201079,,4,fare-vending-machine,place-bbsta,Fare vending machine 201079,Back Bay fare vending machine 201079,,,,0
+fvm-201080,,4,fare-vending-machine,place-bbsta,Fare vending machine 201080,Back Bay fare vending machine 201080,,,,0
+fvm-201081,,4,fare-vending-machine,place-masta,Fare vending machine 201081,Massachusetts Avenue fare vending machine 201081,,,,0
+fvm-201082,,4,fare-vending-machine,place-masta,Fare vending machine 201082,Massachusetts Avenue fare vending machine 201082,,,,0
+fvm-201083,,4,fare-vending-machine,place-rugg,Fare vending machine 201083,Ruggles fare vending machine 201083,,,,0
+fvm-201084,,4,fare-vending-machine,place-rugg,Fare vending machine 201084,Ruggles fare vending machine 201084,,,,0
+fvm-201085,,4,fare-vending-machine,place-rugg,Fare vending machine 201085,Ruggles fare vending machine 201085,,,,0
+fvm-201086,,4,fare-vending-machine,place-rugg,Fare vending machine 201086,Ruggles fare vending machine 201086,,,,0
+fvm-201087,,4,fare-vending-machine,place-rcmnl,Fare vending machine 201087,Roxbury Crossing fare vending machine 201087,,,,0
+fvm-201088,,4,fare-vending-machine,place-rcmnl,Fare vending machine 201088,Roxbury Crossing fare vending machine 201088,,,,0
+fvm-201089,,4,fare-vending-machine,place-rcmnl,Fare vending machine 201089,Roxbury Crossing fare vending machine 201089,,,,0
+fvm-201090,,4,fare-vending-machine,place-jaksn,Fare vending machine 201090,Jackson Square fare vending machine 201090,,,,0
+fvm-201091,,4,fare-vending-machine,place-jaksn,Fare vending machine 201091,Jackson Square fare vending machine 201091,,,,0
+fvm-201092,,4,fare-vending-machine,place-jaksn,Fare vending machine 201092,Jackson Square fare vending machine 201092,,,,0
+fvm-201093,,4,fare-vending-machine,place-jaksn,Fare vending machine 201093,Jackson Square fare vending machine 201093,,,,0
+fvm-201094,,4,fare-vending-machine,place-sbmnl,Fare vending machine 201094,Stony Brook fare vending machine 201094,,,,0
+fvm-201095,,4,fare-vending-machine,place-sbmnl,Fare vending machine 201095,Stony Brook fare vending machine 201095,,,,0
+fvm-201096,,4,fare-vending-machine,place-sbmnl,Fare vending machine 201096,Stony Brook fare vending machine 201096,,,,0
+fvm-201097,,4,fare-vending-machine,place-grnst,Fare vending machine 201097,Green Street fare vending machine 201097,,,,0
+fvm-201098,,4,fare-vending-machine,place-grnst,Fare vending machine 201098,Green Street fare vending machine 201098,,,,0
+fvm-201099,,4,fare-vending-machine,place-forhl,Fare vending machine 201099,Forest Hills fare vending machine 201099,,,,0
+fvm-201100,,4,fare-vending-machine,place-forhl,Fare vending machine 201100,Forest Hills fare vending machine 201100,,,,0
+fvm-201101,,4,fare-vending-machine,place-forhl,Fare vending machine 201101,Forest Hills fare vending machine 201101,,,,0
+fvm-201102,,4,fare-vending-machine,place-forhl,Fare vending machine 201102,Forest Hills fare vending machine 201102,,,,0
+fvm-201103,,4,fare-vending-machine,place-forhl,Fare vending machine 201103,Forest Hills fare vending machine 201103,,,,0
+fvm-201104,,4,fare-vending-machine,place-forhl,Fare vending machine 201104,Forest Hills fare vending machine 201104,,,,0
+fvm-201105,,4,fare-vending-machine,place-forhl,Fare vending machine 201105,Forest Hills fare vending machine 201105,,,,0
+fvm-201106,,4,fare-vending-machine,place-north,Fare vending machine 201106,North Station fare vending machine 201106,,,,0
+fvm-201107,,4,fare-vending-machine,place-north,Fare vending machine 201107,North Station fare vending machine 201107,,,,0
+fvm-201110,,4,fare-vending-machine,place-north,Fare vending machine 201110,North Station fare vending machine 201110,,,,0
+fvm-201111,,4,fare-vending-machine,place-bbsta,Fare vending machine 201111,Back Bay fare vending machine 201111,,,,0
+fvm-201112,,4,fare-vending-machine,place-bbsta,Fare vending machine 201112,Back Bay fare vending machine 201112,,,,0
+fvm-201113,,4,fare-vending-machine,place-bbsta,Fare vending machine 201113,Back Bay fare vending machine 201113,,,,0
+fvm-201114,,4,fare-vending-machine,place-bbsta,Fare vending machine 201114,Back Bay fare vending machine 201114,,,,0
+fvm-201115,,4,fare-vending-machine,place-bbsta,Fare vending machine 201115,Back Bay fare vending machine 201115,,,,0
+fvm-201116,,4,fare-vending-machine,place-alfcl,Fare vending machine 201116,Alewife fare vending machine 201116,,,,0
+fvm-201117,,4,fare-vending-machine,place-alfcl,Fare vending machine 201117,Alewife fare vending machine 201117,,,,0
+fvm-201118,,4,fare-vending-machine,place-alfcl,Fare vending machine 201118,Alewife fare vending machine 201118,,,,0
+fvm-201119,,4,fare-vending-machine,place-alfcl,Fare vending machine 201119,Alewife fare vending machine 201119,,,,0
+fvm-201120,,4,fare-vending-machine,place-alfcl,Fare vending machine 201120,Alewife fare vending machine 201120,,,,0
+fvm-201121,,4,fare-vending-machine,place-davis,Fare vending machine 201121,Davis fare vending machine 201121,,,,0
+fvm-201122,,4,fare-vending-machine,place-davis,Fare vending machine 201122,Davis fare vending machine 201122,,,,0
+fvm-201123,,4,fare-vending-machine,place-davis,Fare vending machine 201123,Davis fare vending machine 201123,,,,0
+fvm-201124,,4,fare-vending-machine,place-portr,Fare vending machine 201124,Porter fare vending machine 201124,,,,0
+fvm-201125,,4,fare-vending-machine,place-portr,Fare vending machine 201125,Porter fare vending machine 201125,,,,0
+fvm-201126,,4,fare-vending-machine,place-portr,Fare vending machine 201126,Porter fare vending machine 201126,,,,0
+fvm-201127,,4,fare-vending-machine,place-harsq,Fare vending machine 201127,Harvard fare vending machine 201127,,,,0
+fvm-201128,,4,fare-vending-machine,place-harsq,Fare vending machine 201128,Harvard fare vending machine 201128,,,,0
+fvm-201129,,4,fare-vending-machine,place-harsq,Fare vending machine 201129,Harvard fare vending machine 201129,,,,0
+fvm-201130,,4,fare-vending-machine,place-harsq,Fare vending machine 201130,Harvard fare vending machine 201130,,,,0
+fvm-201131,,4,fare-vending-machine,place-harsq,Fare vending machine 201131,Harvard fare vending machine 201131,,,,0
+fvm-201132,,4,fare-vending-machine,place-harsq,Fare vending machine 201132,Harvard fare vending machine 201132,,,,0
+fvm-201133,,4,fare-vending-machine,place-harsq,Fare vending machine 201133,Harvard fare vending machine 201133,,,,0
+fvm-201134,,4,fare-vending-machine,place-cntsq,Fare vending machine 201134,Central fare vending machine 201134,,,,0
+fvm-201135,,4,fare-vending-machine,place-cntsq,Fare vending machine 201135,Central fare vending machine 201135,,,,0
+fvm-201136,,4,fare-vending-machine,place-cntsq,Fare vending machine 201136,Central fare vending machine 201136,,,,0
+fvm-201137,,4,fare-vending-machine,place-cntsq,Fare vending machine 201137,Central fare vending machine 201137,,,,0
+fvm-201138,,4,fare-vending-machine,place-cntsq,Fare vending machine 201138,Central fare vending machine 201138,,,,0
+fvm-201140,,4,fare-vending-machine,place-cntsq,Fare vending machine 201140,Central fare vending machine 201140,,,,0
+fvm-201142,,4,fare-vending-machine,place-knncl,Fare vending machine 201142,Kendall/MIT fare vending machine 201142,,,,0
+fvm-201143,,4,fare-vending-machine,place-knncl,Fare vending machine 201143,Kendall/MIT fare vending machine 201143,,,,0
+fvm-201144,,4,fare-vending-machine,place-knncl,Fare vending machine 201144,Kendall/MIT fare vending machine 201144,,,,0
+fvm-201145,,4,fare-vending-machine,place-knncl,Fare vending machine 201145,Kendall/MIT fare vending machine 201145,,,,0
+fvm-201146,,4,fare-vending-machine,place-knncl,Fare vending machine 201146,Kendall/MIT fare vending machine 201146,,,,0
+fvm-201147,,4,fare-vending-machine,place-knncl,Fare vending machine 201147,Kendall/MIT fare vending machine 201147,,,,0
+fvm-201148,,4,fare-vending-machine,place-jfk,Fare vending machine 201148,JFK/UMass fare vending machine 201148,,,,0
+fvm-201152,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201152,Downtown Crossing fare vending machine 201152,,,,0
+fvm-201153,,4,fare-vending-machine,place-sstat,Fare vending machine 201153,South Station fare vending machine 201153,,,,0
+fvm-201154,,4,fare-vending-machine,place-sstat,Fare vending machine 201154,South Station fare vending machine 201154,,,,0
+fvm-201155,,4,fare-vending-machine,place-sstat,Fare vending machine 201155,South Station fare vending machine 201155,,,,0
+fvm-201156,,4,fare-vending-machine,place-sstat,Fare vending machine 201156,South Station fare vending machine 201156,,,,0
+fvm-201157,,4,fare-vending-machine,place-sstat,Fare vending machine 201157,South Station fare vending machine 201157,,,,0
+fvm-201158,,4,fare-vending-machine,place-sstat,Fare vending machine 201158,South Station fare vending machine 201158,,,,0
+fvm-201159,,4,fare-vending-machine,place-sstat,Fare vending machine 201159,South Station fare vending machine 201159,,,,0
+fvm-201160,,4,fare-vending-machine,place-sstat,Fare vending machine 201160,South Station fare vending machine 201160,,,,0
+fvm-201164,,4,fare-vending-machine,place-sstat,Fare vending machine 201164,South Station fare vending machine 201164,,,,0
+fvm-201166,,4,fare-vending-machine,place-brdwy,Fare vending machine 201166,Broadway fare vending machine 201166,,,,0
+fvm-201167,,4,fare-vending-machine,place-brdwy,Fare vending machine 201167,Broadway fare vending machine 201167,,,,0
+fvm-201168,,4,fare-vending-machine,place-andrw,Fare vending machine 201168,Andrew fare vending machine 201168,,,,0
+fvm-201169,,4,fare-vending-machine,place-andrw,Fare vending machine 201169,Andrew fare vending machine 201169,,,,0
+fvm-201170,,4,fare-vending-machine,place-jfk,Fare vending machine 201170,JFK/UMass fare vending machine 201170,,,,0
+fvm-201171,,4,fare-vending-machine,place-jfk,Fare vending machine 201171,JFK/UMass fare vending machine 201171,,,,0
+fvm-201172,,4,fare-vending-machine,place-jfk,Fare vending machine 201172,JFK/UMass fare vending machine 201172,,,,0
+fvm-201173,,4,fare-vending-machine,place-shmnl,Fare vending machine 201173,Savin Hill fare vending machine 201173,,,,0
+fvm-201174,,4,fare-vending-machine,place-shmnl,Fare vending machine 201174,Savin Hill fare vending machine 201174,,,,0
+fvm-201175,,4,fare-vending-machine,place-shmnl,Fare vending machine 201175,Savin Hill fare vending machine 201175,,,,0
+fvm-201176,,4,fare-vending-machine,place-fldcr,Fare vending machine 201176,Fields Corner fare vending machine 201176,,,,0
+fvm-201177,,4,fare-vending-machine,place-fldcr,Fare vending machine 201177,Fields Corner fare vending machine 201177,,,,0
+fvm-201178,,4,fare-vending-machine,place-smmnl,Fare vending machine 201178,Shawmut fare vending machine 201178,,,,0
+fvm-201179,,4,fare-vending-machine,place-smmnl,Fare vending machine 201179,Shawmut fare vending machine 201179,,,,0
+fvm-201180,,4,fare-vending-machine,place-asmnl,Fare vending machine 201180,Ashmont fare vending machine 201180,,,,0
+fvm-201181,,4,fare-vending-machine,place-asmnl,Fare vending machine 201181,Ashmont fare vending machine 201181,,,,0
+fvm-201182,,4,fare-vending-machine,place-asmnl,Fare vending machine 201182,Ashmont fare vending machine 201182,,,,0
+fvm-201183,,4,fare-vending-machine,place-asmnl,Fare vending machine 201183,Ashmont fare vending machine 201183,,,,0
+fvm-201184,,4,fare-vending-machine,place-nqncy,Fare vending machine 201184,North Quincy fare vending machine 201184,,,,0
+fvm-201185,,4,fare-vending-machine,place-nqncy,Fare vending machine 201185,North Quincy fare vending machine 201185,,,,0
+fvm-201186,,4,fare-vending-machine,place-nqncy,Fare vending machine 201186,North Quincy fare vending machine 201186,,,,0
+fvm-201187,,4,fare-vending-machine,place-nqncy,Fare vending machine 201187,North Quincy fare vending machine 201187,,,,0
+fvm-201191,,4,fare-vending-machine,place-qnctr,Fare vending machine 201191,Quincy Center fare vending machine 201191,,,,0
+fvm-201192,,4,fare-vending-machine,place-qnctr,Fare vending machine 201192,Quincy Center fare vending machine 201192,,,,0
+fvm-201193,,4,fare-vending-machine,place-qnctr,Fare vending machine 201193,Quincy Center fare vending machine 201193,,,,0
+fvm-201194,,4,fare-vending-machine,place-qamnl,Fare vending machine 201194,Quincy Adams fare vending machine 201194,,,,0
+fvm-201195,,4,fare-vending-machine,place-qamnl,Fare vending machine 201195,Quincy Adams fare vending machine 201195,,,,0
+fvm-201196,,4,fare-vending-machine,place-qamnl,Fare vending machine 201196,Quincy Adams fare vending machine 201196,,,,0
+fvm-201199,,4,fare-vending-machine,place-brntn,Fare vending machine 201199,Braintree fare vending machine 201199,,,,0
+fvm-201200,,4,fare-vending-machine,place-brntn,Fare vending machine 201200,Braintree fare vending machine 201200,,,,0
+fvm-201201,,4,fare-vending-machine,place-brntn,Fare vending machine 201201,Braintree fare vending machine 201201,,,,0
+fvm-201202,,4,fare-vending-machine,place-brntn,Fare vending machine 201202,Braintree fare vending machine 201202,,,,0
+fvm-201203,,4,fare-vending-machine,place-lech,Fare vending machine 201203,Lechmere fare vending machine 201203,,42.3709330,-71.0775770,0
+fvm-201204,,4,fare-vending-machine,place-lech,Fare vending machine 201204,Lechmere fare vending machine 201204,,42.3709330,-71.0775770,0
+fvm-201205,,4,fare-vending-machine,place-lech,Fare vending machine 201205,Lechmere fare vending machine 201205,,42.3709330,-71.0775770,0
+fvm-201206,,4,fare-vending-machine,place-spmnl,Fare vending machine 201206,Science Park/West End fare vending machine 201206,,,,0
+fvm-201207,,4,fare-vending-machine,place-spmnl,Fare vending machine 201207,Science Park/West End fare vending machine 201207,,,,0
+fvm-201209,,4,fare-vending-machine,place-haecl,Fare vending machine 201209,Haymarket fare vending machine 201209,,,,0
+fvm-201210,,4,fare-vending-machine,place-haecl,Fare vending machine 201210,Haymarket fare vending machine 201210,,,,0
+fvm-201211,,4,fare-vending-machine,place-haecl,Fare vending machine 201211,Haymarket fare vending machine 201211,,,,0
+fvm-201212,,4,fare-vending-machine,place-pktrm,Fare vending machine 201212,Park Street fare vending machine 201212,,,,0
+fvm-201213,,4,fare-vending-machine,place-pktrm,Fare vending machine 201213,Park Street fare vending machine 201213,,,,0
+fvm-201214,,4,fare-vending-machine,place-pktrm,Fare vending machine 201214,Park Street fare vending machine 201214,,,,0
+fvm-201215,,4,fare-vending-machine,place-pktrm,Fare vending machine 201215,Park Street fare vending machine 201215,,,,0
+fvm-201216,,4,fare-vending-machine,place-pktrm,Fare vending machine 201216,Park Street fare vending machine 201216,,,,0
+fvm-201217,,4,fare-vending-machine,place-pktrm,Fare vending machine 201217,Park Street fare vending machine 201217,,,,0
+fvm-201218,,4,fare-vending-machine,place-pktrm,Fare vending machine 201218,Park Street fare vending machine 201218,,,,0
+fvm-201219,,4,fare-vending-machine,place-pktrm,Fare vending machine 201219,Park Street fare vending machine 201219,,,,0
+fvm-201221,,4,fare-vending-machine,place-boyls,Fare vending machine 201221,Boylston fare vending machine 201221,,,,0
+fvm-201222,,4,fare-vending-machine,place-boyls,Fare vending machine 201222,Boylston fare vending machine 201222,,,,0
+fvm-201223,,4,fare-vending-machine,place-boyls,Fare vending machine 201223,Boylston fare vending machine 201223,,,,0
+fvm-201224,,4,fare-vending-machine,place-boyls,Fare vending machine 201224,Boylston fare vending machine 201224,,,,0
+fvm-201225,,4,fare-vending-machine,place-hymnl,Fare vending machine 201225,Hynes Convention Center fare vending machine 201225,,,,0
+fvm-201226,,4,fare-vending-machine,place-hymnl,Fare vending machine 201226,Hynes Convention Center fare vending machine 201226,,,,0
+fvm-201227,,4,fare-vending-machine,place-hymnl,Fare vending machine 201227,Hynes Convention Center fare vending machine 201227,,,,0
+fvm-201228,,4,fare-vending-machine,place-prmnl,Fare vending machine 201228,Prudential fare vending machine 201228,,,,0
+fvm-201229,,4,fare-vending-machine,place-prmnl,Fare vending machine 201229,Prudential fare vending machine 201229,,,,0
+fvm-201230,,4,fare-vending-machine,place-symcl,Fare vending machine 201230,Symphony fare vending machine 201230,,,,0
+fvm-201231,,4,fare-vending-machine,place-symcl,Fare vending machine 201231,Symphony fare vending machine 201231,,,,0
+fvm-201232,,4,fare-vending-machine,place-symcl,Fare vending machine 201232,Symphony fare vending machine 201232,,,,0
+fvm-201233,,4,fare-vending-machine,place-bomnl,Fare vending machine 201233,Bowdoin fare vending machine 201233,,,,0
+fvm-201234,,4,fare-vending-machine,place-bomnl,Fare vending machine 201234,Bowdoin fare vending machine 201234,,,,0
+fvm-201239,,4,fare-vending-machine,place-armnl,Fare vending machine 201239,Arlington fare vending machine 201239,,,,0
+fvm-201240,,4,fare-vending-machine,place-armnl,Fare vending machine 201240,Arlington fare vending machine 201240,,,,0
+fvm-201241,,4,fare-vending-machine,place-armnl,Fare vending machine 201241,Arlington fare vending machine 201241,,,,0
+fvm-201242,,4,fare-vending-machine,place-coecl,Fare vending machine 201242,Copley fare vending machine 201242,,,,0
+fvm-201243,,4,fare-vending-machine,place-coecl,Fare vending machine 201243,Copley fare vending machine 201243,,,,0
+fvm-201244,,4,fare-vending-machine,place-coecl,Fare vending machine 201244,Copley fare vending machine 201244,,,,0
+fvm-201245,,4,fare-vending-machine,place-coecl,Fare vending machine 201245,Copley fare vending machine 201245,,,,0
+fvm-201246,,4,fare-vending-machine,place-coecl,Fare vending machine 201246,Copley fare vending machine 201246,,,,0
+fvm-201247,,4,fare-vending-machine,place-kencl,Fare vending machine 201247,Kenmore fare vending machine 201247,,,,0
+fvm-201248,,4,fare-vending-machine,place-kencl,Fare vending machine 201248,Kenmore fare vending machine 201248,,,,0
+fvm-201249,,4,fare-vending-machine,place-kencl,Fare vending machine 201249,Kenmore fare vending machine 201249,,,,0
+fvm-201250,,4,fare-vending-machine,place-kencl,Fare vending machine 201250,Kenmore fare vending machine 201250,,,,0
+fvm-201251,,4,fare-vending-machine,place-kencl,Fare vending machine 201251,Kenmore fare vending machine 201251,,,,0
+fvm-201252,,4,fare-vending-machine,place-fenwy,Fare vending machine 201252,Fenway fare vending machine 201252,,42.3451860,-71.1044930,0
+fvm-201253,,4,fare-vending-machine,place-fenwy,Fare vending machine 201253,Fenway fare vending machine 201253,,42.3451860,-71.1044930,0
+fvm-201254,,4,fare-vending-machine,place-longw,Fare vending machine 201254,Longwood fare vending machine 201254,,42.3415100,-71.1103070,0
+fvm-201255,,4,fare-vending-machine,place-longw,Fare vending machine 201255,Longwood fare vending machine 201255,,42.3415100,-71.1103070,0
+fvm-201256,,4,fare-vending-machine,place-longw,Fare vending machine 201256,Longwood fare vending machine 201256,,42.3415100,-71.1103070,0
+fvm-201257,,4,fare-vending-machine,place-bvmnl,Fare vending machine 201257,Brookline Village fare vending machine 201257,,42.3327930,-71.1166710,0
+fvm-201258,,4,fare-vending-machine,place-bvmnl,Fare vending machine 201258,Brookline Village fare vending machine 201258,,42.3327930,-71.1166710,0
+fvm-201259,,4,fare-vending-machine,place-bvmnl,Fare vending machine 201259,Brookline Village fare vending machine 201259,,42.3327930,-71.1166710,0
+fvm-201260,,4,fare-vending-machine,place-brkhl,Fare vending machine 201260,Brookline Hills fare vending machine 201260,,42.3313960,-71.1265550,0
+fvm-201261,,4,fare-vending-machine,place-brkhl,Fare vending machine 201261,Brookline Hills fare vending machine 201261,,42.3313960,-71.1265550,0
+fvm-201262,,4,fare-vending-machine,place-bcnfd,Fare vending machine 201262,Beaconsfield fare vending machine 201262,,42.3358730,-71.1404770,0
+fvm-201263,,4,fare-vending-machine,place-bcnfd,Fare vending machine 201263,Beaconsfield fare vending machine 201263,,42.3358730,-71.1404770,0
+fvm-201264,,4,fare-vending-machine,place-rsmnl,Fare vending machine 201264,Reservoir fare vending machine 201264,,,,0
+fvm-201265,,4,fare-vending-machine,place-rsmnl,Fare vending machine 201265,Reservoir fare vending machine 201265,,,,0
+fvm-201266,,4,fare-vending-machine,place-rsmnl,Fare vending machine 201266,Reservoir fare vending machine 201266,,,,0
+fvm-201267,,4,fare-vending-machine,place-chhil,Fare vending machine 201267,Chestnut Hill fare vending machine 201267,,42.3267040,-71.1646180,0
+fvm-201268,,4,fare-vending-machine,place-chhil,Fare vending machine 201268,Chestnut Hill fare vending machine 201268,,42.3267040,-71.1646180,0
+fvm-201269,,4,fare-vending-machine,place-newto,Fare vending machine 201269,Newton Centre fare vending machine 201269,,42.3295050,-71.1920840,0
+fvm-201270,,4,fare-vending-machine,place-newto,Fare vending machine 201270,Newton Centre fare vending machine 201270,,42.3295050,-71.1920840,0
+fvm-201271,,4,fare-vending-machine,place-newtn,Fare vending machine 201271,Newton Highlands fare vending machine 201271,,42.3223980,-71.2053860,0
+fvm-201272,,4,fare-vending-machine,place-newtn,Fare vending machine 201272,Newton Highlands fare vending machine 201272,,42.3223980,-71.2053860,0
+fvm-201273,,4,fare-vending-machine,place-eliot,Fare vending machine 201273,Eliot fare vending machine 201273,,42.3189580,-71.2166500,0
+fvm-201274,,4,fare-vending-machine,place-eliot,Fare vending machine 201274,Eliot fare vending machine 201274,,42.3189580,-71.2166500,0
+fvm-201275,,4,fare-vending-machine,place-waban,Fare vending machine 201275,Waban fare vending machine 201275,,42.3256910,-71.2305220,0
+fvm-201276,,4,fare-vending-machine,place-waban,Fare vending machine 201276,Waban fare vending machine 201276,,42.3256910,-71.2305220,0
+fvm-201277,,4,fare-vending-machine,place-woodl,Fare vending machine 201277,Woodland fare vending machine 201277,,42.3327480,-71.2431850,0
+fvm-201278,,4,fare-vending-machine,place-woodl,Fare vending machine 201278,Woodland fare vending machine 201278,,42.3327480,-71.2431850,0
+fvm-201279,,4,fare-vending-machine,place-river,Fare vending machine 201279,Riverside fare vending machine 201279,,,,0
+fvm-201280,,4,fare-vending-machine,place-river,Fare vending machine 201280,Riverside fare vending machine 201280,,,,0
+fvm-201281,,4,fare-vending-machine,place-nubn,Fare vending machine 201281,Nubian fare vending machine 201281,,,,0
+fvm-201282,,4,fare-vending-machine,place-nubn,Fare vending machine 201282,Nubian fare vending machine 201282,,,,0
+fvm-201283,,4,fare-vending-machine,place-crtst,Fare vending machine 201283,Courthouse fare vending machine 201283,,,,0
+fvm-201284,,4,fare-vending-machine,place-crtst,Fare vending machine 201284,Courthouse fare vending machine 201284,,,,0
+fvm-201285,,4,fare-vending-machine,place-crtst,Fare vending machine 201285,Courthouse fare vending machine 201285,,,,0
+fvm-201286,,4,fare-vending-machine,place-crtst,Fare vending machine 201286,Courthouse fare vending machine 201286,,,,0
+fvm-201287,,4,fare-vending-machine,place-wtcst,Fare vending machine 201287,World Trade Center fare vending machine 201287,,,,0
+fvm-201288,,4,fare-vending-machine,place-wtcst,Fare vending machine 201288,World Trade Center fare vending machine 201288,,,,0
+fvm-201289,,4,fare-vending-machine,place-wtcst,Fare vending machine 201289,World Trade Center fare vending machine 201289,,,,0
+fvm-201290,,4,fare-vending-machine,place-wtcst,Fare vending machine 201290,World Trade Center fare vending machine 201290,,,,0
+fvm-201295,,4,fare-vending-machine,place-brntn,Fare vending machine 201295,Braintree fare vending machine 201295,,,,0
+fvm-201296,,4,fare-vending-machine,place-brntn,Fare vending machine 201296,Braintree fare vending machine 201296,,,,0
+fvm-201297,,4,fare-vending-machine,place-brntn,Fare vending machine 201297,Braintree fare vending machine 201297,,,,0
+fvm-201298,,4,fare-vending-machine,place-brntn,Fare vending machine 201298,Braintree fare vending machine 201298,,,,0
+fvm-201299,,4,fare-vending-machine,place-brntn,Fare vending machine 201299,Braintree fare vending machine 201299,,,,0
+fvm-201306,,4,fare-vending-machine,place-qnctr,Fare vending machine 201306,Quincy Center fare vending machine 201306,,,,0
+fvm-201307,,4,fare-vending-machine,place-qnctr,Fare vending machine 201307,Quincy Center fare vending machine 201307,,,,0
+fvm-201308,,4,fare-vending-machine,place-nqncy,Fare vending machine 201308,North Quincy fare vending machine 201308,,,,0
+fvm-201309,,4,fare-vending-machine,place-nqncy,Fare vending machine 201309,North Quincy fare vending machine 201309,,,,0
+fvm-201310,,4,fare-vending-machine,place-nqncy,Fare vending machine 201310,North Quincy fare vending machine 201310,,,,0
+fvm-201311,,4,fare-vending-machine,place-forhl,Fare vending machine 201311,Forest Hills fare vending machine 201311,,,,0
+fvm-201312,,4,fare-vending-machine,place-forhl,Fare vending machine 201312,Forest Hills fare vending machine 201312,,,,0
+fvm-201313,,4,fare-vending-machine,place-forhl,Fare vending machine 201313,Forest Hills fare vending machine 201313,,,,0
+fvm-201314,,4,fare-vending-machine,place-forhl,Fare vending machine 201314,Forest Hills fare vending machine 201314,,,,0
+fvm-201315,,4,fare-vending-machine,place-haecl,Fare vending machine 201315,Haymarket fare vending machine 201315,,,,0
+fvm-201316,,4,fare-vending-machine,place-andrw,Fare vending machine 201316,Andrew fare vending machine 201316,,,,0
+fvm-201317,,4,fare-vending-machine,place-alfcl,Fare vending machine 201317,Alewife fare vending machine 201317,,,,0
+fvm-201318,,4,fare-vending-machine,place-alfcl,Fare vending machine 201318,Alewife fare vending machine 201318,,,,0
+fvm-201319,,4,fare-vending-machine,place-alfcl,Fare vending machine 201319,Alewife fare vending machine 201319,,,,0
+fvm-201320,,4,fare-vending-machine,place-alfcl,Fare vending machine 201320,Alewife fare vending machine 201320,,,,0
+fvm-201321,,4,fare-vending-machine,place-state,Fare vending machine 201321,State fare vending machine 201321,,,,0
+fvm-201322,,4,fare-vending-machine,place-sull,Fare vending machine 201322,Sullivan Square fare vending machine 201322,,,,0
+fvm-201323,,4,fare-vending-machine,place-sull,Fare vending machine 201323,Sullivan Square fare vending machine 201323,,,,0
+fvm-201324,,4,fare-vending-machine,17091,Fare vending machine 201324,Terminal A fare vending machine 201324,,,,0
+fvm-201325,,4,fare-vending-machine,27092,Fare vending machine 201325,Terminal B Stop 1 - Arrivals Level fare vending machine 201325,,,,0
+fvm-201326,,4,fare-vending-machine,17093,Fare vending machine 201326,Terminal B Stop 2 - Arrivals Level fare vending machine 201326,,,,0
+fvm-201327,,4,fare-vending-machine,17094,Fare vending machine 201327,Terminal C - Arrivals Level fare vending machine 201327,,,,0
+fvm-201328,,4,fare-vending-machine,17094,Fare vending machine 201328,Terminal C - Arrivals Level fare vending machine 201328,,,,0
+fvm-201329,,4,fare-vending-machine,17094,Fare vending machine 201329,Terminal C - Arrivals Level fare vending machine 201329,,,,0
+fvm-201330,,4,fare-vending-machine,17095,Fare vending machine 201330,Terminal E - Arrivals Level fare vending machine 201330,,,,0
+fvm-201331,,4,fare-vending-machine,place-bomnl,Fare vending machine 201331,Bowdoin fare vending machine 201331,,,,0
+fvm-201332,,4,fare-vending-machine,place-dwnxg,Fare vending machine 201332,Downtown Crossing fare vending machine 201332,,,,0
+fvm-201333,,4,fare-vending-machine,place-nubn,Fare vending machine 201333,Nubian fare vending machine 201333,,,,0
+fvm-201334,,4,fare-vending-machine,place-nubn,Fare vending machine 201334,Nubian fare vending machine 201334,,,,0
+fvm-201335,,4,fare-vending-machine,place-nubn,Fare vending machine 201335,Nubian fare vending machine 201335,,,,0
+fvm-201336,,4,fare-vending-machine,place-matt,Fare vending machine 201336,Mattapan fare vending machine 201336,,42.2675550,-71.0928670,0
+fvm-201337,,4,fare-vending-machine,place-kencl,Fare vending machine 201337,Kenmore fare vending machine 201337,,,,0
+fvm-201339,,4,fare-vending-machine,place-mvbcl,Fare vending machine 201339,Maverick fare vending machine 201339,,,,0
+fvm-201340,,4,fare-vending-machine,place-mvbcl,Fare vending machine 201340,Maverick fare vending machine 201340,,,,0
+fvm-201341,,4,fare-vending-machine,place-fldcr,Fare vending machine 201341,Fields Corner fare vending machine 201341,,,,0
+fvm-201342,,4,fare-vending-machine,place-fldcr,Fare vending machine 201342,Fields Corner fare vending machine 201342,,,,0
+fvm-201343,,4,fare-vending-machine,place-chmnl,Fare vending machine 201343,Charles/MGH fare vending machine 201343,,,,0
+fvm-201344,,4,fare-vending-machine,place-chmnl,Fare vending machine 201344,Charles/MGH fare vending machine 201344,,,,0
+fvm-201345,,4,fare-vending-machine,place-chmnl,Fare vending machine 201345,Charles/MGH fare vending machine 201345,,,,0
+fvm-201350,,4,fare-vending-machine,place-alfcl,Fare vending machine 201350,Alewife fare vending machine 201350,,,,0
+fvm-201351,,4,fare-vending-machine,place-cntsq,Fare vending machine 201351,Central fare vending machine 201351,,,,0
+fvm-201352,,4,fare-vending-machine,place-cntsq,Fare vending machine 201352,Central fare vending machine 201352,,,,0
+fvm-201354,,4,fare-vending-machine,place-river,Fare vending machine 201354,Riverside fare vending machine 201354,,,,0
+fvm-201355,,4,fare-vending-machine,place-river,Fare vending machine 201355,Riverside fare vending machine 201355,,,,0
+fvm-201356,,4,fare-vending-machine,place-asmnl,Fare vending machine 201356,Ashmont fare vending machine 201356,,,,0
+fvm-201357,,4,fare-vending-machine,place-asmnl,Fare vending machine 201357,Ashmont fare vending machine 201357,,,,0
+fvm-201358,,4,fare-vending-machine,place-asmnl,Fare vending machine 201358,Ashmont fare vending machine 201358,,,,0
+fvm-201359,,4,fare-vending-machine,place-asmnl,Fare vending machine 201359,Ashmont fare vending machine 201359,,,,0
+fvm-201360,,4,fare-vending-machine,place-mvbcl,Fare vending machine 201360,Maverick fare vending machine 201360,,,,0
+fvm-201361,,4,fare-vending-machine,place-mvbcl,Fare vending machine 201361,Maverick fare vending machine 201361,,,,0
+fvm-201362,,4,fare-vending-machine,place-ER-0115,Fare vending machine 201362,Lynn fare vending machine 201362,,42.4619950,-70.9456380,0
+fvm-201363,,4,fare-vending-machine,place-state,Fare vending machine 201363,State fare vending machine 201363,,,,0
+fvm-201364,,4,fare-vending-machine,place-state,Fare vending machine 201364,State fare vending machine 201364,,,,0
+fvm-201365,,4,fare-vending-machine,place-state,Fare vending machine 201365,State fare vending machine 201365,,,,0
+fvm-201366,,4,fare-vending-machine,place-state,Fare vending machine 201366,State fare vending machine 201366,,,,0
+fvm-201376,,4,fare-vending-machine,place-asmnl,Fare vending machine 201376,Ashmont fare vending machine 201376,,,,0
+fvm-201377,,4,fare-vending-machine,place-spmnl,Fare vending machine 201377,Science Park/West End fare vending machine 201377,,,,0
+fvm-201378,,4,fare-vending-machine,place-spmnl,Fare vending machine 201378,Science Park/West End fare vending machine 201378,,,,0
+fvm-201380,,4,fare-vending-machine,place-forhl,Fare vending machine 201380,Forest Hills fare vending machine 201380,,,,0
+fvm-201381,,4,fare-vending-machine,place-forhl,Fare vending machine 201381,Forest Hills fare vending machine 201381,,,,0
+fvm-201382,,4,fare-vending-machine,place-forhl,Fare vending machine 201382,Forest Hills fare vending machine 201382,,,,0
+fvm-202001,,4,fare-vending-machine,place-aqucl,Fare vending machine 202001,Aquarium fare vending machine 202001,,,,0
+fvm-202002,,4,fare-vending-machine,place-aqucl,Fare vending machine 202002,Aquarium fare vending machine 202002,,,,0
+fvm-202003,,4,fare-vending-machine,place-aqucl,Fare vending machine 202003,Aquarium fare vending machine 202003,,,,0
+fvm-202004,,4,fare-vending-machine,place-aport,Fare vending machine 202004,Airport fare vending machine 202004,,,,0
+fvm-202005,,4,fare-vending-machine,place-aport,Fare vending machine 202005,Airport fare vending machine 202005,,,,0
+fvm-202006,,4,fare-vending-machine,place-aport,Fare vending machine 202006,Airport fare vending machine 202006,,,,0
+fvm-202007,,4,fare-vending-machine,place-wimnl,Fare vending machine 202007,Wood Island fare vending machine 202007,,,,0
+fvm-202008,,4,fare-vending-machine,place-orhte,Fare vending machine 202008,Orient Heights fare vending machine 202008,,,,0
+fvm-202009,,4,fare-vending-machine,place-sdmnl,Fare vending machine 202009,Suffolk Downs fare vending machine 202009,,,,0
+fvm-202010,,4,fare-vending-machine,place-bmmnl,Fare vending machine 202010,Beachmont fare vending machine 202010,,,,0
+fvm-202011,,4,fare-vending-machine,place-bmmnl,Fare vending machine 202011,Beachmont fare vending machine 202011,,,,0
+fvm-202012,,4,fare-vending-machine,place-rbmnl,Fare vending machine 202012,Revere Beach fare vending machine 202012,,,,0
+fvm-202013,,4,fare-vending-machine,place-wondl,Fare vending machine 202013,Wonderland fare vending machine 202013,,,,0
+fvm-202014,,4,fare-vending-machine,place-wondl,Fare vending machine 202014,Wonderland fare vending machine 202014,,,,0
+fvm-202015,,4,fare-vending-machine,place-ogmnl,Fare vending machine 202015,Oak Grove fare vending machine 202015,,,,0
+fvm-202016,,4,fare-vending-machine,place-ogmnl,Fare vending machine 202016,Oak Grove fare vending machine 202016,,,,0
+fvm-202017,,4,fare-vending-machine,place-ogmnl,Fare vending machine 202017,Oak Grove fare vending machine 202017,,,,0
+fvm-202018,,4,fare-vending-machine,place-mlmnl,Fare vending machine 202018,Malden Center fare vending machine 202018,,,,0
+fvm-202022,,4,fare-vending-machine,place-welln,Fare vending machine 202022,Wellington fare vending machine 202022,,,,0
+fvm-202023,,4,fare-vending-machine,place-welln,Fare vending machine 202023,Wellington fare vending machine 202023,,,,0
+fvm-202024,,4,fare-vending-machine,place-welln,Fare vending machine 202024,Wellington fare vending machine 202024,,,,0
+fvm-202025,,4,fare-vending-machine,place-welln,Fare vending machine 202025,Wellington fare vending machine 202025,,,,0
+fvm-202026,,4,fare-vending-machine,place-sull,Fare vending machine 202026,Sullivan Square fare vending machine 202026,,,,0
+fvm-202027,,4,fare-vending-machine,place-sull,Fare vending machine 202027,Sullivan Square fare vending machine 202027,,,,0
+fvm-202028,,4,fare-vending-machine,place-sull,Fare vending machine 202028,Sullivan Square fare vending machine 202028,,,,0
+fvm-202029,,4,fare-vending-machine,place-ccmnl,Fare vending machine 202029,Community College fare vending machine 202029,,,,0
+fvm-202030,,4,fare-vending-machine,place-north,Fare vending machine 202030,North Station fare vending machine 202030,,,,0
+fvm-202031,,4,fare-vending-machine,place-north,Fare vending machine 202031,North Station fare vending machine 202031,,,,0
+fvm-202032,,4,fare-vending-machine,place-north,Fare vending machine 202032,North Station fare vending machine 202032,,,,0
+fvm-202033,,4,fare-vending-machine,place-north,Fare vending machine 202033,North Station fare vending machine 202033,,,,0
+fvm-202035,,4,fare-vending-machine,place-haecl,Fare vending machine 202035,Haymarket fare vending machine 202035,,,,0
+fvm-202036,,4,fare-vending-machine,place-north,Fare vending machine 202036,North Station fare vending machine 202036,,,,0
+fvm-202040,,4,fare-vending-machine,place-state,Fare vending machine 202040,State fare vending machine 202040,,,,0
+fvm-202041,,4,fare-vending-machine,place-state,Fare vending machine 202041,State fare vending machine 202041,,,,0
+fvm-202043,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202043,Downtown Crossing fare vending machine 202043,,,,0
+fvm-202044,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202044,Downtown Crossing fare vending machine 202044,,,,0
+fvm-202045,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202045,Downtown Crossing fare vending machine 202045,,,,0
+fvm-202046,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202046,Downtown Crossing fare vending machine 202046,,,,0
+fvm-202047,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202047,Downtown Crossing fare vending machine 202047,,,,0
+fvm-202048,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202048,Downtown Crossing fare vending machine 202048,,,,0
+fvm-202049,,4,fare-vending-machine,place-chncl,Fare vending machine 202049,Chinatown fare vending machine 202049,,,,0
+fvm-202050,,4,fare-vending-machine,place-chncl,Fare vending machine 202050,Chinatown fare vending machine 202050,,,,0
+fvm-202051,,4,fare-vending-machine,place-chncl,Fare vending machine 202051,Chinatown fare vending machine 202051,,,,0
+fvm-202052,,4,fare-vending-machine,place-tumnl,Fare vending machine 202052,Tufts Medical Center fare vending machine 202052,,,,0
+fvm-202053,,4,fare-vending-machine,place-tumnl,Fare vending machine 202053,Tufts Medical Center fare vending machine 202053,,,,0
+fvm-202054,,4,fare-vending-machine,place-tumnl,Fare vending machine 202054,Tufts Medical Center fare vending machine 202054,,,,0
+fvm-202055,,4,fare-vending-machine,place-bbsta,Fare vending machine 202055,Back Bay fare vending machine 202055,,,,0
+fvm-202056,,4,fare-vending-machine,place-bbsta,Fare vending machine 202056,Back Bay fare vending machine 202056,,,,0
+fvm-202057,,4,fare-vending-machine,place-bbsta,Fare vending machine 202057,Back Bay fare vending machine 202057,,,,0
+fvm-202058,,4,fare-vending-machine,place-bbsta,Fare vending machine 202058,Back Bay fare vending machine 202058,,,,0
+fvm-202059,,4,fare-vending-machine,place-bbsta,Fare vending machine 202059,Back Bay fare vending machine 202059,,,,0
+fvm-202060,,4,fare-vending-machine,place-masta,Fare vending machine 202060,Massachusetts Avenue fare vending machine 202060,,,,0
+fvm-202061,,4,fare-vending-machine,place-masta,Fare vending machine 202061,Massachusetts Avenue fare vending machine 202061,,,,0
+fvm-202062,,4,fare-vending-machine,place-rugg,Fare vending machine 202062,Ruggles fare vending machine 202062,,,,0
+fvm-202063,,4,fare-vending-machine,place-rugg,Fare vending machine 202063,Ruggles fare vending machine 202063,,,,0
+fvm-202064,,4,fare-vending-machine,place-rcmnl,Fare vending machine 202064,Roxbury Crossing fare vending machine 202064,,,,0
+fvm-202065,,4,fare-vending-machine,place-jaksn,Fare vending machine 202065,Jackson Square fare vending machine 202065,,,,0
+fvm-202066,,4,fare-vending-machine,place-jaksn,Fare vending machine 202066,Jackson Square fare vending machine 202066,,,,0
+fvm-202067,,4,fare-vending-machine,place-sbmnl,Fare vending machine 202067,Stony Brook fare vending machine 202067,,,,0
+fvm-202068,,4,fare-vending-machine,place-grnst,Fare vending machine 202068,Green Street fare vending machine 202068,,,,0
+fvm-202069,,4,fare-vending-machine,place-grnst,Fare vending machine 202069,Green Street fare vending machine 202069,,,,0
+fvm-202070,,4,fare-vending-machine,place-forhl,Fare vending machine 202070,Forest Hills fare vending machine 202070,,,,0
+fvm-202071,,4,fare-vending-machine,place-forhl,Fare vending machine 202071,Forest Hills fare vending machine 202071,,,,0
+fvm-202072,,4,fare-vending-machine,place-forhl,Fare vending machine 202072,Forest Hills fare vending machine 202072,,,,0
+fvm-202073,,4,fare-vending-machine,place-forhl,Fare vending machine 202073,Forest Hills fare vending machine 202073,,,,0
+fvm-202074,,4,fare-vending-machine,place-forhl,Fare vending machine 202074,Forest Hills fare vending machine 202074,,,,0
+fvm-202076,,4,fare-vending-machine,place-alfcl,Fare vending machine 202076,Alewife fare vending machine 202076,,,,0
+fvm-202077,,4,fare-vending-machine,place-alfcl,Fare vending machine 202077,Alewife fare vending machine 202077,,,,0
+fvm-202080,,4,fare-vending-machine,place-davis,Fare vending machine 202080,Davis fare vending machine 202080,,,,0
+fvm-202081,,4,fare-vending-machine,place-davis,Fare vending machine 202081,Davis fare vending machine 202081,,,,0
+fvm-202082,,4,fare-vending-machine,place-davis,Fare vending machine 202082,Davis fare vending machine 202082,,,,0
+fvm-202083,,4,fare-vending-machine,place-davis,Fare vending machine 202083,Davis fare vending machine 202083,,,,0
+fvm-202084,,4,fare-vending-machine,place-portr,Fare vending machine 202084,Porter fare vending machine 202084,,,,0
+fvm-202085,,4,fare-vending-machine,place-portr,Fare vending machine 202085,Porter fare vending machine 202085,,,,0
+fvm-202086,,4,fare-vending-machine,place-portr,Fare vending machine 202086,Porter fare vending machine 202086,,,,0
+fvm-202087,,4,fare-vending-machine,place-harsq,Fare vending machine 202087,Harvard fare vending machine 202087,,,,0
+fvm-202088,,4,fare-vending-machine,place-harsq,Fare vending machine 202088,Harvard fare vending machine 202088,,,,0
+fvm-202089,,4,fare-vending-machine,place-harsq,Fare vending machine 202089,Harvard fare vending machine 202089,,,,0
+fvm-202090,,4,fare-vending-machine,place-harsq,Fare vending machine 202090,Harvard fare vending machine 202090,,,,0
+fvm-202091,,4,fare-vending-machine,place-harsq,Fare vending machine 202091,Harvard fare vending machine 202091,,,,0
+fvm-202092,,4,fare-vending-machine,place-harsq,Fare vending machine 202092,Harvard fare vending machine 202092,,,,0
+fvm-202093,,4,fare-vending-machine,place-cntsq,Fare vending machine 202093,Central fare vending machine 202093,,,,0
+fvm-202096,,4,fare-vending-machine,place-cntsq,Fare vending machine 202096,Central fare vending machine 202096,,,,0
+fvm-202097,,4,fare-vending-machine,place-cntsq,Fare vending machine 202097,Central fare vending machine 202097,,,,0
+fvm-202098,,4,fare-vending-machine,place-cntsq,Fare vending machine 202098,Central fare vending machine 202098,,,,0
+fvm-202100,,4,fare-vending-machine,place-knncl,Fare vending machine 202100,Kendall/MIT fare vending machine 202100,,,,0
+fvm-202101,,4,fare-vending-machine,place-knncl,Fare vending machine 202101,Kendall/MIT fare vending machine 202101,,,,0
+fvm-202102,,4,fare-vending-machine,place-knncl,Fare vending machine 202102,Kendall/MIT fare vending machine 202102,,,,0
+fvm-202103,,4,fare-vending-machine,place-knncl,Fare vending machine 202103,Kendall/MIT fare vending machine 202103,,,,0
+fvm-202104,,4,fare-vending-machine,place-knncl,Fare vending machine 202104,Kendall/MIT fare vending machine 202104,,,,0
+fvm-202105,,4,fare-vending-machine,place-knncl,Fare vending machine 202105,Kendall/MIT fare vending machine 202105,,,,0
+fvm-202109,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202109,Downtown Crossing fare vending machine 202109,,,,0
+fvm-202110,,4,fare-vending-machine,place-sstat,Fare vending machine 202110,South Station fare vending machine 202110,,,,0
+fvm-202111,,4,fare-vending-machine,place-sstat,Fare vending machine 202111,South Station fare vending machine 202111,,,,0
+fvm-202112,,4,fare-vending-machine,place-sstat,Fare vending machine 202112,South Station fare vending machine 202112,,,,0
+fvm-202113,,4,fare-vending-machine,place-sstat,Fare vending machine 202113,South Station fare vending machine 202113,,,,0
+fvm-202114,,4,fare-vending-machine,place-brdwy,Fare vending machine 202114,Broadway fare vending machine 202114,,,,0
+fvm-202115,,4,fare-vending-machine,place-brdwy,Fare vending machine 202115,Broadway fare vending machine 202115,,,,0
+fvm-202116,,4,fare-vending-machine,place-andrw,Fare vending machine 202116,Andrew fare vending machine 202116,,,,0
+fvm-202117,,4,fare-vending-machine,place-andrw,Fare vending machine 202117,Andrew fare vending machine 202117,,,,0
+fvm-202118,,4,fare-vending-machine,place-jfk,Fare vending machine 202118,JFK/UMass fare vending machine 202118,,,,0
+fvm-202119,,4,fare-vending-machine,place-shmnl,Fare vending machine 202119,Savin Hill fare vending machine 202119,,,,0
+fvm-202120,,4,fare-vending-machine,place-fldcr,Fare vending machine 202120,Fields Corner fare vending machine 202120,,,,0
+fvm-202121,,4,fare-vending-machine,place-fldcr,Fare vending machine 202121,Fields Corner fare vending machine 202121,,,,0
+fvm-202123,,4,fare-vending-machine,place-asmnl,Fare vending machine 202123,Ashmont fare vending machine 202123,,,,0
+fvm-202124,,4,fare-vending-machine,place-asmnl,Fare vending machine 202124,Ashmont fare vending machine 202124,,,,0
+fvm-202125,,4,fare-vending-machine,place-asmnl,Fare vending machine 202125,Ashmont fare vending machine 202125,,,,0
+fvm-202126,,4,fare-vending-machine,place-nqncy,Fare vending machine 202126,North Quincy fare vending machine 202126,,,,0
+fvm-202127,,4,fare-vending-machine,place-nqncy,Fare vending machine 202127,North Quincy fare vending machine 202127,,,,0
+fvm-202128,,4,fare-vending-machine,place-nqncy,Fare vending machine 202128,North Quincy fare vending machine 202128,,,,0
+fvm-202129,,4,fare-vending-machine,place-nqncy,Fare vending machine 202129,North Quincy fare vending machine 202129,,,,0
+fvm-202135,,4,fare-vending-machine,place-qamnl,Fare vending machine 202135,Quincy Adams fare vending machine 202135,,,,0
+fvm-202136,,4,fare-vending-machine,place-qamnl,Fare vending machine 202136,Quincy Adams fare vending machine 202136,,,,0
+fvm-202137,,4,fare-vending-machine,place-qamnl,Fare vending machine 202137,Quincy Adams fare vending machine 202137,,,,0
+fvm-202140,,4,fare-vending-machine,place-brntn,Fare vending machine 202140,Braintree fare vending machine 202140,,,,0
+fvm-202142,,4,fare-vending-machine,place-brntn,Fare vending machine 202142,Braintree fare vending machine 202142,,,,0
+fvm-202143,,4,fare-vending-machine,place-brntn,Fare vending machine 202143,Braintree fare vending machine 202143,,,,0
+fvm-202146,,4,fare-vending-machine,place-spmnl,Fare vending machine 202146,Science Park/West End fare vending machine 202146,,,,0
+fvm-202147,,4,fare-vending-machine,place-haecl,Fare vending machine 202147,Haymarket fare vending machine 202147,,,,0
+fvm-202148,,4,fare-vending-machine,place-haecl,Fare vending machine 202148,Haymarket fare vending machine 202148,,,,0
+fvm-202149,,4,fare-vending-machine,place-haecl,Fare vending machine 202149,Haymarket fare vending machine 202149,,,,0
+fvm-202150,,4,fare-vending-machine,place-pktrm,Fare vending machine 202150,Park Street fare vending machine 202150,,,,0
+fvm-202151,,4,fare-vending-machine,place-pktrm,Fare vending machine 202151,Park Street fare vending machine 202151,,,,0
+fvm-202152,,4,fare-vending-machine,place-pktrm,Fare vending machine 202152,Park Street fare vending machine 202152,,,,0
+fvm-202153,,4,fare-vending-machine,place-pktrm,Fare vending machine 202153,Park Street fare vending machine 202153,,,,0
+fvm-202154,,4,fare-vending-machine,place-pktrm,Fare vending machine 202154,Park Street fare vending machine 202154,,,,0
+fvm-202157,,4,fare-vending-machine,place-boyls,Fare vending machine 202157,Boylston fare vending machine 202157,,,,0
+fvm-202158,,4,fare-vending-machine,place-hymnl,Fare vending machine 202158,Hynes Convention Center fare vending machine 202158,,,,0
+fvm-202159,,4,fare-vending-machine,place-hymnl,Fare vending machine 202159,Hynes Convention Center fare vending machine 202159,,,,0
+fvm-202160,,4,fare-vending-machine,place-hymnl,Fare vending machine 202160,Hynes Convention Center fare vending machine 202160,,,,0
+fvm-202161,,4,fare-vending-machine,place-prmnl,Fare vending machine 202161,Prudential fare vending machine 202161,,,,0
+fvm-202162,,4,fare-vending-machine,place-prmnl,Fare vending machine 202162,Prudential fare vending machine 202162,,,,0
+fvm-202163,,4,fare-vending-machine,place-symcl,Fare vending machine 202163,Symphony fare vending machine 202163,,,,0
+fvm-202164,,4,fare-vending-machine,place-symcl,Fare vending machine 202164,Symphony fare vending machine 202164,,,,0
+fvm-202170,,4,fare-vending-machine,place-armnl,Fare vending machine 202170,Arlington fare vending machine 202170,,,,0
+fvm-202171,,4,fare-vending-machine,place-armnl,Fare vending machine 202171,Arlington fare vending machine 202171,,,,0
+fvm-202172,,4,fare-vending-machine,place-armnl,Fare vending machine 202172,Arlington fare vending machine 202172,,,,0
+fvm-202173,,4,fare-vending-machine,place-coecl,Fare vending machine 202173,Copley fare vending machine 202173,,,,0
+fvm-202174,,4,fare-vending-machine,place-coecl,Fare vending machine 202174,Copley fare vending machine 202174,,,,0
+fvm-202175,,4,fare-vending-machine,place-kencl,Fare vending machine 202175,Kenmore fare vending machine 202175,,,,0
+fvm-202176,,4,fare-vending-machine,place-kencl,Fare vending machine 202176,Kenmore fare vending machine 202176,,,,0
+fvm-202177,,4,fare-vending-machine,place-nubn,Fare vending machine 202177,Nubian fare vending machine 202177,,,,0
+fvm-202178,,4,fare-vending-machine,place-crtst,Fare vending machine 202178,Courthouse fare vending machine 202178,,,,0
+fvm-202179,,4,fare-vending-machine,place-crtst,Fare vending machine 202179,Courthouse fare vending machine 202179,,,,0
+fvm-202180,,4,fare-vending-machine,place-spmnl,Fare vending machine 202180,Science Park/West End fare vending machine 202180,,,,0
+fvm-202181,,4,fare-vending-machine,17091,Fare vending machine 202181,Terminal A fare vending machine 202181,,,,0
+fvm-202182,,4,fare-vending-machine,27092,Fare vending machine 202182,Terminal B Stop 1 - Arrivals Level fare vending machine 202182,,,,0
+fvm-202183,,4,fare-vending-machine,17093,Fare vending machine 202183,Terminal B Stop 2 - Arrivals Level fare vending machine 202183,,,,0
+fvm-202184,,4,fare-vending-machine,17094,Fare vending machine 202184,Terminal C - Arrivals Level fare vending machine 202184,,,,0
+fvm-202185,,4,fare-vending-machine,17094,Fare vending machine 202185,Terminal C - Arrivals Level fare vending machine 202185,,,,0
+fvm-202186,,4,fare-vending-machine,17095,Fare vending machine 202186,Terminal E - Arrivals Level fare vending machine 202186,,,,0
+fvm-202187,,4,fare-vending-machine,place-bomnl,Fare vending machine 202187,Bowdoin fare vending machine 202187,,,,0
+fvm-202188,,4,fare-vending-machine,place-matt,Fare vending machine 202188,Mattapan fare vending machine 202188,,42.2675550,-71.0928670,0
+fvm-202189,,4,fare-vending-machine,place-mvbcl,Fare vending machine 202189,Maverick fare vending machine 202189,,,,0
+fvm-202190,,4,fare-vending-machine,place-mvbcl,Fare vending machine 202190,Maverick fare vending machine 202190,,,,0
+fvm-202191,,4,fare-vending-machine,place-mvbcl,Fare vending machine 202191,Maverick fare vending machine 202191,,,,0
+fvm-202192,,4,fare-vending-machine,place-north,Fare vending machine 202192,North Station fare vending machine 202192,,,,0
+fvm-202193,,4,fare-vending-machine,place-sstat,Fare vending machine 202193,South Station fare vending machine 202193,,,,0
+fvm-202194,,4,fare-vending-machine,place-chmnl,Fare vending machine 202194,Charles/MGH fare vending machine 202194,,,,0
+fvm-202195,,4,fare-vending-machine,place-chmnl,Fare vending machine 202195,Charles/MGH fare vending machine 202195,,,,0
+fvm-202196,,4,fare-vending-machine,place-chmnl,Fare vending machine 202196,Charles/MGH fare vending machine 202196,,,,0
+fvm-202197,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202197,Downtown Crossing fare vending machine 202197,,,,0
+fvm-202198,,4,fare-vending-machine,place-dwnxg,Fare vending machine 202198,Downtown Crossing fare vending machine 202198,,,,0
+fvm-202205,,4,fare-vending-machine,place-river,Fare vending machine 202205,Riverside fare vending machine 202205,,,,0
+fvm-202208,,4,fare-vending-machine,place-mvbcl,Fare vending machine 202208,Maverick fare vending machine 202208,,,,0
+fvm-202209,,4,fare-vending-machine,place-WML-0442,Fare vending machine 202209,Worcester fare vending machine 202209,,,,0
+fvm-202210,,4,fare-vending-machine,place-WML-0442,Fare vending machine 202210,Worcester fare vending machine 202210,,,,0
+fvm-202211,,4,fare-vending-machine,,Fare vending machine 202211,10 Park Plaza fare vending machine 202211,,42.3513770,-71.0664220,0
+fvm-202212,,4,fare-vending-machine,place-ER-0115,Fare vending machine 202212,Lynn fare vending machine 202212,,42.4619950,-70.9456380,0
+fvm-202213,,4,fare-vending-machine,place-NHRML-0127,Fare vending machine 202213,Anderson/Woburn fare vending machine 202213,,42.5173770,-71.1440550,0
+fvm-202217,,4,fare-vending-machine,place-state,Fare vending machine 202217,State fare vending machine 202217,,,,0
+fvm-202218,,4,fare-vending-machine,place-state,Fare vending machine 202218,State fare vending machine 202218,,,,0
+fvm-205001,,4,fare-vending-machine,place-astao,Fare vending machine 205001,Assembly fare vending machine 205001,,,,0
+fvm-205002,,4,fare-vending-machine,place-astao,Fare vending machine 205002,Assembly fare vending machine 205002,,,,0
+fvm-205003,,4,fare-vending-machine,place-astao,Fare vending machine 205003,Assembly fare vending machine 205003,,,,0
+fvm-205004,,4,fare-vending-machine,place-astao,Fare vending machine 205004,Assembly fare vending machine 205004,,,,0
+fvm-206001,,4,fare-vending-machine,place-astao,Fare vending machine 206001,Assembly fare vending machine 206001,,,,0
+fvm-206002,,4,fare-vending-machine,place-astao,Fare vending machine 206002,Assembly fare vending machine 206002,,,,0
+fvm-206003,,4,fare-vending-machine,place-astao,Fare vending machine 206003,Assembly fare vending machine 206003,,,,0
+fvm-207001,,4,fare-vending-machine,place-gover,Fare vending machine 207001,Government Center fare vending machine 207001,,,,0
+fvm-207002,,4,fare-vending-machine,place-gover,Fare vending machine 207002,Government Center fare vending machine 207002,,,,0
+fvm-207003,,4,fare-vending-machine,place-gover,Fare vending machine 207003,Government Center fare vending machine 207003,,,,0
+fvm-207004,,4,fare-vending-machine,place-gover,Fare vending machine 207004,Government Center fare vending machine 207004,,,,0
+fvm-207005,,4,fare-vending-machine,place-wlsta,Fare vending machine 207005,Wollaston fare vending machine 207005,,,,0
+fvm-207006,,4,fare-vending-machine,place-wlsta,Fare vending machine 207006,Wollaston fare vending machine 207006,,,,0
+fvm-207007,,4,fare-vending-machine,place-wlsta,Fare vending machine 207007,Wollaston fare vending machine 207007,,,,0
+fvm-207008,,4,fare-vending-machine,place-wlsta,Fare vending machine 207008,Wollaston fare vending machine 207008,,,,0
+fvm-208001,,4,fare-vending-machine,place-gover,Fare vending machine 208001,Government Center fare vending machine 208001,,,,0
+fvm-208002,,4,fare-vending-machine,place-gover,Fare vending machine 208002,Government Center fare vending machine 208002,,,,0
+fvm-208003,,4,fare-vending-machine,place-wlsta,Fare vending machine 208003,Wollaston fare vending machine 208003,,,,0
+fvm-208004,,4,fare-vending-machine,place-wlsta,Fare vending machine 208004,Wollaston fare vending machine 208004,,,,0
+fvm-208005,,4,fare-vending-machine,place-wlsta,Fare vending machine 208005,Wollaston fare vending machine 208005,,,,0
+highlevel-DB-2222,,2,fully-elevated-platform,place-DB-2222,High-level platform,Blue Hill Avenue high-level platform,,,,1
+highlevel-DB-2230,,2,fully-elevated-platform,place-DB-2230,High-level platform,Morton Street high-level platform,,,,1
+highlevel-DB-2240,,2,fully-elevated-platform,place-DB-2240,High-level platform,Talbot Avenue high-level platform,,,,1
+highlevel-DB-2249,,2,fully-elevated-platform,place-DB-2249,High-level platform,Four Corners/Geneva high-level platform,,,,1
+highlevel-DB-2258,,2,fully-elevated-platform,place-DB-2258,High-level platform,Uphams Corner high-level platform,,,,1
+highlevel-DB-2265,,2,fully-elevated-platform,place-DB-2265,High-level platform,Newmarket high-level platform,,,,1
+highlevel-ER-0115,,2,fully-elevated-platform,place-ER-0115,High-level platform,Lynn high-level platform,,,,1
+highlevel-ER-0168,,2,fully-elevated-platform,place-ER-0168,High-level platform,Salem high-level platform,,,,1
+highlevel-ER-0312,,2,fully-elevated-platform,place-ER-0312,High-level platform,Rowley high-level platform,,,,1
+highlevel-ER-0362,,2,fully-elevated-platform,place-ER-0362,High-level platform,Newburyport high-level platform,,,,1
+highlevel-FR-0253,,2,fully-elevated-platform,place-FR-0253,High-level platform,South Acton high-level platform,,,,1
+highlevel-FR-0301,,2,fully-elevated-platform,place-FR-0301,High-level platform,Littleton/Route 495 high-level platform,,,,1
+highlevel-FR-3338,,2,fully-elevated-platform,place-FR-3338,High-level platform,Wachusett high-level platform,,,,1
+highlevel-GRB-0118,,2,fully-elevated-platform,place-GRB-0118,High-level platform,Weymouth Landing/East Braintree high-level platform,,,,1
+highlevel-GRB-0146,,2,fully-elevated-platform,place-GRB-0146,High-level platform,East Weymouth high-level platform,,,,1
+highlevel-GRB-0162,,2,fully-elevated-platform,place-GRB-0162,High-level platform,West Hingham high-level platform,,,,1
+highlevel-GRB-0183,,2,fully-elevated-platform,place-GRB-0183,High-level platform,Nantasket Junction high-level platform,,,,1
+highlevel-GRB-0199,,2,fully-elevated-platform,place-GRB-0199,High-level platform,Cohasset high-level platform,,,,1
+highlevel-GRB-0233,,2,fully-elevated-platform,place-GRB-0233,High-level platform,North Scituate high-level platform,,,,1
+highlevel-GRB-0276,,2,fully-elevated-platform,place-GRB-0276,High-level platform,Greenbush high-level platform,,,,1
+highlevel-KB-0351,,2,fully-elevated-platform,place-KB-0351,High-level platform,Kingston high-level platform,,,,1
+highlevel-MM-0150,,2,fully-elevated-platform,place-MM-0150,High-level platform,Holbrook/Randolph high-level platform,,,,1
+highlevel-MM-0186,,2,fully-elevated-platform,place-MM-0186,High-level platform,Montello high-level platform,,,,1
+highlevel-MM-0200,,2,fully-elevated-platform,place-MM-0200,High-level platform,Brockton high-level platform,,,,1
+highlevel-MM-0219,,2,fully-elevated-platform,place-MM-0219,High-level platform,Campello high-level platform,,,,1
+highlevel-MM-0277,,2,fully-elevated-platform,place-MM-0277,High-level platform,Bridgewater high-level platform,,,,1
+highlevel-MM-0356,,2,fully-elevated-platform,place-MM-0356,High-level platform,Middleborough/Lakeville high-level platform,,,,1
+highlevel-NEC-1659,,2,fully-elevated-platform,place-NEC-1659,High-level platform,Wickford Junction high-level platform,,,,1
+highlevel-NEC-1768,,2,fully-elevated-platform,place-NEC-1768,High-level platform,TF Green Airport high-level platform,,,,1
+highlevel-NEC-1851,,2,fully-elevated-platform,place-NEC-1851,High-level platform,Providence high-level platform,,,,1
+highlevel-NEC-2173,,2,fully-elevated-platform,place-NEC-2173,High-level platform,Route 128 high-level platform,,,,1
+highlevel-NHRML-0127,,2,fully-elevated-platform,place-NHRML-0127,High-level platform,Anderson/Woburn high-level platform,,,,1
+highlevel-NHRML-0254,,2,fully-elevated-platform,place-NHRML-0254,High-level platform,Lowell high-level platform,,,,1
+highlevel-PB-0158,,2,fully-elevated-platform,place-PB-0158,High-level platform,South Weymouth high-level platform,,,,1
+highlevel-PB-0194,,2,fully-elevated-platform,place-PB-0194,High-level platform,Abington high-level platform,,,,1
+highlevel-PB-0212,,2,fully-elevated-platform,place-PB-0212,High-level platform,Whitman high-level platform,,,,1
+highlevel-PB-0245,,2,fully-elevated-platform,place-PB-0245,High-level platform,Hanson high-level platform,,,,1
+highlevel-PB-0281,,2,fully-elevated-platform,place-PB-0281,High-level platform,Halifax high-level platform,,,,1
+highlevel-PB-0356,,2,fully-elevated-platform,place-PB-0356,High-level platform,Plymouth high-level platform,,,,1
+highlevel-WML-0025,,2,fully-elevated-platform,place-WML-0025,High-level platform,Lansdowne high-level platform,,,,1
+highlevel-WML-0035,,2,fully-elevated-platform,place-WML-0035,High-level platform,Boston Landing high-level platform,,,,1
+highlevel-WR-0264,,2,fully-elevated-platform,place-WR-0264,High-level platform,Lawrence high-level platform,,,,1
+highlevel-bbsta-0,,2,fully-elevated-platform,place-bbsta,High-level platform,Back Bay high-level platform,,,,1
+highlevel-bbsta-1,,2,fully-elevated-platform,place-bbsta,High-level platform,Back Bay high-level platform,,,,1
+highlevel-bbsta-2,,2,fully-elevated-platform,place-bbsta,High-level platform,Back Bay high-level platform,,,,1
+highlevel-bbsta-3,,2,fully-elevated-platform,place-bbsta,High-level platform,Back Bay high-level platform,,,,1
+highlevel-brntn,,2,fully-elevated-platform,place-brntn,High-level platform,Braintree high-level platform,,,,1
+highlevel-forhl,,2,fully-elevated-platform,place-forhl,High-level platform,Forest Hills high-level platform,,,,1
+highlevel-jfk,,2,fully-elevated-platform,place-jfk,High-level platform,JFK/UMass high-level platform,,,,1
+highlevel-mlmnl,,2,fully-elevated-platform,place-mlmnl,High-level platform,Malden Center high-level platform,,,,1
+highlevel-north-0,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-1,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-10,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-2,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-3,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-4,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-5,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-6,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-7,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-8,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-north-9,,2,fully-elevated-platform,place-north,High-level platform,North Station high-level platform,,,,1
+highlevel-qnctr,,2,fully-elevated-platform,place-qnctr,High-level platform,Quincy Center high-level platform,,,,1
+highlevel-rugg-0,,2,fully-elevated-platform,place-rugg,High-level platform,Ruggles high-level platform,,,,1
+highlevel-rugg-1,,2,fully-elevated-platform,place-rugg,High-level platform,Ruggles high-level platform,,,,1
+highlevel-rugg-2,,2,fully-elevated-platform,place-rugg,High-level platform,Ruggles high-level platform,,,,1
+highlevel-rugg-3,,2,fully-elevated-platform,place-rugg,High-level platform,Ruggles high-level platform,,,,1
+highlevel-sstat-0,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-1,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-10,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-11,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-12,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-13,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-2,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-3,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-4,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-5,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-6,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-7,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-8,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+highlevel-sstat-9,,2,fully-elevated-platform,place-sstat,High-level platform,South Station high-level platform,,,,1
+park-900,,3,parking-area,900,Parking Lot,Watertown Yard Parking Lot,,42.3631720,-71.1846740,0
+park-Boat-Hingham,,3,parking-area,Boat-Hingham,Parking Lot,Hingham Parking Lot,,42.2513460,-70.9194940,0
+park-Boat-Hull,,3,parking-area,Boat-Hull,Parking Lot,Hull Parking Lot,,42.3044440,-70.9182990,0
+park-DB-0095,,3,parking-area,place-DB-0095,Parking Lot,Readville Parking Lot,,42.2385870,-71.1341000,0
+park-DB-2205,,3,parking-area,place-DB-2205,Parking Lot,Fairmount Parking Lot,,42.2535520,-71.1197020,0
+park-DB-2258,,3,parking-area,place-DB-2258,Parking Lot,Uphams Corner Parking Lot,,42.3198330,-71.0686950,0
+park-ER-0115-garage,,3,parking-area,place-ER-0115,Garage,Lynn Garage,,42.4622960,-70.9457370,0
+park-ER-0128,,3,parking-area,place-ER-0128,Parking Lot,Swampscott Parking Lot,,42.4735630,-70.9225480,0
+park-ER-0168-garage,,3,parking-area,place-ER-0168,Garage,Salem Garage,,42.5247920,-70.8958760,0
+park-ER-0183-garage,,3,parking-area,place-ER-0183,Garage,Beverly Garage,,42.5472760,-70.8854320,0
+park-ER-0208,,3,parking-area,place-ER-0208,Parking Lot,North Beverly Parking Lot,,42.5836640,-70.8841200,0
+park-ER-0227,,3,parking-area,place-ER-0227,Parking Lot,Hamilton/Wenham Parking Lot,,42.6091520,-70.8744310,0
+park-ER-0276,,3,parking-area,place-ER-0276,Parking Lot,Ipswich Parking Lot,,42.6767950,-70.8402110,0
+park-ER-0312,,3,parking-area,place-ER-0312,Parking Lot,Rowley Parking Lot,,42.7269050,-70.8592950,0
+park-ER-0362,,3,parking-area,place-ER-0362,Parking Lot,Newburyport Parking Lot,,42.7965240,-70.8768790,0
+park-FB-0109,,3,parking-area,place-FB-0109,Parking Lot,Endicott Parking Lot,,42.2333090,-71.1588810,0
+park-FB-0118,,3,parking-area,place-FB-0118,Parking Lot,Dedham Corporate Center Parking Lot,,42.2265200,-71.1735670,0
+park-FB-0125,,3,parking-area,place-FB-0125,Parking Lot,Islington Parking Lot,,42.2209350,-71.1838760,0
+park-FB-0143,,3,parking-area,place-FB-0143,Parking Lot,Norwood Depot Parking Lot,,42.1963280,-71.1971430,0
+park-FB-0148,,3,parking-area,place-FB-0148,Parking Lot,Norwood Central Parking Lot,,42.1882730,-71.2000560,0
+park-FB-0191,,3,parking-area,place-FB-0191,Parking Lot,Walpole Parking Lot,,42.1439000,-71.2579980,0
+park-FB-0230,,3,parking-area,place-FB-0230,Parking Lot,Norfolk Parking Lot,,42.1200950,-71.3261940,0
+park-FB-0275,,3,parking-area,place-FB-0275,Parking Lot,Franklin Parking Lot,,42.0835500,-71.3960890,0
+park-FB-0303,,3,parking-area,place-FB-0303,Parking Lot,Forge Park/495 Parking Lot,,42.0894910,-71.4395040,0
+park-FR-0064-claflin,,3,parking-area,place-FR-0064,Claflin Street Parking Lot,Belmont Claflin Street Parking Lot,,42.3972180,-71.1739400,0
+park-FR-0064-royal,,3,parking-area,place-FR-0064,Royal Road Parking Lot,Belmont Royal Road Parking Lot,,42.3957610,-71.1761420,0
+park-FR-0098-carter,,3,parking-area,place-FR-0098,Carter Street Parking Lot,Waltham Carter Street Parking Lot,,42.3744130,-71.2355950,0
+park-FR-0098-railroad,,3,parking-area,place-FR-0098,Railroad Street Parking Lot,Waltham Railroad Street Parking Lot,,42.3739960,-71.2377300,0
+park-FR-0115,,3,parking-area,place-FR-0115,Parking Lot,Brandeis/Roberts Parking Lot,,42.3618110,-71.2600060,0
+park-FR-0132,,3,parking-area,place-FR-0132,Parking Lot,Kendal Green Parking Lot,,42.3785390,-71.2821420,0
+park-FR-0137,,3,parking-area,place-FR-0137,Parking Lot,Hastings Parking Lot,,42.3855970,-71.2891180,0
+park-FR-0167,,3,parking-area,place-FR-0167,Parking Lot,Lincoln Parking Lot,,42.4154290,-71.3264800,0
+park-FR-0201,,3,parking-area,place-FR-0201,Parking Lot,Concord Parking Lot,,42.4546230,-71.3570450,0
+park-FR-0219,,3,parking-area,place-FR-0219,Parking Lot,West Concord Parking Lot,,42.4573580,-71.3931440,0
+park-FR-0253,,3,parking-area,place-FR-0253,Parking Lot,South Acton Parking Lot,,42.4609370,-71.4576260,0
+park-FR-0301,,3,parking-area,place-FR-0301,Parking Lot,Littleton/Route 495 Parking Lot,,42.5204470,-71.5022120,0
+park-FR-0361,,3,parking-area,place-FR-0361,Parking Lot,Ayer Parking Lot,,42.5615420,-71.5899040,0
+park-FR-0394,,3,parking-area,place-FR-0394,Parking Lot,Shirley Parking Lot,,42.5453700,-71.6471240,0
+park-FR-0451-garage,,3,parking-area,place-FR-0451,Garage,North Leominster Garage,,42.5394700,-71.7398140,0
+park-FR-0494-garage,,3,parking-area,place-FR-0494,Garage,Fitchburg Garage,,42.5814700,-71.7935260,0
+park-FR-3338-garage,,3,parking-area,place-FR-3338,Garage,Wachusett Garage,,42.5526890,-71.8474780,0
+park-FS-0049,,3,parking-area,place-FS-0049,Parking Lot,Foxboro Parking Lot,,42.0938544,-71.2639939,0
+park-GB-0198,,3,parking-area,place-GB-0198,Parking Lot,Montserrat Parking Lot,,42.5619360,-70.8692710,0
+park-GB-0229,,3,parking-area,place-GB-0229,Parking Lot,Beverly Farms Parking Lot,,42.5617280,-70.8118310,0
+park-GB-0254,,3,parking-area,place-GB-0254,Parking Lot,Manchester Parking Lot,,42.5741420,-70.7680280,0
+park-GB-0296,,3,parking-area,place-GB-0296,Parking Lot,West Gloucester Parking Lot,,42.6118590,-70.7053250,0
+park-GB-0316,,3,parking-area,place-GB-0316,Parking Lot,Gloucester Parking Lot,,42.6168550,-70.6668870,0
+park-GB-0353,,3,parking-area,place-GB-0353,Parking Lot,Rockport Parking Lot,,42.6560890,-70.6268990,0
+park-GRB-0118,,3,parking-area,place-GRB-0118,Parking Lot,Weymouth Landing/East Braintree Parking Lot,,42.2212080,-70.9679810,0
+park-GRB-0146,,3,parking-area,place-GRB-0146,Parking Lot,East Weymouth Parking Lot,,42.2186590,-70.9219290,0
+park-GRB-0162,,3,parking-area,place-GRB-0162,Parking Lot,West Hingham Parking Lot,,42.2360310,-70.9030260,0
+park-GRB-0183,,3,parking-area,place-GRB-0183,Parking Lot,Nantasket Junction Parking Lot,,42.2452620,-70.8680670,0
+park-GRB-0199,,3,parking-area,place-GRB-0199,Parking Lot,Cohasset Parking Lot,,42.2434280,-70.8374270,0
+park-GRB-0233,,3,parking-area,place-GRB-0233,Parking Lot,North Scituate Parking Lot,,42.2196750,-70.7880590,0
+park-GRB-0276,,3,parking-area,place-GRB-0276,Parking Lot,Greenbush Parking Lot,,42.1782020,-70.7459980,0
+park-KB-0351,,3,parking-area,place-KB-0351,Parking Lot,Kingston Parking Lot,,41.9779250,-70.7226640,0
+park-MM-0150,,3,parking-area,place-MM-0150,Parking Lot,Holbrook/Randolph Parking Lot,,42.1562880,-71.0270330,0
+park-MM-0186,,3,parking-area,place-MM-0186,Parking Lot,Montello Parking Lot,,42.1066330,-71.0215720,0
+park-MM-0200-garage,,3,parking-area,place-MM-0200,Garage,Brockton Garage,,42.0844380,-71.0147900,0
+park-MM-0219,,3,parking-area,place-MM-0219,Parking Lot,Campello Parking Lot,,42.0608280,-71.0113810,0
+park-MM-0277,,3,parking-area,place-MM-0277,Parking Lot,Bridgewater Parking Lot,,41.9851010,-70.9649490,0
+park-MM-0356,,3,parking-area,place-MM-0356,Parking Lot,Middleborough/Lakeville Parking Lot,,41.8780490,-70.9193030,0
+park-NB-0064,,3,parking-area,place-NB-0064,Parking Lot,Roslindale Village Parking Lot,,42.2871560,-71.1304840,0
+park-NB-0072,,3,parking-area,place-NB-0072,Parking Lot,Bellevue Parking Lot,,42.2867410,-71.1459350,0
+park-NB-0076,,3,parking-area,place-NB-0076,Parking Lot,Highland Parking Lot,,42.2851880,-71.1537410,0
+park-NB-0080,,3,parking-area,place-NB-0080,Parking Lot,West Roxbury Parking Lot,,42.2811450,-71.1600130,0
+park-NB-0109,,3,parking-area,place-NB-0109,Parking Lot,Hersey Parking Lot,,42.2760950,-71.2160580,0
+park-NB-0120,,3,parking-area,place-NB-0120,Parking Lot,Needham Junction Parking Lot,,42.2733250,-71.2355180,0
+park-NB-0127,,3,parking-area,place-NB-0127,Parking Lot,Needham Center Parking Lot,,42.2812300,-71.2372710,0
+park-NB-0137,,3,parking-area,place-NB-0137,Parking Lot,Needham Heights Parking Lot,,42.2935150,-71.2362770,0
+park-NEC-1659,,3,parking-area,place-NEC-1659,Parking Lot,Wickford Junction Parking Lot,,41.5816700,-71.4914700,0
+park-NEC-1768-garage,,3,parking-area,place-NEC-1768,Garage,TF Green Airport Garage,,41.7276060,-71.4427740,0
+park-NEC-1851-garage,,3,parking-area,place-NEC-1851,Garage,Providence Garage,,41.8291570,-71.4127430,0
+park-NEC-1919,,3,parking-area,place-NEC-1919,Parking Lot,South Attleboro Parking Lot,,41.8983570,-71.3557510,0
+park-NEC-1969,,3,parking-area,place-NEC-1969,Parking Lot,Attleboro Parking Lot,,41.9403490,-71.2859900,0
+park-NEC-2040,,3,parking-area,place-NEC-2040,Parking Lot,Mansfield Parking Lot,,42.0326890,-71.2209190,0
+park-NEC-2108,,3,parking-area,place-NEC-2108,Parking Lot,Sharon Parking Lot,,42.1246610,-71.1847430,0
+park-NEC-2139,,3,parking-area,place-NEC-2139,Parking Lot,Canton Junction Parking Lot,,42.1630750,-71.1530350,0
+park-NEC-2173-garage,,3,parking-area,place-NEC-2173,Garage,Route 128 Garage,,42.2098840,-71.1471000,0
+park-NEC-2203,,3,parking-area,place-NEC-2203,Parking Lot,Hyde Park Parking Lot,,42.2548230,-71.1253910,0
+park-NHRML-0055,,3,parking-area,place-NHRML-0055,Parking Lot,West Medford Parking Lot,,42.4218160,-71.1338460,0
+park-NHRML-0073,,3,parking-area,place-NHRML-0073,Parking Lot,Wedgemere Parking Lot,,42.4445790,-71.1407420,0
+park-NHRML-0078-aberjona,,3,parking-area,place-NHRML-0078,Lower Aberjona Parking Lot,Winchester Center Lower Aberjona Parking Lot,,42.4508720,-71.1375860,0
+park-NHRML-0078-waterfield,,3,parking-area,place-NHRML-0078,Waterfield Parking Lot,Winchester Center Waterfield Parking Lot,,42.4511660,-71.1380800,0
+park-NHRML-0127-airport,,3,parking-area,place-NHRML-0127,Logan Express Parking Lot,Anderson/Woburn Logan Express Parking Lot,,42.5165120,-71.1428130,0
+park-NHRML-0127-parkride,,3,parking-area,place-NHRML-0127,Park and Ride Parking Lot,Anderson/Woburn Park and Ride Parking Lot,,42.5185440,-71.1440610,0
+park-NHRML-0152,,3,parking-area,place-NHRML-0152,Parking Lot,Wilmington Parking Lot,,42.5473590,-71.1745590,0
+park-NHRML-0218-eastern,,3,parking-area,place-NHRML-0218,Eastern Parking Lot,North Billerica Eastern Parking Lot,,42.5933070,-71.2801380,0
+park-NHRML-0218-station,,3,parking-area,place-NHRML-0218,Station Street Parking Lot,North Billerica Station Street Parking Lot,,42.5933900,-71.2816320,0
+park-NHRML-0254-garage,,3,parking-area,place-NHRML-0254,Garage,Lowell Garage,,42.6369470,-71.3146390,0
+park-PB-0158,,3,parking-area,place-PB-0158,Parking Lot,South Weymouth Parking Lot,,42.1547540,-70.9539840,0
+park-PB-0194,,3,parking-area,place-PB-0194,Parking Lot,Abington Parking Lot,,42.1067380,-70.9348530,0
+park-PB-0212,,3,parking-area,place-PB-0212,Parking Lot,Whitman Parking Lot,,42.0825600,-70.9234870,0
+park-PB-0245,,3,parking-area,place-PB-0245,Parking Lot,Hanson Parking Lot,,42.0443710,-70.8822940,0
+park-PB-0281,,3,parking-area,place-PB-0281,Parking Lot,Halifax Parking Lot,,42.0146090,-70.8246200,0
+park-PB-0356,,3,parking-area,place-PB-0356,Parking Lot,Plymouth Parking Lot,,41.9810210,-70.6901800,0
+park-SB-0156,,3,parking-area,place-SB-0156,Parking Lot,Canton Center Parking Lot,,42.1569510,-71.1466250,0
+park-SB-0189,,3,parking-area,place-SB-0189,Parking Lot,Stoughton Parking Lot,,42.1233410,-71.1030870,0
+park-WML-0091-newton,,3,parking-area,place-WML-0091,Webster Street Parking Lot,West Newton Webster Street Parking Lot,,42.3477130,-71.2341600,0
+park-WML-0091-wash,,3,parking-area,place-WML-0091,Washington Street Parking Lot,West Newton Washington Street Parking Lot,,42.3482020,-71.2293950,0
+park-WML-0102,,3,parking-area,place-WML-0102,Parking Lot,Auburndale Parking Lot,,42.3457390,-71.2511450,0
+park-WML-0125,,3,parking-area,place-WML-0125,Parking Lot,Wellesley Farms Parking Lot,,42.3217790,-71.2719150,0
+park-WML-0135,,3,parking-area,place-WML-0135,Parking Lot,Wellesley Hills Parking Lot,,42.3099520,-71.2771930,0
+park-WML-0147,,3,parking-area,place-WML-0147,Parking Lot,Wellesley Square Parking Lot,,42.2979690,-71.2948890,0
+park-WML-0177,,3,parking-area,place-WML-0177,Parking Lot,Natick Center Parking Lot,,42.2856010,-71.3429450,0
+park-WML-0199,,3,parking-area,place-WML-0199,Parking Lot,West Natick Parking Lot,,42.2825060,-71.3915190,0
+park-WML-0214,,3,parking-area,place-WML-0214,Parking Lot,Framingham Parking Lot,,42.2762530,-71.4190960,0
+park-WML-0252,,3,parking-area,place-WML-0252,Parking Lot,Ashland Parking Lot,,42.2615010,-71.4806960,0
+park-WML-0274,,3,parking-area,place-WML-0274,Parking Lot,Southborough Parking Lot,,42.2670600,-71.5230120,0
+park-WML-0340,,3,parking-area,place-WML-0340,Parking Lot,Westborough Parking Lot,,42.2700500,-71.6476230,0
+park-WML-0364,,3,parking-area,place-WML-0364,Parking Lot,Grafton Parking Lot,,42.2468830,-71.6858730,0
+park-WML-0442-garage,,3,parking-area,place-WML-0442,Garage,Worcester Garage,,42.2603810,-71.7945930,0
+park-WR-0062,,3,parking-area,place-WR-0062,Parking Lot,Wyoming Hill Parking Lot,,42.4515360,-71.0696410,0
+park-WR-0067,,3,parking-area,place-WR-0067,Parking Lot,Melrose/Cedar Park Parking Lot,,42.4586480,-71.0699850,0
+park-WR-0075,,3,parking-area,place-WR-0075,Parking Lot,Melrose Highlands Parking Lot,,42.4695420,-71.0684740,0
+park-WR-0085,,3,parking-area,place-WR-0085,Main Street Parking Lot,Greenwood Main Street Parking Lot,,42.4849990,-71.0682420,0
+park-WR-0099,,3,parking-area,place-WR-0099,Parking Lot,Wakefield Parking Lot,,42.5009520,-71.0743930,0
+park-WR-0120,,3,parking-area,place-WR-0120,Parking Lot,Reading Parking Lot,,42.5227170,-71.1097160,0
+park-WR-0163,,3,parking-area,place-WR-0163,Parking Lot,North Wilmington Parking Lot,,42.5699840,-71.1592830,0
+park-WR-0205,,3,parking-area,place-WR-0205,Parking Lot,Ballardvale Parking Lot,,42.6277090,-71.1597650,0
+park-WR-0228,,3,parking-area,place-WR-0228,Parking Lot,Andover Parking Lot,,42.6590390,-71.1449380,0
+park-WR-0264,,3,parking-area,place-WR-0264,Parking Lot,Lawrence Parking Lot,,42.7021070,-71.1523330,0
+park-WR-0325,,3,parking-area,place-WR-0325,Parking Lot,Bradford Parking Lot,,42.7667950,-71.0889950,0
+park-WR-0329,,3,parking-area,place-WR-0329,Parking Lot,Haverhill Parking Lot,,42.7734050,-71.0866210,0
+park-alfcl-garage,,3,parking-area,place-alfcl,Garage,Alewife Garage,,42.3954280,-71.1424830,0
+park-bcnfd,,3,parking-area,place-bcnfd,Parking Lot,Beaconsfield Parking Lot,,42.3358410,-71.1401860,0
+park-bmmnl,,3,parking-area,place-bmmnl,Winthrop Avenue Parking Lot,Beachmont Winthrop Avenue Parking Lot,,42.3986670,-70.9931320,0
+park-brkhl,,3,parking-area,place-brkhl,Parking Lot,Brookline Hills Parking Lot,,42.3314160,-71.1267490,0
+park-brntn-garage,,3,parking-area,place-brntn,Garage,Braintree Garage,,42.2078540,-71.0011390,0
+park-brntn-lot-a,,3,parking-area,place-brntn,Ivory Street A Parking Lot,Braintree Ivory Street A Parking Lot,,42.2069830,-70.9994490,0
+park-brntn-lot-b,,3,parking-area,place-brntn,Ivory Street B Parking Lot,Braintree Ivory Street B Parking Lot,,42.2057410,-71.0002030,0
+park-butlr,,3,parking-area,place-butlr,Parking Lot,Butler Parking Lot,,42.2722200,-71.0634110,0
+park-chhil,,3,parking-area,place-chhil,Parking Lot,Chestnut Hill Parking Lot,,42.3270190,-71.1647980,0
+park-eliot,,3,parking-area,place-eliot,Parking Lot,Eliot Parking Lot,,42.3191260,-71.2165150,0
+park-forhl,,3,parking-area,place-forhl,Parking Lot,Forest Hills Parking Lot,,42.2994210,-71.1144380,0
+park-haecl-garage,,3,parking-area,place-haecl,Garage,Haymarket Garage,,42.3625570,-71.0579420,0
+park-longw,,3,parking-area,place-longw,Parking Lot,Longwood Parking Lot,,42.3417060,-71.1100860,0
+park-matt,,3,parking-area,place-matt,Parking Lot,Mattapan Parking Lot,,42.2681320,-71.0920640,0
+park-miltt,,3,parking-area,place-miltt,Parking Lot,Milton Parking Lot,,42.2701770,-71.0670260,0
+park-mlmnl,,3,parking-area,place-mlmnl,Parking Lot,Malden Center Parking Lot,,42.4268300,-71.0753050,0
+park-north-garage,,3,parking-area,place-north,Garage,North Station Garage,,42.3660830,-71.0621400,0
+park-nqncy-newport,,3,parking-area,place-nqncy,Newport Avenue Parking Lot,North Quincy Newport Avenue Parking Lot,,42.2748050,-71.0295140,0
+park-ogmnl,,3,parking-area,place-ogmnl,Banks Place Parking Lot,Oak Grove Banks Place Parking Lot,,42.4362460,-71.0711940,0
+park-orhte,,3,parking-area,place-orhte,Barnes Avenue Parking Lot,Orient Heights Barnes Avenue Parking Lot,,42.3864830,-71.0021180,0
+park-qamnl-garage,,3,parking-area,place-qamnl,Garage,Quincy Adams Garage,,42.2334420,-71.0080820,0
+park-qamnl-lot,,3,parking-area,place-qamnl,Parking Lot,Quincy Adams Parking Lot,,42.2338420,-71.0074860,0
+park-river,,3,parking-area,place-river,Parking Lot,Riverside Parking Lot,,42.3365810,-71.2526650,0
+park-sdmnl,,3,parking-area,place-sdmnl,Bennington Street Parking Lot,Suffolk Downs Bennington Street Parking Lot,,42.3910710,-70.9963540,0
+park-shmnl,,3,parking-area,place-shmnl,Sydney Street Parking Lot,Savin Hill Sydney Street Parking Lot,,42.3107670,-71.0538190,0
+park-sstat-garage,,3,parking-area,place-sstat,Bus Terminal Garage,South Station Bus Terminal Garage,,42.3498380,-71.0559630,0
+park-sull,,3,parking-area,place-sull,Parking Lot,Sullivan Square Parking Lot,,42.3841320,-71.0757780,0
+park-waban,,3,parking-area,place-waban,Parking Lot,Waban Parking Lot,,42.3260310,-71.2304360,0
+park-welln-garage,,3,parking-area,place-welln,Station Landing Garage,Wellington Station Landing Garage,,42.4018560,-71.0807350,0
+park-welln-lot,,3,parking-area,place-welln,Parking Lot,Wellington Parking Lot,,42.4022310,-71.0760430,0
+park-wlsta,,3,parking-area,place-wlsta,Parking Lot,Wollaston Parking Lot,,42.2665140,-71.0203370,0
+park-wondl-garage,,3,parking-area,place-wondl,Garage,Wonderland Garage,,42.4129540,-70.9924530,0
+park-wondl-nshore,,3,parking-area,place-wondl,North Shore Road Parking Lot,Wonderland North Shore Road Parking Lot,,42.4151350,-70.9912070,0
+park-woodl-garage,,3,parking-area,place-woodl,Garage,Woodland Garage,,42.3333830,-71.2449560,0
+pick-alfcl-garage,,3,pick-drop,place-alfcl,Garage,Alewife Garage Pick-up/Drop-off,,42.3955980,-71.1418420,1
+pick-asmnl-accessible,,3,pick-drop,place-asmnl,Accessible,Ashmont Accessible Pick-up/Drop-off,,42.2852050,-71.0643530,1
+pick-asmnl-main,,3,pick-drop,place-asmnl,Busway,Ashmont Busway Pick-up/Drop-off,,42.2840800,-71.0641310,2
+pick-brntn-main,,3,pick-drop,place-brntn,Busway,Braintree Busway Pick-up/Drop-off,,42.2072090,-71.0011540,1
+pick-cedgr-hillsdale,,3,pick-drop,place-cedgr,Hillsdale St,Cedar Grove Hillsdale St Pick-up/Drop-off,,42.2794320,-71.0601680,1
+pick-forhl-washington,,3,pick-drop,place-forhl,Washington St,Forest Hills Washington St Pick-up/Drop-off,,42.2994390,-71.1148710,1
+pick-jaksn-main,,3,pick-drop,place-jaksn,Centre St,Jackson Square Centre St Pick-up/Drop-off,,42.3228580,-71.1001960,1
+pick-jfk-morrissey,,3,pick-drop,place-jfk,Morrissey Boulevard,JFK/UMass Morrissey Boulevard Pick-up/Drop-off,,42.3205880,-71.0514540,1
+pick-mlmnl-commercial,,3,pick-drop,place-mlmnl,Commercial St,Malden Center Commercial St Pick-up/Drop-off,,42.4262330,-71.0738790,1
+pick-nqncy-squantum,,3,pick-drop,place-nqncy,West Squantum St,North Quincy West Squantum St Pick-up/Drop-off,,42.2753420,-71.0286210,1
+pick-ogmnl-banks,,3,pick-drop,place-ogmnl,Banks Place,Oak Grove Banks Place Pick-up/Drop-off,,42.4369370,-71.0701050,1
+pick-ogmnl-wash,,3,pick-drop,place-ogmnl,Washington St,Oak Grove Washington St Pick-up/Drop-off,,42.4365130,-71.0712960,1
+pick-orhte-bennington,,3,pick-drop,place-orhte,Bennington St,Orient Heights Bennington St Pick-up/Drop-off,,42.3871050,-71.0048640,1
+pick-qamnl-garage,,3,pick-drop,place-qamnl,Garage,Quincy Adams Garage Pick-up/Drop-off,,42.2327500,-71.0073610,1
+pick-qnctr-busway,,3,pick-drop,place-qnctr,Hancock St,Quincy Center Hancock St Pick-up/Drop-off,,42.2517160,-71.0047150,1
+pick-river-main,,3,pick-drop,place-river,,Riverside Pick-up/Drop-off,,42.3370340,-71.2530330,1
+pick-rugg-forsyth,,3,pick-drop,place-rugg,Forsyth St,Ruggles Forsyth St Pick-up/Drop-off,,42.3370660,-71.0894400,1
+pick-sdmnl-walley,,3,pick-drop,place-sdmnl,Walley St,Suffolk Downs Walley St Pick-up/Drop-off,,42.3904570,-70.9978130,1
+pick-sstat-atlantic,,3,pick-drop,place-sstat,Atlantic Ave,South Station Atlantic Ave Pick-up/Drop-off,,42.3510210,-71.0561680,1
+pick-sull-maffa,,3,pick-drop,place-sull,Maffa Way,Sullivan Square Maffa Way Pick-up/Drop-off,,42.3849320,-71.0758110,1
+pick-welln-lot,,3,pick-drop,place-welln,Lot,Wellington Lot Pick-up/Drop-off,,42.4026870,-71.0758180,0
+pick-wlsta-parking,,3,pick-drop,place-wlsta,Drop-off/pick-up,Wollaston Drop-off/pick-up Pick-up/Drop-off,,42.2666490,-71.0200100,1
+pick-woodl-accessible,,3,pick-drop,place-woodl,Accessible,Woodland Accessible Pick-up/Drop-off,,42.3328300,-71.2430240,1
+pick-woodl-main,,3,pick-drop,place-woodl,,Woodland Pick-up/Drop-off,,42.3330820,-71.2435260,2
+portlift-armnl-0,,2,portable-boarding-lift,place-armnl,Mobile lift (Park Street & North),Arlington mobile lift (Park Street & North),,,,1
+portlift-armnl-1,,2,portable-boarding-lift,place-armnl,Mobile lift (Copley & West),Arlington mobile lift (Copley & West),,,,1
+portlift-asmnl,,2,portable-boarding-lift,place-asmnl,Mobile lift (Mattapan Trolley),Ashmont mobile lift (Mattapan Trolley),,,,1
+portlift-bcnwa-0,,2,portable-boarding-lift,place-bcnwa,Mobile lift (Cleveland Circle),Washington Square mobile lift (Cleveland Circle),,,,1
+portlift-bcnwa-1,,2,portable-boarding-lift,place-bcnwa,Mobile lift (Park Street & North),Washington Square mobile lift (Park Street & North),,,,1
+portlift-brkhl-0,,2,portable-boarding-lift,place-brkhl,Mobile lift (Park Street & North),Brookline Hills mobile lift (Park Street & North),,,,1
+portlift-brkhl-1,,2,portable-boarding-lift,place-brkhl,Mobile lift (Riverside),Brookline Hills mobile lift (Riverside),,,,1
+portlift-brmnl-0,,2,portable-boarding-lift,place-brmnl,Mobile lift (Heath Street),Brigham Circle mobile lift (Heath Street),,,,1
+portlift-brmnl-1,,2,portable-boarding-lift,place-brmnl,Mobile lift (Park Street & North),Brigham Circle mobile lift (Park Street & North),,,,1
+portlift-bucen,,2,portable-boarding-lift,place-bucen,Mobile lift (Boston College),Boston University Central mobile lift (Boston College),,,,1
+portlift-buest,,2,portable-boarding-lift,place-buest,Mobile lift,Boston University East mobile lift,,,,1
+portlift-clmnl,,2,portable-boarding-lift,place-clmnl,Mobile lift,Cleveland Circle mobile lift,,,,1
+portlift-coecl-0,,2,portable-boarding-lift,place-coecl,Mobile lift (Park Street & North),Copley mobile lift (Park Street & North),,,,1
+portlift-coecl-1,,2,portable-boarding-lift,place-coecl,Mobile lift (Kenmore & West/Heath Street),Copley mobile lift (Kenmore & West/Heath Street),,,,1
+portlift-cool-0,,2,portable-boarding-lift,place-cool,Mobile lift (Cleveland Circle),Coolidge Corner mobile lift (Cleveland Circle),,,,1
+portlift-cool-1,,2,portable-boarding-lift,place-cool,Mobile lift (Park Street & North),Coolidge Corner mobile lift (Park Street & North),,,,1
+portlift-fenwy,,2,portable-boarding-lift,place-fenwy,Mobile lift (Riverside),Fenway mobile lift (Riverside),,,,1
+portlift-gover,,2,portable-boarding-lift,place-gover,Mobile lift,Government Center mobile lift,,,,1
+portlift-haecl-0,,2,portable-boarding-lift,place-haecl,Mobile lift (North Station & North),Haymarket mobile lift (North Station & North),,,,1
+portlift-haecl-1,,2,portable-boarding-lift,place-haecl,Mobile lift (Copley & West),Haymarket mobile lift (Copley & West),,,,1
+portlift-harvd-0,,2,portable-boarding-lift,place-harvd,Mobile lift (Park Street & North),Harvard Avenue mobile lift (Park Street & North),,,,1
+portlift-harvd-1,,2,portable-boarding-lift,place-harvd,Mobile lift (Boston College),Harvard Avenue mobile lift (Boston College),,,,1
+portlift-hsmnl,,2,portable-boarding-lift,place-hsmnl,Mobile lift,Heath Street mobile lift,,,,1
+portlift-kencl,,2,portable-boarding-lift,place-kencl,Mobile lift,Kenmore mobile lift,,,,1
+portlift-lake,,2,portable-boarding-lift,place-lake,Mobile lift,Boston College mobile lift,,,,1
+portlift-lech-0,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile lift,,,,1
+portlift-lech-1,,2,portable-boarding-lift,place-lech,Mobile lift,Lechmere mobile lift,,,,1
+portlift-lngmd-0,,2,portable-boarding-lift,place-lngmd,Mobile lift (Heath Street),Longwood Medical Area mobile lift (Heath Street),,,,1
+portlift-lngmd-1,,2,portable-boarding-lift,place-lngmd,Mobile lift (Park Street & North),Longwood Medical Area mobile lift (Park Street & North),,,,1
+portlift-mfa,,2,portable-boarding-lift,place-mfa,Mobile lift (Park Street & North),Museum of Fine Arts mobile lift (Park Street & North),,,,1
+portlift-newtn-0,,2,portable-boarding-lift,place-newtn,Mobile lift (Park Street & North),Newton Highlands mobile lift (Park Street & North),,,,1
+portlift-newtn-1,,2,portable-boarding-lift,place-newtn,Mobile lift (Riverside),Newton Highlands mobile lift (Riverside),,,,1
+portlift-newto,,2,portable-boarding-lift,place-newto,Mobile lift (Riverside),Newton Centre mobile lift (Riverside),,,,1
+portlift-north-0,,2,portable-boarding-lift,place-north,Mobile lift (Lechmere),North Station mobile lift (Lechmere),,,,1
+portlift-north-1,,2,portable-boarding-lift,place-north,Mobile lift (Copley & West),North Station mobile lift (Copley & West),,,,1
+portlift-nuniv-0,,2,portable-boarding-lift,place-nuniv,Mobile lift (Heath Street),Northeastern University mobile lift (Heath Street),,,,1
+portlift-nuniv-1,,2,portable-boarding-lift,place-nuniv,Mobile lift (Park Street & North),Northeastern University mobile lift (Park Street & North),,,,1
+portlift-pktrm-0,,2,portable-boarding-lift,place-pktrm,Mobile lift,Park Street mobile lift,,,,1
+portlift-pktrm-1,,2,portable-boarding-lift,place-pktrm,Mobile lift,Park Street mobile lift,,,,1
+portlift-prmnl-0,,2,portable-boarding-lift,place-prmnl,Mobile lift (Heath Street),Prudential mobile lift (Heath Street),,,,1
+portlift-prmnl-1,,2,portable-boarding-lift,place-prmnl,Mobile lift (Park Street & North),Prudential mobile lift (Park Street & North),,,,1
+portlift-river,,2,portable-boarding-lift,place-river,Mobile lift,Riverside mobile lift,,,,1
+portlift-rsmnl-0,,2,portable-boarding-lift,place-rsmnl,Mobile lift (Park Street & North),Reservoir mobile lift (Park Street & North),,,,1
+portlift-rsmnl-1,,2,portable-boarding-lift,place-rsmnl,Mobile lift (Riverside),Reservoir mobile lift (Riverside),,,,1
+portlift-smary,,2,portable-boarding-lift,place-smary,Mobile lift (Park Street & North),Saint Mary's Street mobile lift (Park Street & North),,,,1
+portlift-woodl-0,,2,portable-boarding-lift,place-woodl,Mobile lift (Park Street & North),Woodland mobile lift (Park Street & North),,,,1
+portlift-woodl-1,,2,portable-boarding-lift,place-woodl,Mobile lift (Riverside),Woodland mobile lift (Riverside),,,,1
+ramp-Boat-Charlestown,,2,ramp,Boat-Charlestown,Ramp access,Charlestown ramp access,,,,1
+ramp-Boat-George,,2,ramp,Boat-George,Ramp access,George's Island ramp access,,,,1
+ramp-Boat-Hingham,,2,ramp,Boat-Hingham,Ramp access,Hingham ramp access,,,,1
+ramp-Boat-Hull,,2,ramp,Boat-Hull,Ramp access,Hull ramp access,,,,1
+ramp-Boat-Logan,,2,ramp,Boat-Logan,Ramp access,Logan Airport Ferry Terminal ramp access,,,,1
+ramp-Boat-Long,,2,ramp,Boat-Long,Ramp access,Long Wharf (North) ramp access,,,,1
+ramp-Boat-Rowes,,2,ramp,Boat-Rowes,Ramp access,Rowes Wharf ramp access,,,,1
+ramp-DB-0095,,2,ramp,place-DB-0095,Ramp access,Readville ramp access,,,,1
+ramp-DB-2205,,2,ramp,place-DB-2205,Ramp access,Fairmount ramp access,,,,1
+ramp-DB-2222,,2,ramp,place-DB-2222,Ramp access,Blue Hill Avenue ramp access,,,,1
+ramp-DB-2240,,2,ramp,place-DB-2240,Ramp access,Talbot Avenue ramp access,,,,1
+ramp-DB-2249,,2,ramp,place-DB-2249,Ramp access,Four Corners/Geneva ramp access,,,,1
+ramp-DB-2258,,2,ramp,place-DB-2258,Ramp access,Uphams Corner ramp access,,,,1
+ramp-DB-2265,,2,ramp,place-DB-2265,Ramp access,Newmarket ramp access,,,,1
+ramp-FR-0301,,2,ramp,place-FR-0301,Ramp access,Littleton/Route 495 ramp access,,,,1
+ramp-FR-3338,,2,ramp,place-FR-3338,Ramp access,Wachusett ramp access,,,,1
+ramp-NEC-1919,,2,ramp,place-NEC-1919,Ramp access,South Attleboro ramp access,,,,1
+ramp-NEC-1969,,2,ramp,place-NEC-1969,Ramp access,Attleboro ramp access,,,,1
+ramp-NEC-2108,,2,ramp,place-NEC-2108,Ramp access,Sharon ramp access,,,,1
+ramp-NEC-2139,,2,ramp,place-NEC-2139,Ramp access,Canton Junction ramp access,,,,1
+ramp-NEC-2203,,2,ramp,place-NEC-2203,Ramp access,Hyde Park ramp access,,,,1
+ramp-NHRML-0073,,2,ramp,place-NHRML-0073,Ramp access,Wedgemere ramp access,,,,1
+ramp-NHRML-0127,,2,ramp,place-NHRML-0127,Ramp access,Anderson/Woburn ramp access,,,,1
+ramp-WML-0252,,2,ramp,place-WML-0252,Ramp access,Ashland ramp access,,,,1
+ramp-WML-0274,,2,ramp,place-WML-0274,Ramp access,Southborough ramp access,,,,1
+ramp-WML-0340,,2,ramp,place-WML-0340,Ramp access,Westborough ramp access,,,,1
+ramp-WML-0364,,2,ramp,place-WML-0364,Ramp access,Grafton ramp access,,,,1
+ramp-alfcl,,2,ramp,place-alfcl,Ramp access,Alewife ramp access,,,,1
+ramp-asmnl,,2,ramp,place-asmnl,Ramp access,Ashmont ramp access,,,,1
+ramp-brntn,,2,ramp,place-brntn,Ramp access,Braintree ramp access,,,,1
+ramp-harsq,,2,ramp,place-harsq,Ramp access,Harvard ramp access,,,,1
+ramp-jfk,,2,ramp,place-jfk,Ramp access,JFK/UMass ramp access,,,,1
+ramp-masta,,2,ramp,place-masta,Ramp access,Massachusetts Avenue ramp access,,,,1
+ramp-newto,,2,ramp,place-newto,Ramp access,Newton Centre ramp access,,,,1
+ramp-state,,2,ramp,place-state,Ramp access,State ramp access,,,,1
+ramp-sull,,2,ramp,place-sull,Ramp access,Sullivan Square ramp access,,,,1
+ramp-welln,,2,ramp,place-welln,Ramp access,Wellington ramp access,,,,1
+retailsale-302005,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.3395721,-71.0802902,0
+retailsale-302006,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.3290520,-71.0837219,0
+retailsale-302010,,4,fare-vending-retailer,,Lindy's General Store,Lindy's General Store,,42.0047283,-70.8316272,0
+retailsale-302013,,4,fare-vending-retailer,,Shaws,Shaws,,42.2724187,-71.0695770,0
+retailsale-302016,,4,fare-vending-retailer,,Star Market,Star Market,,42.3526114,-71.1234989,0
+retailsale-302017,,4,fare-vending-retailer,,Star Market,Star Market,,42.3899555,-71.1180063,0
+retailsale-302018,,4,fare-vending-retailer,,Shaws,Shaws,,42.4621066,-70.9505859,0
+retailsale-302019,,4,fare-vending-retailer,,Star Market,Star Market,,42.2447550,-71.0048767,0
+retailsale-302020,,4,fare-vending-retailer,,Star Market,Star Market,,42.3184171,-71.0506125,0
+retailsale-302021,,4,fare-vending-retailer,,Star Market,Star Market,,42.3737917,-71.0848369,0
+retailsale-302023,,4,fare-vending-retailer,,East West Bank,East West Bank,,42.2404010,-70.9915682,0
+retailsale-302024,,4,fare-vending-retailer,,East West Bank,East West Bank,,42.3511088,-71.0610250,0
+retailsale-302025,,4,fare-vending-retailer,,Village Neighborhood Market,Village Neighborhood Market,,42.2862307,-71.1293850,0
+retailsale-302026,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3983250,-71.1084120,0
+retailsale-302028,,4,fare-vending-retailer,,Lee's 2 Market,Lee's 2 Market,,42.3488130,-71.1372870,0
+retailsale-302029,,4,fare-vending-retailer,,Symphony Market,Symphony Market,,42.3415202,-71.0868242,0
+retailsale-302030,,4,fare-vending-retailer,,Kashvi Shenaya Variety,Kashvi Shenaya Variety,,42.3581012,-71.0618171,0
+retailsale-302031,,4,fare-vending-retailer,,Bay State Food,Bay State Food,,42.3411477,-71.1261220,0
+retailsale-302035,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.2906973,-71.0719152,0
+retailsale-302036,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.3362610,-71.0862125,0
+retailsale-302037,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.3227069,-71.1016502,0
+retailsale-302038,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.4624564,-70.9653870,0
+retailsale-302039,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.3794997,-71.0958020,0
+retailsale-302041,,4,fare-vending-retailer,,All Checks Cashed,All Checks Cashed,,42.4028324,-71.0536806,0
+retailsale-302043,,4,fare-vending-retailer,,Forest Hills Check Cashing,Forest Hills Check Cashing,,42.3000420,-71.1132852,0
+retailsale-302045,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3341556,-71.1043777,0
+retailsale-302046,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3969649,-71.1223151,0
+retailsale-302047,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3467920,-71.0877923,0
+retailsale-302048,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3591361,-71.0527699,0
+retailsale-302051,,4,fare-vending-retailer,,Sava's Market,Sava's Market,,42.3769404,-71.0336206,0
+retailsale-302052,,4,fare-vending-retailer,,Orient Heights Food Mart,Orient Heights Food Mart,,42.3871157,-71.0062476,0
+retailsale-302053,,4,fare-vending-retailer,,Revere Beach Food Mart,Revere Beach Food Mart,,42.4074363,-70.9948944,0
+retailsale-302055,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.3691134,-71.0391213,0
+retailsale-302057,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.3888950,-71.0404677,0
+retailsale-302058,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.3036508,-71.0848045,0
+retailsale-302059,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.2991081,-71.0619776,0
+retailsale-302060,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.3210414,-71.0617320,0
+retailsale-302061,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.2843228,-71.0911969,0
+retailsale-302069,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.4084440,-71.0019190,0
+retailsale-302070,,4,fare-vending-retailer,place-NEC-1969,Dian's Depot,Dian's Depot,,41.9424317,-71.2840337,0
+retailsale-302071,,4,fare-vending-retailer,,PLS Check Cashing,PLS Check Cashing,,42.4180236,-71.1467741,0
+retailsale-302073,,4,fare-vending-retailer,,Star Market,Star Market,,42.3751587,-71.1489313,0
+retailsale-302077,,4,fare-vending-retailer,,Patriot News,Patriot News,,42.3509312,-71.0715904,0
+retailsale-302079,,4,fare-vending-retailer,,Central Square Check Cashing ,Central Square Check Cashing ,,42.3756567,-71.0392973,0
+retailsale-302081,,4,fare-vending-retailer,,Patriot News,Patriot News,,42.3522254,-71.0563696,0
+retailsale-302082,,4,fare-vending-retailer,,Patriot News,Patriot News,,42.3563292,-71.0526233,0
+retailsale-302083,,4,fare-vending-retailer,,News Mart,News Mart,,42.3541310,-71.0559620,0
+retailsale-302084,,4,fare-vending-retailer,,Marylou's News,Marylou's News,,42.1074918,-70.9447767,0
+retailsale-302085,,4,fare-vending-retailer,,Marylou's News,Marylou's News,,42.1454013,-70.9536593,0
+retailsale-302086,,4,fare-vending-retailer,,The Village Market,The Village Market,,42.1940424,-70.7267901,0
+retailsale-302090,,4,fare-vending-retailer,,Shaws,Shaws,,42.4562287,-71.0660265,0
+retailsale-302091,,4,fare-vending-retailer,,Shaws,Shaws,,42.3767180,-71.0403052,0
+retailsale-302116,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3534351,-71.1384988,0
+retailsale-302119,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3693939,-71.0400581,0
+retailsale-302121,,4,fare-vending-retailer,,Regal Marketplace,Regal Marketplace,,42.0832663,-70.9230480,0
+retailsale-302122,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3532664,-71.1323650,0
+retailsale-302123,,4,fare-vending-retailer,,Star Market,Star Market,,42.3469722,-71.2448227,0
+retailsale-302124,,4,fare-vending-retailer,,Shaws,Shaws,,42.2518761,-71.1260055,0
+retailsale-302125,,4,fare-vending-retailer,,Star Market,Star Market,,42.3435214,-71.1004083,0
+retailsale-302126,,4,fare-vending-retailer,,Star Market,Star Market,,42.3477181,-71.0797151,0
+retailsale-302127,,4,fare-vending-retailer,,Star Market,Star Market,,42.3376642,-71.1392038,0
+retailsale-302128,,4,fare-vending-retailer,,Star Market,Star Market,,42.3237920,-71.1663699,0
+retailsale-302131,,4,fare-vending-retailer,,Supreme Gas,Supreme Gas,,42.1893674,-71.2002009,0
+retailsale-302132,,4,fare-vending-retailer,,Village Minimart,Village Minimart,,42.0413422,-70.8745342,0
+retailsale-302138,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3722826,-71.0993408,0
+retailsale-302140,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3661731,-71.1055079,0
+retailsale-302144,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3355438,-71.0461709,0
+retailsale-302145,,4,fare-vending-retailer,,Seven Days,Seven Days,,42.2825409,-71.3929769,0
+retailsale-302148,,4,fare-vending-retailer,,Sunrise Market,Sunrise Market,,42.5413494,-71.1655760,0
+retailsale-302149,,4,fare-vending-retailer,,Framingham One Stop Market,Framingham One Stop Market,,42.2763018,-71.4162560,0
+retailsale-302150,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3363832,-71.1510444,0
+retailsale-302152,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3500194,-71.1656926,0
+retailsale-302153,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.2211406,-70.9696949,0
+retailsale-302155,,4,fare-vending-retailer,,Richdale,Richdale,,42.6575693,-71.1451827,0
+retailsale-302157,,4,fare-vending-retailer,,Montello News,Montello News,,42.1050046,-71.0250295,0
+retailsale-302160,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3628059,-71.1297868,0
+retailsale-302163,,4,fare-vending-retailer,,Norfolk Food Mart,Norfolk Food Mart,,42.1202070,-71.3251419,0
+retailsale-302164,,4,fare-vending-retailer,,Village Market,Village Market,,42.3604427,-71.2615365,0
+retailsale-302167,,4,fare-vending-retailer,,Chansky's Market,Chansky's Market,,42.3411566,-71.1467547,0
+retailsale-302168,,4,fare-vending-retailer,,Quick Exchange,Quick Exchange,,42.2992699,-71.0644869,0
+retailsale-302171,,4,fare-vending-retailer,place-WR-0329,"LAZ Parking, MVRTA Garage","LAZ Parking, MVRTA Garage",,42.7742959,-71.0858952,0
+retailsale-302172,,4,fare-vending-retailer,,Piccadilly Market,Piccadilly Market,,42.3298823,-71.1925320,0
+retailsale-302173,,4,fare-vending-retailer,,Mid-Nite Convenience,Mid-Nite Convenience,,42.3794495,-71.0960169,0
+retailsale-302176,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.2870925,-71.1271560,0
+retailsale-302177,,4,fare-vending-retailer,,Commonwealth Sunoco,Commonwealth Sunoco,,42.3505675,-71.1135920,0
+retailsale-302182,,4,fare-vending-retailer,,Bridge Mart,Bridge Mart,,41.9911680,-70.9680450,0
+retailsale-302183,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.0424514,-70.8542993,0
+retailsale-302184,,4,fare-vending-retailer,,Abington News,Abington News,,42.1084460,-70.9358193,0
+retailsale-302187,,4,fare-vending-retailer,,Shaws,Shaws,,42.5032227,-71.0640766,0
+retailsale-302188,,4,fare-vending-retailer,,Lee's Supermarket,Lee's Supermarket,,42.3442297,-71.1431245,0
+retailsale-302194,,4,fare-vending-retailer,place-NHRML-0127,Anderson Regional Transportation Center,Anderson Regional Transportation Center,,42.5173642,-71.1442420,0
+retailsale-302195,,4,fare-vending-retailer,,Nathan Sandwich & Variety,Nathan Sandwich & Variety,,42.7725928,-71.0866083,0
+retailsale-302199,,4,fare-vending-retailer,,Cafe La France,Cafe La France,,41.8292430,-71.4132820,0
+retailsale-302200,,4,fare-vending-retailer,,Montachusett Regional Transit Authority,Montachusett Regional Transit Authority,,42.5809968,-71.7926968,0
+retailsale-302204,,4,fare-vending-retailer,,Start Wireless,Start Wireless,,42.3538795,-71.1371694,0
+retailsale-302205,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3367728,-71.0770449,0
+retailsale-302210,,4,fare-vending-retailer,,Star Food Mart,Star Food Mart,,42.2555445,-71.1240197,0
+retailsale-302211,,4,fare-vending-retailer,,Star Variety,Star Variety,,42.3650237,-71.1044045,0
+retailsale-302217,,4,fare-vending-retailer,,Lucky Farms,Lucky Farms,,42.2554140,-71.4678054,0
+retailsale-302234,,4,fare-vending-retailer,place-WR-0264,LAZ Parking,LAZ Parking,,42.7021654,-71.1524640,0
+retailsale-302238,,4,fare-vending-retailer,place-NEC-2040,Mansfield Train Station,Mansfield Train Station,,42.0322050,-71.2199940,0
+retailsale-303004,,4,fare-vending-retailer,,Star Market,Star Market,,42.3609676,-71.1375155,0
+retailsale-303005,,4,fare-vending-retailer,,Get-N-Go,Get-N-Go,,42.3882476,-71.1033752,0
+retailsale-303006,,4,fare-vending-retailer,,Andre's,Andre's,,42.2657814,-71.0212735,0
+retailsale-303008,,4,fare-vending-retailer,,Navarrete Grocery,Navarrete Grocery,,42.3129225,-71.0679716,0
+retailsale-303009,,4,fare-vending-retailer,,V&D Variety,V&D Variety,,42.2853915,-71.1290823,0
+retailsale-303010,,4,fare-vending-retailer,,Cleveland Circle Convenience,Cleveland Circle Convenience,,42.3367574,-71.1513774,0
+retailsale-303012,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3810932,-71.2359621,0
+retailsale-303016,,4,fare-vending-retailer,,Star Market,Star Market,,42.3885646,-71.1911456,0
+retailsale-303017,,4,fare-vending-retailer,,L.A. Market/Nine Red Pearls,L.A. Market/Nine Red Pearls,,42.4058759,-71.1310497,0
+retailsale-303019,,4,fare-vending-retailer,,Family Food Mart,Family Food Mart,,42.4051291,-71.0288717,0
+retailsale-303021,,4,fare-vending-retailer,,River St Premier Petrol,River St Premier Petrol,,42.2709663,-71.0738588,0
+retailsale-303023,,4,fare-vending-retailer,,A-1 Market,A-1 Market,,42.3700996,-71.2373034,0
+retailsale-303025,,4,fare-vending-retailer,,Star Convenience Beer & Wine,Star Convenience Beer & Wine,,42.4041381,-71.0483815,0
+retailsale-303026,,4,fare-vending-retailer,,Telepage Corp,Telepage Corp,,42.3901414,-71.0370071,0
+retailsale-303027,,4,fare-vending-retailer,,Copper City Espresso,Copper City Espresso,,42.1569180,-71.1527380,0
+retailsale-303028,,4,fare-vending-retailer,,Shaws,Shaws,,42.5017775,-70.9215827,0
+retailsale-303029,,4,fare-vending-retailer,,Backstage Hardware,Backstage Hardware,,42.3442395,-71.0300039,0
+retailsale-303031,,4,fare-vending-retailer,,Waltham Smoke & Convenience,Waltham Smoke & Convenience,,42.3738280,-71.2064790,0
+retailsale-303032,,4,fare-vending-retailer,,6-Twelve,6-Twelve,,42.3356561,-71.0393362,0
+retailsale-303033,,4,fare-vending-retailer,,Mass Telepage,Mass Telepage,,42.4588607,-70.9700772,0
+retailsale-303034,,4,fare-vending-retailer,,Natural Grocery,Natural Grocery,,42.3964358,-71.1035793,0
+retailsale-303036,,4,fare-vending-retailer,,Caribbean Liquors,Caribbean Liquors,,42.3921397,-71.0348849,0
+retailsale-303037,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3505035,-71.1314010,0
+retailsale-303038,,4,fare-vending-retailer,,Boston Express Multi,Boston Express Multi,,42.3147023,-71.1013630,0
+retailsale-303039,,4,fare-vending-retailer,,Bonilla's Wireless,Bonilla's Wireless,,42.2860286,-71.1292681,0
+retailsale-303040,,4,fare-vending-retailer,,Allston Market,Allston Market,,42.3513911,-71.1317209,0
+retailsale-303041,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3885544,-71.0433761,0
+retailsale-303042,,4,fare-vending-retailer,,Sam's Food Store,Sam's Food Store,,42.2876197,-71.1265759,0
+retailsale-303043,,4,fare-vending-retailer,,City Food Mart,City Food Mart,,42.3938922,-71.0339275,0
+retailsale-303044,,4,fare-vending-retailer,,Star Market,Star Market,,42.3836075,-71.1117903,0
+retailsale-303045,,4,fare-vending-retailer,place-NEC-2173,Station 128 Cafe,Station 128 Cafe,,42.2103877,-71.1496861,0
+retailsale-303048,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3426110,-71.0970810,0
+retailsale-303049,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3448120,-71.0811960,0
+retailsale-303050,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3354510,-71.0375380,0
+retailsale-303051,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3546050,-71.1501050,0
+retailsale-303052,,4,fare-vending-retailer,,7-Eleven,7-Eleven,,42.3118660,-71.1142480,0
+subplat-25,,2,elevated-subplatform,25,Mini-high platform,E Broadway @ L St mini-high platform,,,,1
+subplat-DB-0095,,2,elevated-subplatform,place-DB-0095,Mini-high platform,Readville mini-high platform,,,,1
+subplat-DB-2205,,2,elevated-subplatform,place-DB-2205,Mini-high platform,Fairmount mini-high platform,,,,1
+subplat-ER-0128,,2,elevated-subplatform,place-ER-0128,Mini-high platform,Swampscott mini-high platform,,,,1
+subplat-ER-0183,,2,elevated-subplatform,place-ER-0183,Mini-high platform,Beverly mini-high platform,,,,1
+subplat-ER-0208,,2,elevated-subplatform,place-ER-0208,Mini-high platform,North Beverly mini-high platform,,,,1
+subplat-ER-0227,,2,elevated-subplatform,place-ER-0227,Mini-high platform,Hamilton/Wenham mini-high platform,,,,1
+subplat-FB-0118,,2,elevated-subplatform,place-FB-0118,Mini-high platform,Dedham Corporate Center mini-high platform,,,,1
+subplat-FB-0143,,2,elevated-subplatform,place-FB-0143,Mini-high platform,Norwood Depot mini-high platform,,,,1
+subplat-FB-0148,,2,elevated-subplatform,place-FB-0148,Mini-high platform,Norwood Central mini-high platform,,,,1
+subplat-FB-0230,,2,elevated-subplatform,place-FB-0230,Mini-high platform,Norfolk mini-high platform,,,,1
+subplat-FB-0303,,2,elevated-subplatform,place-FB-0303,Mini-high platform,Forge Park/495 mini-high platform,,,,1
+subplat-FR-0098,,2,elevated-subplatform,place-FR-0098,Mini-high platform,Waltham mini-high platform,,,,1
+subplat-FR-0115,,2,elevated-subplatform,place-FR-0115,Mini-high platform,Brandeis/Roberts mini-high platform,,,,1
+subplat-FR-0219,,2,elevated-subplatform,place-FR-0219,Mini-high platform,West Concord mini-high platform,,,,1
+subplat-FR-0451,,2,elevated-subplatform,place-FR-0451,Mini-high platform,North Leominster mini-high platform,,,,1
+subplat-FR-0494,,2,elevated-subplatform,place-FR-0494,Mini-high platform,Fitchburg mini-high platform,,,,1
+subplat-FS-0049,,2,elevated-subplatform,place-FS-0049,Mini-high platform,Foxboro mini-high platform,,,,1
+subplat-GB-0198,,2,elevated-subplatform,place-GB-0198,Mini-high platform,Montserrat mini-high platform,,,,1
+subplat-GB-0229,,2,elevated-subplatform,place-GB-0229,Mini-high platform,Beverly Farms mini-high platform,,,,1
+subplat-GB-0254,,2,elevated-subplatform,place-GB-0254,Mini-high platform,Manchester mini-high platform,,,,1
+subplat-GB-0296,,2,elevated-subplatform,place-GB-0296,Mini-high platform,West Gloucester mini-high platform,,,,1
+subplat-GB-0316,,2,elevated-subplatform,place-GB-0316,Mini-high platform,Gloucester mini-high platform,,,,1
+subplat-GB-0353,,2,elevated-subplatform,place-GB-0353,Mini-high platform,Rockport mini-high platform,,,,1
+subplat-NB-0064,,2,elevated-subplatform,place-NB-0064,Mini-high platform,Roslindale Village mini-high platform,,,,1
+subplat-NB-0072,,2,elevated-subplatform,place-NB-0072,Mini-high platform,Bellevue mini-high platform,,,,1
+subplat-NB-0076,,2,elevated-subplatform,place-NB-0076,Mini-high platform,Highland mini-high platform,,,,1
+subplat-NB-0080,,2,elevated-subplatform,place-NB-0080,Mini-high platform,West Roxbury mini-high platform,,,,1
+subplat-NB-0109,,2,elevated-subplatform,place-NB-0109,Mini-high platform,Hersey mini-high platform,,,,1
+subplat-NB-0120,,2,elevated-subplatform,place-NB-0120,Mini-high platform,Needham Junction mini-high platform,,,,1
+subplat-NB-0127,,2,elevated-subplatform,place-NB-0127,Mini-high platform,Needham Center mini-high platform,,,,1
+subplat-NB-0137,,2,elevated-subplatform,place-NB-0137,Mini-high platform,Needham Heights mini-high platform,,,,1
+subplat-NEC-1919,,2,elevated-subplatform,place-NEC-1919,Mini-high platform,South Attleboro mini-high platform,,,,1
+subplat-NEC-1969,,2,elevated-subplatform,place-NEC-1969,Mini-high platform,Attleboro mini-high platform,,,,1
+subplat-NEC-2040,,2,elevated-subplatform,place-NEC-2040,Mini-high platform,Mansfield mini-high platform,,,,1
+subplat-NEC-2108,,2,elevated-subplatform,place-NEC-2108,Mini-high platform,Sharon mini-high platform,,,,1
+subplat-NEC-2139,,2,elevated-subplatform,place-NEC-2139,Mini-high platform,Canton Junction mini-high platform,,,,1
+subplat-NEC-2203,,2,elevated-subplatform,place-NEC-2203,Mini-high platform,Hyde Park mini-high platform,,,,1
+subplat-NHRML-0073,,2,elevated-subplatform,place-NHRML-0073,Mini-high platform,Wedgemere mini-high platform,,,,1
+subplat-NHRML-0116,,2,elevated-subplatform,place-NHRML-0116,Mini-high platform,Mishawum mini-high platform,,,,1
+subplat-NHRML-0152,,2,elevated-subplatform,place-NHRML-0152,Mini-high platform,Wilmington mini-high platform,,,,1
+subplat-NHRML-0218,,2,elevated-subplatform,place-NHRML-0218,Mini-high platform,North Billerica mini-high platform,,,,1
+subplat-SB-0156,,2,elevated-subplatform,place-SB-0156,Mini-high platform,Canton Center mini-high platform,,,,1
+subplat-SB-0189,,2,elevated-subplatform,place-SB-0189,Mini-high platform,Stoughton mini-high platform,,,,1
+subplat-WML-0199,,2,elevated-subplatform,place-WML-0199,Mini-high platform,West Natick mini-high platform,,,,1
+subplat-WML-0214,,2,elevated-subplatform,place-WML-0214,Mini-high platform,Framingham mini-high platform,,,,1
+subplat-WML-0252,,2,elevated-subplatform,place-WML-0252,Mini-high platform,Ashland mini-high platform,,,,1
+subplat-WML-0274,,2,elevated-subplatform,place-WML-0274,Mini-high platform,Southborough mini-high platform,,,,1
+subplat-WML-0340,,2,elevated-subplatform,place-WML-0340,Mini-high platform,Westborough mini-high platform,,,,1
+subplat-WML-0364,,2,elevated-subplatform,place-WML-0364,Mini-high platform,Grafton mini-high platform,,,,1
+subplat-WML-0442,,2,elevated-subplatform,place-WML-0442,Mini-high platform,Worcester mini-high platform,,,,1
+subplat-WR-0075,,2,elevated-subplatform,place-WR-0075,Mini-high platform,Melrose Highlands mini-high platform,,,,1
+subplat-WR-0120,,2,elevated-subplatform,place-WR-0120,Mini-high platform,Reading mini-high platform,,,,1
+subplat-WR-0205,,2,elevated-subplatform,place-WR-0205,Mini-high platform,Ballardvale mini-high platform,,,,1
+subplat-WR-0228,,2,elevated-subplatform,place-WR-0228,Mini-high platform,Andover mini-high platform,,,,1
+subplat-WR-0325,,2,elevated-subplatform,place-WR-0325,Mini-high platform,Bradford mini-high platform,,,,1
+subplat-WR-0329,,2,elevated-subplatform,place-WR-0329,Mini-high platform,Haverhill mini-high platform,,,,1
+subplat-bbsta-5,,2,elevated-subplatform,place-bbsta,Mini-high platform,Back Bay mini-high platform,,,,1
+subplat-bbsta-7,,2,elevated-subplatform,place-bbsta,Mini-high platform,Back Bay mini-high platform,,,,1
+subplat-bucen,,2,elevated-subplatform,place-bucen,Mini-high platform (Park Street & North),Boston University Central mini-high platform (Park Street & North),,,,1
+subplat-butlr-0,,2,elevated-subplatform,place-butlr,Mini-high platform (Mattapan),Butler mini-high platform (Mattapan),,,,1
+subplat-butlr-1,,2,elevated-subplatform,place-butlr,Mini-high platform (Ashmont),Butler mini-high platform (Ashmont),,,,1
+subplat-bvmnl-0,,2,elevated-subplatform,place-bvmnl,Mini-high platform (Park Street & North),Brookline Village mini-high platform (Park Street & North),,,,1
+subplat-bvmnl-1,,2,elevated-subplatform,place-bvmnl,Mini-high platform (Riverside),Brookline Village mini-high platform (Riverside),,,,1
+subplat-capst-0,,2,elevated-subplatform,place-capst,Mini-high platform (Mattapan),Capen Street mini-high platform (Mattapan),,,,1
+subplat-capst-1,,2,elevated-subplatform,place-capst,Mini-high platform (Ashmont),Capen Street mini-high platform (Ashmont),,,,1
+subplat-cedgr-0,,2,elevated-subplatform,place-cedgr,Mini-high platform (Mattapan),Cedar Grove mini-high platform (Mattapan),,,,1
+subplat-cedgr-1,,2,elevated-subplatform,place-cedgr,Mini-high platform (Ashmont),Cedar Grove mini-high platform (Ashmont),,,,1
+subplat-cenav-0,,2,elevated-subplatform,place-cenav,Mini-high platform (Mattapan),Central Avenue mini-high platform (Mattapan),,,,1
+subplat-cenav-1,,2,elevated-subplatform,place-cenav,Mini-high platform (Ashmont),Central Avenue mini-high platform (Ashmont),,,,1
+subplat-fenwy,,2,elevated-subplatform,place-fenwy,Mini-high platform (Park Street & North),Fenway mini-high platform (Park Street & North),,,,1
+subplat-hsmnl,,2,elevated-subplatform,place-hsmnl,Mini-high platform,Heath Street mini-high platform,,,,1
+subplat-lake,,2,elevated-subplatform,place-lake,Mini-high platform,Boston College mini-high platform,,,,1
+subplat-lech,,2,elevated-subplatform,place-lech,Mini-high platform,Lechmere mini-high platform,,,,1
+subplat-matt-0,,2,elevated-subplatform,place-matt,Mini-high platform (Exit Only),Mattapan mini-high platform (Exit Only),,,,1
+subplat-matt-1,,2,elevated-subplatform,place-matt,Mini-high platform (Ashmont),Mattapan mini-high platform (Ashmont),,,,1
+subplat-mfa,,2,elevated-subplatform,place-mfa,Mini-high platform (Heath Street),Museum of Fine Arts mini-high platform (Heath Street),,,,1
+subplat-miltt-0,,2,elevated-subplatform,place-miltt,Mini-high platform (Mattapan),Milton mini-high platform (Mattapan),,,,1
+subplat-miltt-1,,2,elevated-subplatform,place-miltt,Mini-high platform (Ashmont),Milton mini-high platform (Ashmont),,,,1
+subplat-newto,,2,elevated-subplatform,place-newto,Mini-high platform (Park Street & North),Newton Centre mini-high platform (Park Street & North),,,,1
+subplat-portr,,2,elevated-subplatform,place-portr,Mini-high platform,Porter mini-high platform,,,,1
+subplat-smary,,2,elevated-subplatform,place-smary,Mini-high platform (Cleveland Circle),Saint Mary's Street mini-high platform (Cleveland Circle),,,,1
+subplat-spmnl-0,,2,elevated-subplatform,place-spmnl,Mini-high platform,Science Park/West End mini-high platform,,,,1
+subplat-spmnl-1,,2,elevated-subplatform,place-spmnl,Mini-high platform,Science Park/West End mini-high platform,,,,1
+subplat-wascm-0,,2,elevated-subplatform,place-wascm,Mini-high platform (Park Street & North),Washington Street mini-high platform (Park Street & North),,,,1
+subplat-wascm-1,,2,elevated-subplatform,place-wascm,Mini-high platform (Boston College),Washington Street mini-high platform (Boston College),,,,1
+ticket-bbsta,,4,ticket-window,place-bbsta,Commuter Rail ticket window,Keolis Commuter Rail Back Bay ticket window,,42.3472490,-71.0753270,0
+ticket-north,,4,ticket-window,place-north,Commuter Rail ticket window,Keolis Commuter Rail North Station ticket window,,42.3662070,-71.0626560,0
+ticket-sstat,,4,ticket-window,place-sstat,Commuter Rail ticket window,Keolis Commuter Rail South Station ticket window,,42.3519230,-71.0545050,0

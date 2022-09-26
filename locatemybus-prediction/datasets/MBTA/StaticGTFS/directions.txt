@@ -1,0 +1,429 @@
+route_id,direction_id,direction,direction_destination
+Red,0,South,Ashmont/Braintree
+Red,1,North,Alewife
+Mattapan,0,Outbound,Mattapan
+Mattapan,1,Inbound,Ashmont
+Orange,0,South,Forest Hills
+Orange,1,North,Oak Grove
+Green-B,0,West,Boston College
+Green-B,1,East,Park Street
+Green-C,0,West,Cleveland Circle
+Green-C,1,East,North Station
+Green-D,0,West,Riverside
+Green-D,1,East,Government Center
+Green-E,0,West,Heath Street
+Green-E,1,East,North Station
+Blue,0,West,Bowdoin
+Blue,1,East,Wonderland
+741,0,Outbound,Logan Airport Terminals
+741,1,Inbound,South Station
+742,0,Outbound,Drydock Avenue
+742,1,Inbound,South Station
+743,0,Outbound,Chelsea Station
+743,1,Inbound,South Station
+751,0,Outbound,Nubian Station
+751,1,Inbound,South Station
+749,0,Outbound,Nubian Station
+749,1,Inbound,Temple Place
+746,0,Outbound,Silver Line Way
+746,1,Inbound,South Station
+CR-Fairmount,0,Outbound,Fairmount
+CR-Fairmount,1,Inbound,South Station
+CR-Fitchburg,0,Outbound,Wachusett
+CR-Fitchburg,1,Inbound,North Station
+CR-Worcester,0,Outbound,Worcester
+CR-Worcester,1,Inbound,South Station
+CR-Franklin,0,Outbound,Forge Park/495
+CR-Franklin,1,Inbound,South Station
+CR-Greenbush,0,Outbound,Greenbush
+CR-Greenbush,1,Inbound,South Station
+CR-Haverhill,0,Outbound,Haverhill
+CR-Haverhill,1,Inbound,North Station
+CR-Kingston,0,Outbound,Kingston or Plymouth
+CR-Kingston,1,Inbound,South Station
+CR-Lowell,0,Outbound,Lowell
+CR-Lowell,1,Inbound,North Station
+CR-Middleborough,0,Outbound,Middleborough/Lakeville
+CR-Middleborough,1,Inbound,South Station
+CR-Needham,0,Outbound,Needham Heights
+CR-Needham,1,Inbound,South Station
+CR-Newburyport,0,Outbound,Newburyport or Rockport
+CR-Newburyport,1,Inbound,North Station
+CR-Providence,0,Outbound,Stoughton or Wickford Junction
+CR-Providence,1,Inbound,South Station
+CR-Foxboro,0,Outbound,Foxboro or Providence
+CR-Foxboro,1,Inbound,South Station or Foxboro
+CapeFlyer,0,Outbound,Hyannis
+CapeFlyer,1,Inbound,South Station
+Boat-F4,0,Outbound,Charlestown
+Boat-F4,1,Inbound,Long Wharf
+Boat-F1,0,Outbound,Hingham or Hull
+Boat-F1,1,Inbound,Long Wharf or Rowes Wharf
+747,0,Outbound,Sullivan Square Station
+747,1,Inbound,Ruggles Station
+708,0,Outbound,Beth Israel Deaconess Hospital
+708,1,Inbound,Andrew Station
+1,0,Outbound,Harvard Square
+1,1,Inbound,Nubian Station
+4,0,Outbound,North Station
+4,1,Inbound,Tide Street
+7,0,Outbound,City Point
+7,1,Inbound,Otis Street & Summer Street
+8,0,Outbound,Harbor Point
+8,1,Inbound,Kenmore Station
+9,0,Outbound,City Point
+9,1,Inbound,Copley Station
+10,0,Outbound,City Point
+10,1,Inbound,Copley Square
+11,0,Outbound,City Point
+11,1,Inbound,Chauncy Street & Summer Street
+14,0,Outbound,Roslindale Square
+14,1,Inbound,Heath Street
+15,0,Outbound,Fields Corner Station or Kane Square
+15,1,Inbound,Ruggles Station
+16,0,Outbound,Forest Hills Station
+16,1,Inbound,Andrew Station or Harbor Point
+17,0,Outbound,Fields Corner Station
+17,1,Inbound,Andrew Station
+18,0,Outbound,Ashmont Station
+18,1,Inbound,Andrew Station
+19,0,Outbound,Fields Corner Station
+19,1,Inbound,Kenmore or Ruggles Station
+21,0,Outbound,Ashmont Station
+21,1,Inbound,Forest Hills Station
+22,0,Outbound,Ashmont Station
+22,1,Inbound,Ruggles Station
+23,0,Outbound,Ashmont Station
+23,1,Inbound,Ruggles Station
+24,0,Outbound,Wakefield Avenue & Truman Parkway
+24,1,Inbound,Mattapan Station
+2427,0,Outbound,Wakefield Avenue & Truman Parkway
+2427,1,Inbound,Mattapan Station
+26,0,Outbound,Ashmont Station
+26,1,Inbound,Norfolk Street Loop
+27,0,Outbound,Mattapan Station
+27,1,Inbound,Ashmont Station
+28,0,Outbound,Mattapan Station
+28,1,Inbound,Ruggles Station
+29,0,Outbound,Mattapan Station
+29,1,Inbound,Jackson Square Station
+30,0,Outbound,Mattapan Station
+30,1,Inbound,Forest Hills Station
+31,0,Outbound,Mattapan Station
+31,1,Inbound,Forest Hills Station
+32,0,Outbound,Wolcott or Cleary Square
+32,1,Inbound,Forest Hills Station
+3233,0,Outbound,River Street & Milton Street
+3233,1,Inbound,Mattapan Station
+33,0,Outbound,River Street & Milton Street
+33,1,Inbound,Mattapan Station
+34,0,Outbound,Dedham Mall or Dedham Line
+34,1,Inbound,Forest Hills Station
+34E,0,Outbound,Walpole Center
+34E,1,Inbound,Forest Hills Station
+35,0,Outbound,Dedham Mall or Stimson Street
+35,1,Inbound,Forest Hills Station
+36,0,Outbound,Millennium Park or VA Hospital
+36,1,Inbound,Forest Hills Station
+37,0,Outbound,Baker Street & Vermont Street
+37,1,Inbound,Forest Hills Station
+38,0,Outbound,Wren Street
+38,1,Inbound,Forest Hills Station
+39,0,Outbound,Forest Hills Station
+39,1,Inbound,Back Bay Station
+40,0,Outbound,Georgetowne
+40,1,Inbound,Forest Hills Station
+4050,0,Outbound,Georgetowne
+4050,1,Inbound,Forest Hills Station
+41,0,Outbound,Centre Street & Eliot Street
+41,1,Inbound,JFK/UMass Station
+42,0,Outbound,Forest Hills Station
+42,1,Inbound,Nubian Station
+43,0,Outbound,Ruggles  Station
+43,1,Inbound,Park Street Station
+44,0,Outbound,Jackson Square Station
+44,1,Inbound,Ruggles Station
+45,0,Outbound,Franklin Park
+45,1,Inbound,Ruggles Station
+47,0,Outbound,"Central Square, Cambridge"
+47,1,Inbound,Broadway Station
+50,0,Outbound,Cleary Square
+50,1,Inbound,Forest Hills Station
+51,0,Outbound,Reservoir Station
+51,1,Inbound,Forest Hills Station
+52,0,Outbound,Dedham Mall
+52,1,Inbound,Watertown Yard
+55,0,Outbound,Jersey Street & Queensberry Street
+55,1,Inbound,Copley Station
+57,0,Outbound,Watertown Yard
+57,1,Inbound,Kenmore Station
+57A,0,Outbound,Oak Square
+57A,1,Inbound,Kenmore Station
+59,0,Outbound,Needham Junction
+59,1,Inbound,Watertown Square
+60,0,Outbound,Chestnut Hill
+60,1,Inbound,Kenmore Station
+61,0,Outbound,North Waltham
+61,1,Inbound,Waltham Center
+62,0,Outbound,Bedford VA Hospital
+62,1,Inbound,Alewife Station
+627,0,Outbound,Bedford VA Hospital
+627,1,Inbound,Alewife Station
+64,0,Outbound,Oak Square
+64,1,Inbound,University Park or Kendall/MIT Station
+65,0,Outbound,Brighton Center
+65,1,Inbound,Kenmore Station
+66,0,Outbound,Harvard Square
+66,1,Inbound,Nubian Station
+67,0,Outbound,Turkey Hill
+67,1,Inbound,Alewife Station
+68,0,Outbound,Harvard Square
+68,1,Inbound,Kendall/MIT Station
+69,0,Outbound,Harvard Square
+69,1,Inbound,Lechmere Station
+70,0,Outbound,Market Place Drive or Waltham Center
+70,1,Inbound,University Park
+71,0,Outbound,Watertown Square
+71,1,Inbound,Harvard Station
+72,0,Outbound,Aberdeen Avenue
+72,1,Inbound,Harvard Station
+73,0,Outbound,Waverley Square
+73,1,Inbound,Harvard Station
+74,0,Outbound,Belmont Center
+74,1,Inbound,Harvard
+75,0,Outbound,Belmont Center
+75,1,Inbound,Harvard
+76,0,Outbound,Lincoln Lab
+76,1,Inbound,Alewife Station
+77,0,Outbound,Arlington Heights
+77,1,Inbound,Harvard Station
+78,0,Outbound,Arlmont Village
+78,1,Inbound,Harvard Station
+79,0,Outbound,Arlington Heights
+79,1,Inbound,Alewife Station
+80,0,Outbound,Arlington Center
+80,1,Inbound,Lechmere Station
+83,0,Outbound,Rindge Avenue
+83,1,Inbound,"Central Square, Cambridge"
+84,0,Outbound,Arlmont Village
+84,1,Inbound,Alewife Station
+85,0,Outbound,Spring Hill
+85,1,Inbound,Kendall/MIT Station
+86,0,Outbound,Sullivan Square Station
+86,1,Inbound,Reservoir Station
+87,0,Outbound,Clarendon Hill or Arlington Center
+87,1,Inbound,Lechmere Station
+88,0,Outbound,Clarendon Hill
+88,1,Inbound,Lechmere Station
+89,0,Outbound,Clarendon Hill or Davis Station
+89,1,Inbound,Sullivan Square Station
+8993,0,Outbound,Clarendon Hill
+8993,1,Inbound,Haymarket Station
+90,0,Outbound,Davis Station
+90,1,Inbound,Assembly Row
+91,0,Outbound,Sullivan Square Station
+91,1,Inbound,"Central Square, Cambridge"
+92,0,Outbound,Sullivan Square Station
+92,1,Inbound,Downtown
+93,0,Outbound,Sullivan Square Station
+93,1,Inbound,Downtown
+94,0,Outbound,Medford Square
+94,1,Inbound,Davis Station
+95,0,Outbound,West Medford or Arlington Center
+95,1,Inbound,Sullivan Square Station
+96,0,Outbound,Medford Square
+96,1,Inbound,Harvard Station
+97,0,Outbound,Malden Center Station
+97,1,Inbound,Wellington Station
+99,0,Outbound,Woodland Road
+99,1,Inbound,Wellington Station
+100,0,Outbound,Elm Street
+100,1,Inbound,Wellington Station
+101,0,Outbound,Malden Center Station
+101,1,Inbound,Sullivan Square Station
+104,0,Outbound,Malden Center Station
+104,1,Inbound,Sullivan Square Station
+105,0,Outbound,Malden Center Station
+105,1,Inbound,Sullivan Square Station
+106,0,Outbound,Lebanon Loop
+106,1,Inbound,Wellington Station
+108,0,Outbound,Linden Square
+108,1,Inbound,Wellington Station
+109,0,Outbound,Linden Square
+109,1,Inbound,Sullivan Square Station
+110,0,Outbound,Wonderland Station
+110,1,Inbound,Wellington Station
+111,0,Outbound,Woodlawn
+111,1,Inbound,Haymarket Station
+112,0,Outbound,Wellington Station
+112,1,Inbound,Wood Island Station
+114,0,Outbound,Market Basket
+114,1,Inbound,Maverick Station
+116,0,Outbound,Wonderland Station
+116,1,Inbound,Maverick Station
+116117,0,Outbound,Wonderland Station
+116117,1,Inbound,Maverick Station
+117,0,Outbound,Wonderland Station
+117,1,Inbound,Maverick Station
+119,0,Outbound,Northgate Shopping Center
+119,1,Inbound,Beachmont Station
+120,0,Outbound,Orient Heights Station
+120,1,Inbound,Jeffries Point
+121,0,Outbound,Wood Island Station
+121,1,Inbound,Maverick Station
+131,0,Outbound,Melrose Highlands
+131,1,Inbound,Oak Grove or Malden Center Station
+132,0,Outbound,Redstone Shopping Center
+132,1,Inbound,Malden Center Station
+134,0,Outbound,North Woburn
+134,1,Inbound,Wellington Station
+136,0,Outbound,Reading Depot
+136,1,Inbound,Malden Center Station
+137,0,Outbound,Reading Depot
+137,1,Inbound,Malden Center Station
+170,0,Outbound,Waltham Center
+170,1,Inbound,Nubian Station
+171,0,Outbound,Logan Airport Terminals
+171,1,Inbound,Nubian Station
+195,0,Outbound,Lemuel Shattuck Hospital
+195,1,Inbound,Park Street & Tremont Street
+201,0,Outbound,Fields Corner Loop
+201,1,Inbound,Fields Corner Loop
+202,0,Outbound,Fields Corner Loop
+202,1,Inbound,Fields Corner Loop
+210,0,Outbound,Quincy Center Station
+210,1,Inbound,Fields Corner Station
+211,0,Outbound,Quincy Center Station
+211,1,Inbound,Squantum
+212,0,Outbound,Quincy Center Station
+212,1,Inbound,North Quincy Station
+214,0,Outbound,Germantown
+214,1,Inbound,Quincy Center Station
+214216,0,Outbound,Houghs Neck
+214216,1,Inbound,Quincy Center Station
+215,0,Outbound,Quincy Center Station
+215,1,Inbound,Ashmont Station
+216,0,Outbound,Houghs Neck
+216,1,Inbound,Quincy Center Station
+217,0,Outbound,Quincy Center Station
+217,1,Inbound,Ashmont Station
+220,0,Outbound,Hingham Depot
+220,1,Inbound,Quincy Center Station
+221,0,Outbound,Fort Point
+221,1,Inbound,Quincy Center Station
+222,0,Outbound,East Weymouth
+222,1,Inbound,Quincy Center Station
+225,0,Outbound,Weymouth Landing
+225,1,Inbound,Quincy Center Station
+226,0,Outbound,Columbian Square
+226,1,Inbound,Braintree Station
+230,0,Outbound,Montello Station
+230,1,Inbound,Quincy Center Station
+236,0,Outbound,South Shore Plaza
+236,1,Inbound,Quincy Center Station
+238,0,Outbound,Holbrook/Randolph Station
+238,1,Inbound,Quincy Center Station
+240,0,Outbound,Avon Square
+240,1,Inbound,Ashmont Station
+245,0,Outbound,Quincy Center Station
+245,1,Inbound,Mattapan Station
+325,0,Outbound,"Elm Street, Medford"
+325,1,Inbound,Haymarket Station
+326,0,Outbound,West Medford
+326,1,Inbound,Haymarket Station
+350,0,Outbound,North Burlington
+350,1,Inbound,Alewife Station
+351,0,Outbound,Bedford Woods Drive
+351,1,Inbound,Alewife Station
+352,0,Outbound,North Burlington
+352,1,Inbound,"State Street, Boston"
+354,0,Outbound,North Burlington
+354,1,Inbound,"State Street, Boston"
+411,0,Outbound,Kennedy Drive or Jack Satter House
+411,1,Inbound,Malden Center Station
+424,0,Outbound,Eastern Avenue & Essex Street
+424,1,Inbound,Wonderland Station
+426,0,Outbound,"Central Square, Lynn"
+426,1,Inbound,Haymarket or Wonderland Station
+428,0,Outbound,Oaklandvale
+428,1,Inbound,Haymarket Station
+429,0,Outbound,Northgate Shopping Center
+429,1,Inbound,"Central Square, Lynn"
+430,0,Outbound,Saugus Center
+430,1,Inbound,Malden Center Station
+434,0,Outbound,"Main Street, Peabody"
+434,1,Inbound,Haymarket Station
+435,0,Outbound,Liberty Tree Mall
+435,1,Inbound,"Central Square, Lynn"
+436,0,Outbound,Liberty Tree Mall
+436,1,Inbound,"Central Square, Lynn"
+439,0,Outbound,Nahant
+439,1,Inbound,Wonderland Station
+441,0,Outbound,Marblehead
+441,1,Inbound,Wonderland Station
+441442,0,Outbound,Marblehead
+441442,1,Inbound,Wonderland Station
+442,0,Outbound,Marblehead
+442,1,Inbound,Wonderland Station
+450,0,Outbound,Salem Depot
+450,1,Inbound,Wonderland or Haymarket Station
+451,0,Outbound,North Beverly Station
+451,1,Inbound,Salem Depot
+455,0,Outbound,Salem Depot
+455,1,Inbound,Wonderland Station
+456,0,Outbound,Salem Depot
+456,1,Inbound,"Central Square, Lynn"
+465,0,Outbound,Danvers Square
+465,1,Inbound,Salem Depot
+501,0,Outbound,Brighton Center
+501,1,Inbound,Federal Street & Franklin Street
+502,0,Outbound,Watertown Yard
+502,1,Inbound,Copley Station
+503,0,Outbound,Brighton Center
+503,1,Inbound,Copley Square
+504,0,Outbound,Watertown Yard
+504,1,Inbound,Federal Street & Franklin Street
+505,0,Outbound,Waltham Center
+505,1,Inbound,Federal Street & Franklin Street
+553,0,Outbound,Roberts
+553,1,Inbound,Newton Corner
+554,0,Outbound,Waverley Square
+554,1,Inbound,Newton Corner
+556,0,Outbound,Waltham Highlands
+556,1,Inbound,Newton Corner
+558,0,Outbound,Riverside Station
+558,1,Inbound,Newton Corner
+710,0,Outbound,North Medford
+710,1,Inbound,Wellington Station
+712,0,Outbound,Point Shirley
+712,1,Inbound,Orient Heights Station
+713,0,Outbound,Point Shirley
+713,1,Inbound,Orient Heights Station
+714,0,Outbound,"Pemberton Point, Hull"
+714,1,Inbound,"Station Street, Hingham"
+716,0,Outbound,Cobbs Corner
+716,1,Inbound,Mattapan Station
+Shuttle-AlewifeLittletonExpress,0,Outbound,Wachusett
+Shuttle-AlewifeLittletonExpress,1,Inbound,North Station
+Shuttle-AlewifeLittletonLocal,0,Outbound,Wachusett
+Shuttle-AlewifeLittletonLocal,1,Inbound,North Station
+Shuttle-BabcockKenmore,0,West,Boston College
+Shuttle-BabcockKenmore,1,East,Park Street
+Shuttle-BeverlyRockport,0,Outbound,Rockport
+Shuttle-BeverlyRockport,1,Inbound,North Station
+Shuttle-KenmoreWashington,0,West,Boston College
+Shuttle-KenmoreWashington,1,East,Park Street
+Shuttle-NewburyportSalem,0,Outbound,Newburyport
+Shuttle-NewburyportSalem,1,Inbound,North Station
+Shuttle-OakGroveSullivan,0,South,Forest Hills
+Shuttle-OakGroveSullivan,1,North,Oak Grove
+Shuttle-ReservoirRiverside,0,West,Riverside
+Shuttle-ReservoirRiverside,1,East,Government Center
+Shuttle-RockportSalem,0,Outbound,Rockport
+Shuttle-RockportSalem,1,Inbound,North Station
+Shuttle-RockportWestGloucester,0,Outbound,Rockport
+Shuttle-RockportWestGloucester,1,Inbound,North Station
+Shuttle-ManchesterGloucester,0,Outbound,Gloucester
+Shuttle-ManchesterRockport,0,Outbound,Rockport
+602,0,West,North Station
+602,1,East,Lechmere
