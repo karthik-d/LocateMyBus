@@ -8,8 +8,8 @@ IoT and ML to assuage the uncertainty associated with bus commute. Allows commut
 
 ## Quick Links
 
-- Research Funding Proposal Slides [[PDF]](./docs/research-proposal_slides.pdf)
 - Project Completion Report Slides [[PDF]](./docs/completion-report_slides.pdf)
+- Research Funding Proposal Slides [[PDF]](./docs/research-proposal_slides.pdf)
 
 ## System Architecture
 
