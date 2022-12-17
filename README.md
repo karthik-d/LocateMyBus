@@ -4,7 +4,7 @@
 
 > **Please note** that this work is part of an ongoing research project. Hence, some portions of the implementation code have not been made public through this repository.
 
-IoT and ML to assuage the uncertainty associated with bus commute. Allows commuters to track live running status and avail tentative schedule of buses. Live running status is displayed for buses in transit, and an estimated schedule is produced for planned future transits. 
+This project applies IoT and ML to assuage the uncertainty associated with bus commute. Allows commuters to track live running status and avail tentative schedule of buses. Live running status is displayed for buses in transit, and an estimated schedule is produced for planned future transits. 
 
 ## Quick Links
 
