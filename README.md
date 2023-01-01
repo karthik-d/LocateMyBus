@@ -21,6 +21,8 @@ This project applies IoT and ML to assuage the uncertainty associated with bus c
 
 ## Web Interface Pages
 
+Web-based user interface for live-tracking and tentative schedule display. 
+
 - **Track live running status**
   ![live-status](/assets/images/dumps/web-livestatus.png)
   
