@@ -8,26 +8,29 @@ This project applies IoT and ML to assuage the uncertainty associated with bus c
 
 ## Quick Links
 
-- Project Completion Report [[PDF Slides]](./docs/completion-report_slides.pdf)
-- Research Funding Proposal [[PDF Slides]](./docs/research-proposal_slides.pdf)
+- [Project Completion Report](./docs/completion-report_slides.pdf) [slides]
+- [Research Funding Proposal](./docs/research-proposal_slides.pdf) [slides]
 
 ## System Architecture
 
-![system-architecture](/assets/images/overall-architecture.png)
+<img src="./assets/images/overall-architecture.png" width="600" />
 
 ## Schedule Prediction Workflow
 
-![schedule-prediction](/assets/images/model-flow.png)
+<img src="./assets/images/model-flow.png" width="650" />
 
 ## Web Interface Pages
 
 Web-based user interface for live-tracking and tentative schedule display. 
 
-- **Track live running status**
-  ![live-status](/assets/images/dumps/web-livestatus.png)
+- **Track live running status**: Viewer interface to access the current running status of in-transit buses, accurate to the granularity of its last passed bus stop.
+    
+  <img src="./assets/images/dumps/web-livestatus.png" width="650" alt="web-live-status" />
   
-- **Schedule Prediction**
-  ![live-status](/assets/images/dumps/web-predict.png)
+- **Schedule Prediction**: Interface to display the estimated schedule of buses on a given future date, predicted by the machine learning algorithm based on historical data and dynamic day-specific factors.   
+   
+  <img src="./assets/images/dumps/web-predict.png" width="650" alt="web-schedule-prediction" />
 
-- **Search for buses between stops**
-  ![search](/assets/images/dumps/web-search.png)
+- **Search for buses between stops**: Interface to inquire buses and schedules between two stops.  
+   
+  <img src="./assets/images/dumps/web-search.png" width="650" alt="web-search" />
