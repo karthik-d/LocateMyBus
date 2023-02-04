@@ -27,7 +27,7 @@ Web-based user interface for live-tracking and tentative schedule display.
     
   <img src="./assets/images/dumps/web-livestatus.png" width="650" alt="web-live-status" />
   
-- **Schedule Prediction**: Interface to display the estimated schedule of buses on a given future date, predicted by the machine learning algorithm based on historical data and dynamic day-specific factors.   
+- **Schedule prediction**: Interface to display the estimated schedule of buses on a given future date, predicted by the proposed machine learning algorithm that incorporates dynamic day-specific factors with historical data.   
    
   <img src="./assets/images/dumps/web-predict.png" width="650" alt="web-schedule-prediction" />
 
