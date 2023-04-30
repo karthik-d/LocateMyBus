@@ -8,8 +8,8 @@ This project applies IoT and ML to assuage the uncertainty associated with bus c
 
 ## Quick Links
 
-- [Project Completion Report](./docs/completion-report_slides.pdf) [slides]
-- [Research Funding Proposal](./docs/research-proposal_slides.pdf) [slides]
+- [Project Completion Report (slides)](./docs/completion-report_slides.pdf)
+- [Research Funding Proposal (slides)](./docs/research-proposal_slides.pdf)
 
 ## Cite Us
 
