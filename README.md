@@ -1,4 +1,4 @@
-# LocateMyBus: IoT-Driven Smart Bus Transit
+# LocateMyBus: IoT-driven Smart Bus Transit
 
 > This project was funded by the [Research Center](https://www.ssn.edu.in/research-centre-ssn-institutions/) at [Sri Sivasubramaniya Nadar College of Engineering (SSNCE), TN, India](https://www.ssn.edu.in/), and carried out in collaboration with the [Computer Science Department at SSNCE](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/).
 
@@ -10,6 +10,27 @@ This project applies IoT and ML to assuage the uncertainty associated with bus c
 
 - [Project Completion Report](./docs/completion-report_slides.pdf) [slides]
 - [Research Funding Proposal](./docs/research-proposal_slides.pdf) [slides]
+
+## Cite Us
+
+[Link to the Research Paper](https://jcoms.fesb.unist.hr/pdfs/v19n2_2022-0143_Desingu.pdf)
+
+If you find our work useful in your research, don't forget to cite us:
+
+```
+@article{desingu2023locatemybus,
+  author   = {Karthik Desingu and Daniel Mark Isaac and Mirunalini P. and Bharathi B. and Cherry Mathew Philipose},
+  title    = {LocateMyBus: IoT-Driven Smart Bus Transit},
+  journal  = {Journal of Communications Software and Systems},
+  month    = {4},
+  year     = {2023},
+  volume   = {19},
+  number   = {2},
+  pages    = {136--146},
+  doi      = {10.24138/jcomss-2022-0143},
+  url      = {https://doi.org/10.24138/jcomss-2022-0143}
+}
+```
 
 ## System Architecture
 
