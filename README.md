@@ -7,7 +7,7 @@
 - IoT and ML to assuage the uncertainty associated with city bus commute. 
 - Allows commuters to track live running status and avail tentative schedule of buses. 
 - Live running status for buses in transit; Estimated schedule for planned future transits. 
-- Minimal IoT setup architecture with a central ML-driven web-backend.
+- IoT architecture with a central ML-driven web-backend.
 
 ## Quick Links
 
