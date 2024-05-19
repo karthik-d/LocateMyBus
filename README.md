@@ -2,7 +2,7 @@
 
 > This project was funded by the [Research Center](https://www.ssn.edu.in/research-centre-ssn-institutions/) at [Sri Sivasubramaniya Nadar College of Engineering (SSNCE), TN, India](https://www.ssn.edu.in/) and carried out in collaboration with the [Computer Science Department at SSNCE](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/).
 
-- Internet of Things (IoT) and Machine Learning (ML) to assuage the uncertainty associated with city bus commute. 
+- Internet of Things (IoT) and Machine Learning (ML) to assuage the uncertainty in city bus schedules. 
 - Allows commuters to track live running status and avail tentative schedule of buses. 
 - Live running status for buses in transit; estimated schedule for planned future transits. 
 - IoT architecture to log and track bus arrivals using RF-based short-range communication beacons.
@@ -17,8 +17,8 @@
 
 [Link to the Research Paper](https://jcoms.fesb.unist.hr/pdfs/v19n2_2022-0143_Desingu.pdf).
 
-If you find our work useful in your research, don't forget to cite us:
-
+If you find our work useful in your research, cite us.    
+`BibTeX`:
 ```
 @article{desingu2023locatemybus,
   author   = {Karthik Desingu and Daniel Mark Isaac and Mirunalini P. and Bharathi B. and Cherry Mathew Philipose},
