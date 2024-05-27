@@ -10,15 +10,16 @@
 
 ## Quick Links
 
+- [Link to online research article [HTML]](https://jcoms.fesb.unist.hr/pdfs/v19n2_2022-0143_Desingu.pdf).
+- [Published manuscript [PDF]](./docs/manuscript.pdf).
 - [Project Completion Report [PDF Slides]](./docs/completion-report_slides.pdf).
 - [Research Funding Proposal [PDF Slides]](./docs/research-proposal_slides.pdf).
 
 ## Cite Us
 
+If you find our work useful in your research, cite us.    
 [Link to the Research Paper](https://jcoms.fesb.unist.hr/pdfs/v19n2_2022-0143_Desingu.pdf).
 
-If you find our work useful in your research, cite us.    
-`BibTeX`:
 ```
 @article{desingu2023locatemybus,
   author   = {Karthik Desingu and Daniel Mark Isaac and Mirunalini P. and Bharathi B. and Cherry Mathew Philipose},
